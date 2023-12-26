@@ -1,0 +1,3 @@
+download.avm.de/inhaus/MOVE21NL1/600v2/FRITZ.Repeater_600v2-07.51-105207-Inhaus.image
+download.avm.de/inhaus/MOVE21NL1/600v2/FRITZ.Repeater_600v2-07.51-105429-Inhaus.image
+download.avm.de/inhaus/MOVE21NL1/600v2/FRITZ.Repeater_600v2-07.51-105600-Inhaus.image
