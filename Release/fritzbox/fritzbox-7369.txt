@@ -1,4 +1,4 @@
-download.avm.de/fritzbox/fritzbox-7369/other/fritz.os/FRITZ.Box_7369.en-de-es-it-fr-pl.119.06.34.image
-download.avm.de/fritzbox/fritzbox-7369/other/fritz.os/FRITZ.Box_7369.en-de-es-it-fr-pl.119.06.32.image
-download.avm.de/fritzbox/fritzbox-7369/other/fritz.os/FRITZ.Box_7369.en-de-es-it-fr-pl.119.06.31.image
 download.avm.de/fritzbox/fritzbox-7369/other/fritz.os/FRITZ.Box_7369.en-de-es-it-fr-pl.119.06.30.image
+download.avm.de/fritzbox/fritzbox-7369/other/fritz.os/FRITZ.Box_7369.en-de-es-it-fr-pl.119.06.31.image
+download.avm.de/fritzbox/fritzbox-7369/other/fritz.os/FRITZ.Box_7369.en-de-es-it-fr-pl.119.06.32.image
+download.avm.de/fritzbox/fritzbox-7369/other/fritz.os/FRITZ.Box_7369.en-de-es-it-fr-pl.119.06.34.image

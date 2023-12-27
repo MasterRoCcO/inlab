@@ -1,4 +1,4 @@
-download.avm.de/labor/MOVE21/1200AX/FRITZ.Repeater_1200_AX-07.39-104706-LabBETA.image
-download.avm.de/labor/MOVE21/1200AX/FRITZ.Repeater_1200_AX-07.39-104564-LabBETA.image
-download.avm.de/labor/MOVE21/1200AX/FRITZ.Repeater_1200_AX-07.39-103436-LabBETA.image
 download.avm.de/labor/MOVE21/1200AX/FRITZ.Repeater_1200_AX-07.39-101162-LabBETA.image
+download.avm.de/labor/MOVE21/1200AX/FRITZ.Repeater_1200_AX-07.39-103436-LabBETA.image
+download.avm.de/labor/MOVE21/1200AX/FRITZ.Repeater_1200_AX-07.39-104564-LabBETA.image
+download.avm.de/labor/MOVE21/1200AX/FRITZ.Repeater_1200_AX-07.39-104706-LabBETA.image

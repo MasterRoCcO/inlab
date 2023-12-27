@@ -1,7 +1,7 @@
-download.avm.de/fritzbox/fritzbox-7150/firmware/FRITZ.Fon_7150.AnnexB.38.04.72.image
-download.avm.de/fritzbox/fritzbox-7150/firmware/FRITZ.Fon_7150.AnnexB.38.04.71.image
-download.avm.de/fritzbox/fritzbox-7150/firmware/FRITZ.Fon_7150.AnnexB.38.04.56.image
+download.avm.de/fritzbox/fritzbox-7150/dect-firmware/FRITZ.Fon_7150.AnnexB.dect_update-vbf003212-26-A.image
 download.avm.de/fritzbox/fritzbox-7150/firmware/FRITZ.Fon_7150.AnnexB.38.04.32.image
 download.avm.de/fritzbox/fritzbox-7150/firmware/FRITZ.Fon_7150.AnnexB.38.04.30.image
+download.avm.de/fritzbox/fritzbox-7150/firmware/FRITZ.Fon_7150.AnnexB.38.04.56.image
 download.avm.de/fritzbox/fritzbox-7150/firmware/FRITZ.Fon_7150.AnnexB.38.04.27.image
-download.avm.de/fritzbox/fritzbox-7150/dect-firmware/FRITZ.Fon_7150.AnnexB.dect_update-vbf003212-26-A.image
+download.avm.de/fritzbox/fritzbox-7150/firmware/FRITZ.Fon_7150.AnnexB.38.04.71.image
+download.avm.de/fritzbox/fritzbox-7150/firmware/FRITZ.Fon_7150.AnnexB.38.04.72.image
