@@ -1,7 +1,7 @@
-download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101125-Inhaus.image
-download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101287-Inhaus.image
-download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101427-Inhaus.image
-download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101690-Inhaus.image
-download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-102280-Inhaus.image
-download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-102495-Inhaus.image
 download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-102540-Inhaus.image
+download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-102495-Inhaus.image
+download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-102280-Inhaus.image
+download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101690-Inhaus.image
+download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101427-Inhaus.image
+download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101287-Inhaus.image
+download.avm.de/inhaus/MOVE21/FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101125-Inhaus.image

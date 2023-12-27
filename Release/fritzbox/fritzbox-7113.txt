@@ -1,16 +1,16 @@
-download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.40.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.de-en-es-it-fr.90.04.86.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.de-en-es-it-fr.90.04.85.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexB.60.04.77.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexB.60.04.77-freenet.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexB.60.04.62.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexA.de-en-es-it-fr.90.04.84.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexA.de-en-es-it-fr.90.04.82.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ!Box Fon WLAN 7113 Annex A de-en-es-it-fr 90.04.82.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.68.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.67.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.61.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.59.image
 download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.58.image
 download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.57.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.59.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.61.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.67.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.68.image
+download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.40.image
 download.avm.de/fritzbox/fritzbox-7113/firmware/deutsch_a-ch/FRITZ.Box_Fon_WLAN_7113.de-en-es-it-fr.90.04.86.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ!Box Fon WLAN 7113 Annex A de-en-es-it-fr 90.04.82.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexA.de-en-es-it-fr.90.04.82.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexA.de-en-es-it-fr.90.04.84.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexB.60.04.62.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexB.60.04.77-freenet.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexB.60.04.77.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.de-en-es-it-fr.90.04.85.image
-download.avm.de/fritzbox/fritzbox-7113/firmware/english/FRITZ.Box_Fon_WLAN_7113.de-en-es-it-fr.90.04.86.image

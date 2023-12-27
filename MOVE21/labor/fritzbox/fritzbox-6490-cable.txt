@@ -1,3 +1,3 @@
-download.avm.de/labor/MOVE21/6490Cable/FRITZ.Box_6490_Cable-07.39-101216-LabBETA.image
-download.avm.de/labor/MOVE21/6490Cable/FRITZ.Box_6490_Cable-07.39-101544-LabBETA.image
 download.avm.de/labor/MOVE21/6490Cable/FRITZ.Box_6490_Cable-07.39-101859-LabBETA.image
+download.avm.de/labor/MOVE21/6490Cable/FRITZ.Box_6490_Cable-07.39-101544-LabBETA.image
+download.avm.de/labor/MOVE21/6490Cable/FRITZ.Box_6490_Cable-07.39-101216-LabBETA.image

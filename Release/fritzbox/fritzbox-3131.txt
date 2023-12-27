@@ -1,5 +1,5 @@
+download.avm.de/fritzbox/fritzbox-3131/firmware/deutsch/fritz.box_wlan_3131.50.04.57.image
+download.avm.de/fritzbox/fritzbox-3131/firmware/deutsch/fritz.box_wlan_3131.50.04.52.image
+download.avm.de/fritzbox/fritzbox-3131/firmware/deutsch/fritz.box_wlan_3131.50.04.50.image
 download.avm.de/fritzbox/fritzbox-3131/firmware/deutsch/fritz.box_wlan_3131.50.04.34.image
 download.avm.de/fritzbox/fritzbox-3131/firmware/deutsch/fritz.box_wlan_3131.50.04.31.image
-download.avm.de/fritzbox/fritzbox-3131/firmware/deutsch/fritz.box_wlan_3131.50.04.50.image
-download.avm.de/fritzbox/fritzbox-3131/firmware/deutsch/fritz.box_wlan_3131.50.04.52.image
-download.avm.de/fritzbox/fritzbox-3131/firmware/deutsch/fritz.box_wlan_3131.50.04.57.image
