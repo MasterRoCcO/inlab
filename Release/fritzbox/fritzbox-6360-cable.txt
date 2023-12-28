@@ -1,3 +1,0 @@
-download.avm.de/fritzbox/fritzbox-6360-cable/firmware/deutsch/FRITZ.Box_6360_Cable.85.06.04.image
-download.avm.de/fritzbox/fritzbox-6360-cable/firmware/deutsch/FRITZ.Box_6360_Cable.85.06.51-35033.image
-download.avm.de/fritzbox/fritzbox-6360-cable/version_kdg/6360.85.04.89-19078.073008002010.image

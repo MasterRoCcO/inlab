@@ -1,4 +1,0 @@
-download.avm.de/fritzbox/fritzbox-3070/firmware/fritz.box_wlan_3070.19.03.99.image
-download.avm.de/fritzbox/fritzbox-3070/firmware/fritz.box_wlan_3070.19.03.87.image
-download.avm.de/fritzbox/fritzbox-3070/firmware/fritz.box_wlan_3070.19.04.07.image
-download.avm.de/fritzbox/fritzbox-3070/firmware/fritz.box_wlan_3070.19.04.15.image

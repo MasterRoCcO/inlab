@@ -1,4 +1,0 @@
-download.avm.de/fritzbox/fritzbox-2070/firmware/deutsch/fritz.box_2070.20.03.87.image
-download.avm.de/fritzbox/fritzbox-2070/firmware/deutsch/FRITZ!Box 2070 20.04.15.image
-download.avm.de/fritzbox/fritzbox-2070/firmware/deutsch/fritz.box_2070.20.03.99.image
-download.avm.de/fritzbox/fritzbox-2070/firmware/deutsch/fritz.box_2070.20.04.15.image

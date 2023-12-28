@@ -1,2 +1,0 @@
-download.avm.de/fritzbox/fritzfon.7150/dect-firmware/FRITZ.Fon_7150.AnnexB.dect_update-vbf003212-26-A.image
-download.avm.de/fritzbox/fritzfon.7150/firmware/FRITZ.Fon_7150.AnnexB.38.04.72.image
