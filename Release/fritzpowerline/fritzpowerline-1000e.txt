@@ -26,14 +26,3 @@ download.avm.de/fritzpowerline/fritzpowerline-1000e/deutschland/fritz.os/fritz.p
 download.avm.de/fritzpowerline/fritzpowerline-1000e/deutschland/fritz.os/fritz.powerline_1000E_280_01_tr069_37.image
 download.avm.de/fritzpowerline/fritzpowerline-1000e/deutschland/recover/fritz.powerline_1000E_200_03_10.image
 download.avm.de/fritzpowerline/fritzpowerline-1000e/deutschland/recover/fritz.powerline_1000E_200_03_200.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-t/other/fritz.os/fritz.powerline_1000ET_01_05.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-t/deutschland/fritz.os/fritz.powerline_1000ET_01_00.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-t/deutschland/fritz.os/fritz.powerline_1000ET_01_05.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-v2/other/fritz.os/fritz.powerline_1000E_v2_2120_01_tr069_2.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-v2/other/fritz.os/fritz.powerline_1000E_v2_2130_01_tr069_3.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-v2/other/fritz.os/fritz.powerline_1000E_v2_2130_00_tr069_2.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-v2/other/fritz.os/fritz.powerline_1000E_v2_2130_02_tr069_3.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-v2/deutschland/fritz.os/fritz.powerline_1000E_v2_2120_01_tr069_2.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-v2/deutschland/fritz.os/fritz.powerline_1000E_v2_2130_00_tr069_2.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-v2/deutschland/fritz.os/fritz.powerline_1000E_v2_2130_02_tr069_3.image
-download.avm.de/fritzpowerline/fritzpowerline-1000e-v2/deutschland/fritz.os/fritz.powerline_1000E_v2_2130_01_tr069_3.image
