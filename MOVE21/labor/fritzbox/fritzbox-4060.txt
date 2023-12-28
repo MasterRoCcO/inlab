@@ -1,4 +1,4 @@
-download.avm.de/labor/MOVE21/4060/FRITZ.Box_4060-07.39-100991-LabBETA.image
-download.avm.de/labor/MOVE21/4060/FRITZ.Box_4060-07.39-101164-LabBETA.image
-download.avm.de/labor/MOVE21/4060/FRITZ.Box_4060-07.39-101355-LabBETA.image
-download.avm.de/labor/MOVE21/4060/FRITZ.Box_4060-07.39-101546-LabBETA.image
+labor/MOVE21/4060/FRITZ.Box_4060-07.39-100991-LabBETA.image
+labor/MOVE21/4060/FRITZ.Box_4060-07.39-101164-LabBETA.image
+labor/MOVE21/4060/FRITZ.Box_4060-07.39-101355-LabBETA.image
+labor/MOVE21/4060/FRITZ.Box_4060-07.39-101546-LabBETA.image

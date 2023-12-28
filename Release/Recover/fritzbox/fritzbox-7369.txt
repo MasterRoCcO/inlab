@@ -1,1 +1,1 @@
-download.avm.de/fritzbox/fritzbox-7369/other/recover/fritz.box_7369.en-de-es-it-fr-pl.06.34.recover.exe
+fritzbox/fritzbox-7369/other/recover/fritz.box_7369.en-de-es-it-fr-pl.06.34.recover.exe

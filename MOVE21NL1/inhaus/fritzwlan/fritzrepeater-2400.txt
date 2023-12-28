@@ -1,4 +1,4 @@
-download.avm.de/inhaus/MOVE21NL1/2400/FRITZ.Repeater_2400-07.51-104595-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/2400/FRITZ.Repeater_2400-07.51-105213-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/2400/FRITZ.Repeater_2400-07.51-105604-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/2400/FRITZ.Repeater_2400-07.51-106222-Inhaus.image
+inhaus/MOVE21NL1/2400/FRITZ.Repeater_2400-07.51-104595-Inhaus.image
+inhaus/MOVE21NL1/2400/FRITZ.Repeater_2400-07.51-105213-Inhaus.image
+inhaus/MOVE21NL1/2400/FRITZ.Repeater_2400-07.51-105604-Inhaus.image
+inhaus/MOVE21NL1/2400/FRITZ.Repeater_2400-07.51-106222-Inhaus.image

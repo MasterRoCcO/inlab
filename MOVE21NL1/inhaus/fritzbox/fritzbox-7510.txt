@@ -1,5 +1,5 @@
-download.avm.de/inhaus/MOVE21NL1/7510/FRITZ.Box_7510-07.51-104466-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/7510/FRITZ.Box_7510-07.51-104838-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/7510/FRITZ.Box_7510-07.51-105028-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/7510/FRITZ.Box_7510-07.51-105187-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/7510/FRITZ.Box_7510-07.51-106578-Inhaus.image
+inhaus/MOVE21NL1/7510/FRITZ.Box_7510-07.51-104466-Inhaus.image
+inhaus/MOVE21NL1/7510/FRITZ.Box_7510-07.51-104838-Inhaus.image
+inhaus/MOVE21NL1/7510/FRITZ.Box_7510-07.51-105028-Inhaus.image
+inhaus/MOVE21NL1/7510/FRITZ.Box_7510-07.51-105187-Inhaus.image
+inhaus/MOVE21NL1/7510/FRITZ.Box_7510-07.51-106578-Inhaus.image

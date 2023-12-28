@@ -1,7 +1,7 @@
-download.avm.de/fritzbox/fritzbox-7272/other/recover/FRITZ.Box_7272-06.87-recover.exe
-download.avm.de/fritzbox/fritzbox-7272/other/recover/FRITZ.Box_7272-06.86.exe
-download.avm.de/fritzbox/fritzbox-7272/other/recover/FRITZ.Box_7272.en-de-es-it-fr-pl.06.88.exe
-download.avm.de/fritzbox/fritzbox-7272/deutschland/recover/FRITZ.Box_7272.06.88-recover.exe
-download.avm.de/fritzbox/fritzbox-7272/deutschland/recover/FRITZ.Box_7272.06.89.exe
-download.avm.de/fritzbox/fritzbox-7272/deutschland/recover/fritz.box_7272-06.86-recover.exe
-download.avm.de/fritzbox/fritzbox-7272/deutschland/recover/fritz.box_7272-06.87-recover.exe
+fritzbox/fritzbox-7272/other/recover/FRITZ.Box_7272-06.87-recover.exe
+fritzbox/fritzbox-7272/other/recover/FRITZ.Box_7272-06.86.exe
+fritzbox/fritzbox-7272/other/recover/FRITZ.Box_7272.en-de-es-it-fr-pl.06.88.exe
+fritzbox/fritzbox-7272/deutschland/recover/FRITZ.Box_7272.06.88-recover.exe
+fritzbox/fritzbox-7272/deutschland/recover/FRITZ.Box_7272.06.89.exe
+fritzbox/fritzbox-7272/deutschland/recover/fritz.box_7272-06.86-recover.exe
+fritzbox/fritzbox-7272/deutschland/recover/fritz.box_7272-06.87-recover.exe

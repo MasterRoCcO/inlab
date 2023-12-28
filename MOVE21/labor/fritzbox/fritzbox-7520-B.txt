@@ -1,2 +1,2 @@
-download.avm.de/labor/MOVE21/7520B/FRITZ.Box_7520_B-07.39-101997-LabBETA.image
-download.avm.de/labor/MOVE21/7520B/FRITZ.Box_7520_B-07.39-102327-LabBETA.image
+labor/MOVE21/7520B/FRITZ.Box_7520_B-07.39-101997-LabBETA.image
+labor/MOVE21/7520B/FRITZ.Box_7520_B-07.39-102327-LabBETA.image

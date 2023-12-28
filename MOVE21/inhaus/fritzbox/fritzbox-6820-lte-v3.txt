@@ -1,1 +1,1 @@
-download.avm.de/inhaus/MOVE21/6820v3LTE/FRITZ.Box_6820v3_LTE-07.39-101697-Inhaus.image
+inhaus/MOVE21/6820v3LTE/FRITZ.Box_6820v3_LTE-07.39-101697-Inhaus.image

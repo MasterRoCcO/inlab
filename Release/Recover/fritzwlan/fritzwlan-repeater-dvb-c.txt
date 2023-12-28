@@ -1,4 +1,4 @@
-download.avm.de/fritzwlan/fritzwlan-repeater-dvb-c/deutschland/recover/FRITZ.Box_WLAN_Repeater_DVB_C.en-de-es-it-fr-pl.07.02.recover.exe
-download.avm.de/fritzwlan/fritzwlan-repeater-dvb-c/deutschland/recover/FRITZ.Box_WLAN_Repeater_DVB_C.en-de-es-it-fr-pl.07.03.recover.exe
-download.avm.de/fritzwlan/fritzwlan-repeater-dvb-c/other/recover/FRITZ.Box_WLAN_Repeater_DVB_C.en-de-es-it-fr-pl.07.02.recover.exe
-download.avm.de/fritzwlan/fritzwlan-repeater-dvb-c/other/recover/FRITZ.Box_WLAN_Repeater_DVB_C.en-de-es-it-fr-pl.07.03.recover.exe
+fritzwlan/fritzwlan-repeater-dvb-c/deutschland/recover/FRITZ.Box_WLAN_Repeater_DVB_C.en-de-es-it-fr-pl.07.02.recover.exe
+fritzwlan/fritzwlan-repeater-dvb-c/deutschland/recover/FRITZ.Box_WLAN_Repeater_DVB_C.en-de-es-it-fr-pl.07.03.recover.exe
+fritzwlan/fritzwlan-repeater-dvb-c/other/recover/FRITZ.Box_WLAN_Repeater_DVB_C.en-de-es-it-fr-pl.07.02.recover.exe
+fritzwlan/fritzwlan-repeater-dvb-c/other/recover/FRITZ.Box_WLAN_Repeater_DVB_C.en-de-es-it-fr-pl.07.03.recover.exe

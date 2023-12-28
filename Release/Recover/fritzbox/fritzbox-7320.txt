@@ -1,1 +1,1 @@
-download.avm.de/fritzbox/fritzbox-7320/x_misc/deutsch/fritz.box_fon_wlan_7320-06.34.recover.exe
+fritzbox/fritzbox-7320/x_misc/deutsch/fritz.box_fon_wlan_7320-06.34.recover.exe

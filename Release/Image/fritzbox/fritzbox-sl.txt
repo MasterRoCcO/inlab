@@ -1,4 +1,4 @@
-download.avm.de/fritzbox/fritzbox-sl/firmware/fritz.box_sl.10.03.48.image
-download.avm.de/fritzbox/fritzbox-sl/firmware/fritz.box_sl.10.03.93.image
-download.avm.de/fritzbox/fritzbox-sl/firmware/fritz.box_sl.10.03.94.image
-download.avm.de/fritzbox/fritzbox-sl/firmware/fritz.box_sl.10.03.92.image
+fritzbox/fritzbox-sl/firmware/fritz.box_sl.10.03.48.image
+fritzbox/fritzbox-sl/firmware/fritz.box_sl.10.03.93.image
+fritzbox/fritzbox-sl/firmware/fritz.box_sl.10.03.94.image
+fritzbox/fritzbox-sl/firmware/fritz.box_sl.10.03.92.image

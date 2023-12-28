@@ -1,2 +1,2 @@
-download.avm.de/labor/MOVE21NL1/5590Fiber/FRITZ.Box_5590_Fiber-07.51-105310-LabBETA.image
-download.avm.de/labor/MOVE21NL1/5590Fiber/FRITZ.Box_5590_Fiber-07.51-106820-LabBETA.image
+labor/MOVE21NL1/5590Fiber/FRITZ.Box_5590_Fiber-07.51-105310-LabBETA.image
+labor/MOVE21NL1/5590Fiber/FRITZ.Box_5590_Fiber-07.51-106820-LabBETA.image

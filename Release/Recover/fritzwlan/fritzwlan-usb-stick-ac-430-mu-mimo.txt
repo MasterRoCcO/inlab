@@ -1,8 +1,8 @@
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_32Bit_Build_170420.exe
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_32Bit_Build_171121.exe
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_64Bit_Build_170420.exe
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_64Bit_Build_171121.exe
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/other/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_32Bit_english_Build_170420e.exe
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/other/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_64Bit_english_Build_170420e.exe
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/other/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_english_Build_171121.exe
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/other/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_x64_english_Build_171121.exe
+fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_32Bit_Build_170420.exe
+fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_32Bit_Build_171121.exe
+fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_64Bit_Build_170420.exe
+fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_64Bit_Build_171121.exe
+fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/other/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_32Bit_english_Build_170420e.exe
+fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/other/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_64Bit_english_Build_170420e.exe
+fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/other/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_english_Build_171121.exe
+fritzwlan/fritzwlan-usb-stick-ac-430-mu-mimo/other/fritz.os/avm_fritz!wlanusb_stick_ac430_mu_mimo_x64_english_Build_171121.exe

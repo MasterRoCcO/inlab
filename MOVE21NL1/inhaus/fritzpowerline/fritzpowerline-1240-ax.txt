@@ -1,3 +1,3 @@
-download.avm.de/inhaus/MOVE21NL1/1240AX/FRITZ.Powerline_1240_AX-07.51-105090-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/1240AX/FRITZ.Powerline_1240_AX-07.51-105150-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/1240AX/FRITZ.Powerline_1240_AX-07.51-106084-Inhaus.image
+inhaus/MOVE21NL1/1240AX/FRITZ.Powerline_1240_AX-07.51-105090-Inhaus.image
+inhaus/MOVE21NL1/1240AX/FRITZ.Powerline_1240_AX-07.51-105150-Inhaus.image
+inhaus/MOVE21NL1/1240AX/FRITZ.Powerline_1240_AX-07.51-106084-Inhaus.image

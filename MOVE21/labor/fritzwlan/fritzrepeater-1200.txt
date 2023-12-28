@@ -1,2 +1,2 @@
-download.avm.de/labor/MOVE21/1200/FRITZ.Repeater_1200-07.39-102237-LabBETA.image
-download.avm.de/labor/MOVE21/1200/FRITZ.Repeater_1200-07.39-103439-LabBETA.image
+labor/MOVE21/1200/FRITZ.Repeater_1200-07.39-102237-LabBETA.image
+labor/MOVE21/1200/FRITZ.Repeater_1200-07.39-103439-LabBETA.image

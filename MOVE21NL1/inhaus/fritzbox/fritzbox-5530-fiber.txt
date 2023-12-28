@@ -1,5 +1,5 @@
-download.avm.de/inhaus/MOVE21NL1/5530Fiber/FRITZ.Box_5530_Fiber-07.51-105006-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/5530Fiber/FRITZ.Box_5530_Fiber-07.51-105159-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/5530Fiber/FRITZ.Box_5530_Fiber-07.51-105544-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/5530Fiber/FRITZ.Box_5530_Fiber-07.51-106154-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/5530Fiber/FRITZ.Box_5530_Fiber-07.51-106774-Inhaus.image
+inhaus/MOVE21NL1/5530Fiber/FRITZ.Box_5530_Fiber-07.51-105006-Inhaus.image
+inhaus/MOVE21NL1/5530Fiber/FRITZ.Box_5530_Fiber-07.51-105159-Inhaus.image
+inhaus/MOVE21NL1/5530Fiber/FRITZ.Box_5530_Fiber-07.51-105544-Inhaus.image
+inhaus/MOVE21NL1/5530Fiber/FRITZ.Box_5530_Fiber-07.51-106154-Inhaus.image
+inhaus/MOVE21NL1/5530Fiber/FRITZ.Box_5530_Fiber-07.51-106774-Inhaus.image

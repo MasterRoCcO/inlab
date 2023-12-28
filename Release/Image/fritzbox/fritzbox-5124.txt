@@ -1,6 +1,6 @@
-download.avm.de/fritzbox/fritzbox-5124/firmware/english/annex_a/FRITZ.Box_Fon_5124.AnnexA.en.57.04.47.image
-download.avm.de/fritzbox/fritzbox-5124/firmware/english/annex_a/FRITZ.Box_Fon_5124.AnnexA.en.57.04.76.image
-download.avm.de/fritzbox/fritzbox-5124/firmware/english/annex_a/FRITZ.Box_Fon_5124.AnnexA.en.57.04.77.image
-download.avm.de/fritzbox/fritzbox-5124/firmware/english/annex_b/FRITZ.Box_Fon_5124.AnnexB.en.56.04.47.image
-download.avm.de/fritzbox/fritzbox-5124/firmware/english/annex_b/FRITZ.Box_Fon_5124.AnnexB.en.56.04.76.image
-download.avm.de/fritzbox/fritzbox-5124/firmware/english/annex_b/FRITZ.Box_Fon_5124.AnnexB.en.56.04.77.image
+fritzbox/fritzbox-5124/firmware/english/annex_a/FRITZ.Box_Fon_5124.AnnexA.en.57.04.47.image
+fritzbox/fritzbox-5124/firmware/english/annex_a/FRITZ.Box_Fon_5124.AnnexA.en.57.04.76.image
+fritzbox/fritzbox-5124/firmware/english/annex_a/FRITZ.Box_Fon_5124.AnnexA.en.57.04.77.image
+fritzbox/fritzbox-5124/firmware/english/annex_b/FRITZ.Box_Fon_5124.AnnexB.en.56.04.47.image
+fritzbox/fritzbox-5124/firmware/english/annex_b/FRITZ.Box_Fon_5124.AnnexB.en.56.04.76.image
+fritzbox/fritzbox-5124/firmware/english/annex_b/FRITZ.Box_Fon_5124.AnnexB.en.56.04.77.image

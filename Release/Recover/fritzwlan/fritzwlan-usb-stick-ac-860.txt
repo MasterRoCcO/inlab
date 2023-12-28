@@ -1,4 +1,4 @@
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-860/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac860_32Bit_build_150706.exe
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-860/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac860_64Bit_build_150706.exe
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-860/other/fritz.os/avm_fritz!wlanusb_stick_ac860_32Bit_english_build_150706.exe
-download.avm.de/fritzwlan/fritzwlan-usb-stick-ac-860/other/fritz.os/avm_fritz!wlanusb_stick_ac860_64Bit_english_build_150706.exe
+fritzwlan/fritzwlan-usb-stick-ac-860/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac860_32Bit_build_150706.exe
+fritzwlan/fritzwlan-usb-stick-ac-860/deutschland/fritz.os/avm_fritz!wlanusb_stick_ac860_64Bit_build_150706.exe
+fritzwlan/fritzwlan-usb-stick-ac-860/other/fritz.os/avm_fritz!wlanusb_stick_ac860_32Bit_english_build_150706.exe
+fritzwlan/fritzwlan-usb-stick-ac-860/other/fritz.os/avm_fritz!wlanusb_stick_ac860_64Bit_english_build_150706.exe

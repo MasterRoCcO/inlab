@@ -1,1 +1,1 @@
-download.avm.de/labor/MOVE21/3000AX/FRITZ.Repeater_3000_AX-07.41-104707-LabBETA.image
+labor/MOVE21/3000AX/FRITZ.Repeater_3000_AX-07.41-104707-LabBETA.image

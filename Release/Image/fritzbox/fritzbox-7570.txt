@@ -1,28 +1,28 @@
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/Alice_IAD_7570_vDSL.81.04.86_fgu/Alice_IAD_7570_vDSL_81.04.86.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/Freetz Alice IAD 7570 VDSL/7570_04.91freetz-devel-7454.en_20110806-231002.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/Freetz Alice IAD 7570 VDSL/7570_04.91freetz-devel-7454M.en_20110902-223945.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/Supernorbi/7570_04.91freetz-devel-7454.en_20110806-231002.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/Supernorbi/7570_04.91freetz-devel-7454M.en_20110902-223945.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/7570_04.91freetz-devel-7454.en_20110806-231002.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/7570_04.91freetz-devel-7454.en_20110807-134933.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/7570_04.91freetz-devel-7454M.en_20110902-223945.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/7570HN_04.91-freetz-devel-9016.en_20120511-231305_08MB-Firmware.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/7570HN_04.91-freetz-devel-9016.en_20120511-234539_16MB-Firmware.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/7570_04.91-freetz-2.0-10623.en_da-cube.net_16MB.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/7570_04.91freetz-1.2-Unversioned directory.en_20130503-091959.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/7570_04.91freetz-1.2-Unversioned directory.en_20130503-094240.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/7570_04.91freetz-1.2-Unversioned directory.en_20130503-100455.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/7570_04.91freetz-1.2-stable-10555.en_da-cube.net_20130529-111740.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Alice/7570_04.91freetz-1.2-stable-9955.en_da-cube.net_20130123-023838.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/Hansenet/FRITZ.Box_Fon_WLAN_7570_vDSL.75.04.76.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/deutsch/FRITZ.Box_Fon_WLAN_7570_vDSL.75.04.81.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/deutsch/FRITZ.Box_Fon_WLAN_7570_vDSL.75.04.76.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.70.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.72.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.77.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.78.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.81.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.82.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.90.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.91.image
-download.avm.de/fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.92.image
+fritzbox/fritzbox-7570/firmware/Alice/Alice_IAD_7570_vDSL.81.04.86_fgu/Alice_IAD_7570_vDSL_81.04.86.image
+fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/Freetz Alice IAD 7570 VDSL/7570_04.91freetz-devel-7454.en_20110806-231002.image
+fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/Freetz Alice IAD 7570 VDSL/7570_04.91freetz-devel-7454M.en_20110902-223945.image
+fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/Supernorbi/7570_04.91freetz-devel-7454.en_20110806-231002.image
+fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/Supernorbi/7570_04.91freetz-devel-7454M.en_20110902-223945.image
+fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/7570_04.91freetz-devel-7454.en_20110806-231002.image
+fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/7570_04.91freetz-devel-7454.en_20110807-134933.image
+fritzbox/fritzbox-7570/firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/7570_04.91freetz-devel-7454M.en_20110902-223945.image
+fritzbox/fritzbox-7570/firmware/Alice/7570HN_04.91-freetz-devel-9016.en_20120511-231305_08MB-Firmware.image
+fritzbox/fritzbox-7570/firmware/Alice/7570HN_04.91-freetz-devel-9016.en_20120511-234539_16MB-Firmware.image
+fritzbox/fritzbox-7570/firmware/Alice/7570_04.91-freetz-2.0-10623.en_da-cube.net_16MB.image
+fritzbox/fritzbox-7570/firmware/Alice/7570_04.91freetz-1.2-Unversioned directory.en_20130503-091959.image
+fritzbox/fritzbox-7570/firmware/Alice/7570_04.91freetz-1.2-Unversioned directory.en_20130503-094240.image
+fritzbox/fritzbox-7570/firmware/Alice/7570_04.91freetz-1.2-Unversioned directory.en_20130503-100455.image
+fritzbox/fritzbox-7570/firmware/Alice/7570_04.91freetz-1.2-stable-10555.en_da-cube.net_20130529-111740.image
+fritzbox/fritzbox-7570/firmware/Alice/7570_04.91freetz-1.2-stable-9955.en_da-cube.net_20130123-023838.image
+fritzbox/fritzbox-7570/firmware/Hansenet/FRITZ.Box_Fon_WLAN_7570_vDSL.75.04.76.image
+fritzbox/fritzbox-7570/firmware/deutsch/FRITZ.Box_Fon_WLAN_7570_vDSL.75.04.81.image
+fritzbox/fritzbox-7570/firmware/deutsch/FRITZ.Box_Fon_WLAN_7570_vDSL.75.04.76.image
+fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.70.image
+fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.72.image
+fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.77.image
+fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.78.image
+fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.81.image
+fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.82.image
+fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.90.image
+fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.91.image
+fritzbox/fritzbox-7570/firmware/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.75.04.92.image

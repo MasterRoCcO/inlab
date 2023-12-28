@@ -1,14 +1,14 @@
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.15.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.22.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.30.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.33.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.37.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.39.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.40.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.49.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.57.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.80.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ.Box Fon WLAN 7170.29.04.81.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.81.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/freenet/fritz.box_fon_wlan_7170sl.29.04.15.image
-download.avm.de/fritzbox/fritzbox-7170-sl/firmware/freenet/fritz.box_fon_wlan_7170sl.29.04.22.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.15.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.22.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.30.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.33.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.37.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.39.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.40.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.49.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.57.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.80.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ.Box Fon WLAN 7170.29.04.81.image
+fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.81.image
+fritzbox/fritzbox-7170-sl/firmware/freenet/fritz.box_fon_wlan_7170sl.29.04.15.image
+fritzbox/fritzbox-7170-sl/firmware/freenet/fritz.box_fon_wlan_7170sl.29.04.22.image

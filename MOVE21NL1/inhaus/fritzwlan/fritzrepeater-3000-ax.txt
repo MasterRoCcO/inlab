@@ -1,8 +1,8 @@
-download.avm.de/inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-105217-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-105431-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-105608-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-105973-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-106227-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-106588-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-106792-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.57-109862-Inhaus.image
+inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-105217-Inhaus.image
+inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-105431-Inhaus.image
+inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-105608-Inhaus.image
+inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-105973-Inhaus.image
+inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-106227-Inhaus.image
+inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-106588-Inhaus.image
+inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.51-106792-Inhaus.image
+inhaus/MOVE21NL1/3000AX/FRITZ.Repeater_3000_AX-07.57-109862-Inhaus.image

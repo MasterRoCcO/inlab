@@ -1,2 +1,2 @@
-download.avm.de/fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.07.13-recover.exe
-download.avm.de/fritzpowerline/fritzpowerline-546e/other/recover/FRITZ.Powerline_546E-07.15_recover.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.07.13-recover.exe
+fritzpowerline/fritzpowerline-546e/other/recover/FRITZ.Powerline_546E-07.15_recover.exe

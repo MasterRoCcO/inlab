@@ -1,6 +1,6 @@
-download.avm.de/fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.59.image
-download.avm.de/fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.76.image
-download.avm.de/fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.80.image
-download.avm.de/fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.86.image
-download.avm.de/fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.88.image
-download.avm.de/fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.89.image
+fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.59.image
+fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.76.image
+fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.80.image
+fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.86.image
+fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.88.image
+fritzbox/fritzbox-7270-v1/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.89.image

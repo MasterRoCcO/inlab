@@ -1,1 +1,1 @@
-download.avm.de/fritzbox/fritzbox-7312/deutschland/recover/fritz.box_7312-06.55-recover.exe
+fritzbox/fritzbox-7312/deutschland/recover/fritz.box_7312-06.55-recover.exe

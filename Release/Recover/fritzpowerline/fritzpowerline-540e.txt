@@ -1,2 +1,2 @@
-download.avm.de/fritzpowerline/fritzpowerline-540e/other/recover/fritz.powerline_540e-07.10-recover.exe
-download.avm.de/fritzpowerline/fritzpowerline-540e/other/recover/fritz.powerline_540e-07.12.exe
+fritzpowerline/fritzpowerline-540e/other/recover/fritz.powerline_540e-07.10-recover.exe
+fritzpowerline/fritzpowerline-540e/other/recover/fritz.powerline_540e-07.12.exe

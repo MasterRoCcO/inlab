@@ -1,8 +1,8 @@
-download.avm.de/fritzbox/fritzbox-3050/firmware/aol/FRITZ.Box_WLAN_3050.16.03.73.image
-download.avm.de/fritzbox/fritzbox-3050/firmware/aol/FRITZ.Box_WLAN_3050.16.03.91.image
-download.avm.de/fritzbox/fritzbox-3050/firmware/aol/FRITZ.Box_WLAN_3050.16.04.07.image
-download.avm.de/fritzbox/fritzbox-3050/firmware/FRITZ!Box WLAN 3050 16.04.07.image
-download.avm.de/fritzbox/fritzbox-3050/firmware/FRITZ.Box_WLAN_3050.16.03.73.image
-download.avm.de/fritzbox/fritzbox-3050/firmware/FRITZ.Box_WLAN_3050.16.03.91.image
-download.avm.de/fritzbox/fritzbox-3050/firmware/fritz.box_wlan_3050.16.03.99.image
-download.avm.de/fritzbox/fritzbox-3050/firmware/fritz.box_wlan_3050.16.04.07.image
+fritzbox/fritzbox-3050/firmware/aol/FRITZ.Box_WLAN_3050.16.03.73.image
+fritzbox/fritzbox-3050/firmware/aol/FRITZ.Box_WLAN_3050.16.03.91.image
+fritzbox/fritzbox-3050/firmware/aol/FRITZ.Box_WLAN_3050.16.04.07.image
+fritzbox/fritzbox-3050/firmware/FRITZ!Box WLAN 3050 16.04.07.image
+fritzbox/fritzbox-3050/firmware/FRITZ.Box_WLAN_3050.16.03.73.image
+fritzbox/fritzbox-3050/firmware/FRITZ.Box_WLAN_3050.16.03.91.image
+fritzbox/fritzbox-3050/firmware/fritz.box_wlan_3050.16.03.99.image
+fritzbox/fritzbox-3050/firmware/fritz.box_wlan_3050.16.04.07.image

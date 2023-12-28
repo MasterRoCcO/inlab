@@ -1,15 +1,15 @@
-download.avm.de/fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.27 Recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.22-recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.28-Recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.29-recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.31-recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.56 recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.57-recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.21-Release-recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.22 Recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.27 Recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.28-Recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.29-recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.31-recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.56 recover.exe
-download.avm.de/fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.57-recover.exe
+fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.27 Recover.exe
+fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.22-recover.exe
+fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.28-Recover.exe
+fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.29-recover.exe
+fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.31-recover.exe
+fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.56 recover.exe
+fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.57-recover.exe
+fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.21-Release-recover.exe
+fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.22 Recover.exe
+fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.27 Recover.exe
+fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.28-Recover.exe
+fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.29-recover.exe
+fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.31-recover.exe
+fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.56 recover.exe
+fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.57-recover.exe

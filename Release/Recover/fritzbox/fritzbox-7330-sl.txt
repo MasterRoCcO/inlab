@@ -1,1 +1,1 @@
-download.avm.de/fritzbox/fritzbox-7330-sl/x_misc/deutsch/fritz.box_7330_sl-06.55.recover.exe
+fritzbox/fritzbox-7330-sl/x_misc/deutsch/fritz.box_7330_sl-06.55.recover.exe

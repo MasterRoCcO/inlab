@@ -1,1 +1,1 @@
-download.avm.de/labor/MOVE21/7583/FRITZ.Box_7583-07.39-103075-LabBETA.image
+labor/MOVE21/7583/FRITZ.Box_7583-07.39-103075-LabBETA.image

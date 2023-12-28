@@ -1,1 +1,1 @@
-download.avm.de/fritzwlan/fritzwlan-repeater-300e/deutschland/recover/fritz.box_wlan_repeater_300e-06.33-recover.exe
+fritzwlan/fritzwlan-repeater-300e/deutschland/recover/fritz.box_wlan_repeater_300e-06.33-recover.exe

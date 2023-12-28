@@ -1,6 +1,6 @@
-download.avm.de/inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-104470-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-104842-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-105032-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-105191-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-105360-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-106133-Inhaus.image
+inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-104470-Inhaus.image
+inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-104842-Inhaus.image
+inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-105032-Inhaus.image
+inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-105191-Inhaus.image
+inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-105360-Inhaus.image
+inhaus/MOVE21NL1/7520B/FRITZ.Box_7520_B-07.51-106133-Inhaus.image
