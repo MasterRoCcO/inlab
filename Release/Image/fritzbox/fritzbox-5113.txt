@@ -1,0 +1,3 @@
+download.avm.de/fritzbox/fritzbox-5113/firmware/deutsch_a-ch/FRITZ.Box_Fon_5113.AnnexA.de-en-es-it-fr.83.04.83.image
+download.avm.de/fritzbox/fritzbox-5113/firmware/english/annex_a/FRITZ.Box_Fon_5113.AnnexA.de-en-es-it-fr.83.04.82.image
+download.avm.de/fritzbox/fritzbox-5113/firmware/english/annex_a/FRITZ.Box_Fon_5113.AnnexA.de-en-es-it-fr.83.04.83.image
