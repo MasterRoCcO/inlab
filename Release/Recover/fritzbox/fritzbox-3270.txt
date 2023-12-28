@@ -1,0 +1,10 @@
+download.avm.de/fritzbox/fritzbox-3270/firmware/deutsch/fritz.box_wlan_3270.67.04.57.image
+download.avm.de/fritzbox/fritzbox-3270/firmware/deutsch/fritz.box_wlan_3270.67.04.68.image
+download.avm.de/fritzbox/fritzbox-3270/firmware/deutsch/fritz.box_wlan_3270.67.04.70.image
+download.avm.de/fritzbox/fritzbox-3270/firmware/deutsch/fritz.box_wlan_3270.67.04.76.image
+download.avm.de/fritzbox/fritzbox-3270/firmware/deutsch/fritz.box_wlan_3270.67.04.80.image
+download.avm.de/fritzbox/fritzbox-3270/firmware/deutsch/fritz.box_wlan_3270.67.04.86.image
+download.avm.de/fritzbox/fritzbox-3270/firmware/deutsch/fritz.box_wlan_3270.67.05.05.image
+download.avm.de/fritzbox/fritzbox-3270/firmware/deutsch/fritz.box_wlan_3270.67.05.21.image
+download.avm.de/fritzbox/fritzbox-3270/firmware/deutsch/fritz.box_wlan_3270.67.05.50.image
+download.avm.de/fritzbox/fritzbox-3270/firmware/deutsch/fritz.box_wlan_3270.67.05.54.image

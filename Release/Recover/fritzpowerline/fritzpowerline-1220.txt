@@ -1,0 +1,9 @@
+download.avm.de/fritzpowerline/fritzpowerline-1220/other/fritz.os/fritz.powerline_1220_cm9_2120_01_tr069_6.image
+download.avm.de/fritzpowerline/fritzpowerline-1220/other/fritz.os/fritz.powerline_1220_cm9_2130_01_tr069_7.image
+download.avm.de/fritzpowerline/fritzpowerline-1220/other/fritz.os/fritz.powerline_1220_cm9_2130_00_tr069_6.image
+download.avm.de/fritzpowerline/fritzpowerline-1220/other/fritz.os/fritz.powerline_1220_cm9_2130_02_tr069_7.image
+download.avm.de/fritzpowerline/fritzpowerline-1220/deutschland/fritz.os/fritz.powerline_1220_cm8_2110_00_tr069_2.image
+download.avm.de/fritzpowerline/fritzpowerline-1220/deutschland/fritz.os/fritz.powerline_1220_cm9_2120_01_tr069_6.image
+download.avm.de/fritzpowerline/fritzpowerline-1220/deutschland/fritz.os/fritz.powerline_1220_cm9_2130_00_tr069_6.image
+download.avm.de/fritzpowerline/fritzpowerline-1220/deutschland/fritz.os/fritz.powerline_1220_cm9_2130_01_tr069_7.image
+download.avm.de/fritzpowerline/fritzpowerline-1220/deutschland/fritz.os/fritz.powerline_1220_cm9_2130_02_tr069_7.image
