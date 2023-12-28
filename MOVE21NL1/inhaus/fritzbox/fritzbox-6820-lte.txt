@@ -1,3 +1,4 @@
+download.avm.de/inhaus/MOVE21NL1/6820LTE/FRITZ.Box_6820_LTE-07.51-102446-Inhaus.image
 download.avm.de/inhaus/MOVE21NL1/6820LTE/FRITZ.Box_6820_LTE-07.51-103125-Inhaus.image
 download.avm.de/inhaus/MOVE21NL1/6820LTE/FRITZ.Box_6820_LTE-07.51-103209-Inhaus.image
 download.avm.de/inhaus/MOVE21NL1/6820LTE/FRITZ.Box_6820_LTE-07.51-103399-Inhaus.image
@@ -10,4 +11,3 @@ download.avm.de/inhaus/MOVE21NL1/6820LTE/FRITZ.Box_6820_LTE-07.51-105016-Inhaus.
 download.avm.de/inhaus/MOVE21NL1/6820LTE/FRITZ.Box_6820_LTE-07.51-106559-Inhaus.image
 download.avm.de/inhaus/MOVE21NL1/6820LTE/FRITZ.Box_6820_LTE-07.51-106662-Inhaus.image
 download.avm.de/inhaus/MOVE21NL1/6820LTE/FRITZ.Box_6820_LTE-07.51-106687-Inhaus.image
-download.avm.de/inhaus/MOVE21NL1/6820LTE/FRITZ.Box_6820_LTE-07.51-102446-Inhaus.image
