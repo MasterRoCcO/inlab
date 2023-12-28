@@ -1,3 +1,2 @@
-download.avm.de/fritzbox/fritzbox-2030/firmware/FRITZ!Box 2030 17.03.93.image
 download.avm.de/fritzbox/fritzbox-2030/firmware/fritz.box_2030.17.03.93.image
 download.avm.de/fritzbox/fritzbox-2030/firmware/fritz.box_2030.17.03.92.image

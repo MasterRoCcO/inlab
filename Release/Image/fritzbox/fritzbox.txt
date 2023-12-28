@@ -5,8 +5,6 @@ download.avm.de/fritzbox/fritzbox/firmware/deutsch/freenet/fritz.box_fon.06.01.1
 download.avm.de/fritzbox/fritzbox/firmware/deutsch/freenet/FRITZ.Box_Fon.06.01.133.image
 download.avm.de/fritzbox/fritzbox/firmware/deutsch/freenet/FRITZ.Box_Fon.06.01.135.image
 download.avm.de/fritzbox/fritzbox/firmware/deutsch/freenet/firmware06.03.14.image
-download.avm.de/fritzbox/fritzbox/firmware/deutsch/FRITZ!Box 05.03.29.image
-download.avm.de/fritzbox/fritzbox/firmware/deutsch/FRITZ!Box 05.03.87.image
 download.avm.de/fritzbox/fritzbox/firmware/deutsch/FRITZ.Box.5.03.29.image
 download.avm.de/fritzbox/fritzbox/firmware/deutsch/fritz.box.05.03.87.image
 download.avm.de/fritzbox/fritzbox/firmware/english/annex_a/fritz.box.annexa.en.05.04.02.image

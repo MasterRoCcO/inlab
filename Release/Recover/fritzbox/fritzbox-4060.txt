@@ -1,0 +1,10 @@
+download.avm.de/fritzbox/fritzbox-4060/other/recover/FRITZ.Box_4060-07.29-recover.exe
+download.avm.de/fritzbox/fritzbox-4060/other/recover/FRITZ.Box_4060-07.29.exe
+download.avm.de/fritzbox/fritzbox-4060/other/recover/FRITZ.Box_4060-07.30-recover.exe
+download.avm.de/fritzbox/fritzbox-4060/other/recover/FRITZ.Box_4060-07.56-recover.exe
+download.avm.de/fritzbox/fritzbox-4060/other/recover/FRITZ.Box_4060-07.57-recover.exe
+download.avm.de/fritzbox/fritzbox-4060/deutschland/recover/FRITZ.Box_4060-07.29.exe
+download.avm.de/fritzbox/fritzbox-4060/deutschland/recover/FRITZ.Box_4060-07.29-recover.exe
+download.avm.de/fritzbox/fritzbox-4060/deutschland/recover/FRITZ.Box_4060-07.30-recover.exe
+download.avm.de/fritzbox/fritzbox-4060/deutschland/recover/FRITZ.Box_4060-07.56-recover.exe
+download.avm.de/fritzbox/fritzbox-4060/deutschland/recover/FRITZ.Box_4060-07.57-recover.exe
