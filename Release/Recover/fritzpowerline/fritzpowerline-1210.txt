@@ -1,2 +1,0 @@
-download.avm.de/fritzpowerline/fritzpowerline-1210/deutschland/fritz.os/fritz.powerline_1210_cm9_2130_02_tr069_1.image
-download.avm.de/fritzpowerline/fritzpowerline-1210/other/fritz.os/fritz.powerline_1210_cm9_2130_02_tr069_1.image

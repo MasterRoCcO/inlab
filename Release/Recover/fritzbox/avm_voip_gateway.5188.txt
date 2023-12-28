@@ -1,1 +1,0 @@
-download.avm.de/fritzbox/avm_voip_gateway.5188/firmware/VoIP-Gateway-5188.36.04.81.image

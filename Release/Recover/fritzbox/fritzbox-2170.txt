@@ -1,6 +1,0 @@
-download.avm.de/fritzbox/fritzbox-2170/firmware/deutsch/FRITZ!Box 2170 51.04.57.image
-download.avm.de/fritzbox/fritzbox-2170/firmware/deutsch/FRITZ!Box 2170 51.04.34.image
-download.avm.de/fritzbox/fritzbox-2170/firmware/deutsch/FRITZ.Box_2170_Arcor.AnnexB.51.04.31.image
-download.avm.de/fritzbox/fritzbox-2170/firmware/deutsch/FRITZ.Box_2170.51.04.57.image
-download.avm.de/fritzbox/fritzbox-2170/firmware/deutsch/fritz.box_2170.51.04.31.image
-download.avm.de/fritzbox/fritzbox-2170/firmware/deutsch/fritz.box_2170.51.04.34.image

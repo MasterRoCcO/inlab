@@ -1,15 +1,1 @@
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/deutschland/fritz.os/FRITZ.Box_WLAN_Repeater_310-07.12.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/deutschland/fritz.os/FRITZ.Box_WLAN_Repeater_310-07.10.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/deutschland/fritz.os/FRITZ.Box_WLAN_Repeater_310-07.13.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/deutschland/fritz.os/FRITZ.Box_WLAN_Repeater_310.en-de-es-it-fr-pl.122.06.92.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/deutschland/fritz.os/FRITZ.Box_WLAN_Repeater_310.en-de-es-it-fr-pl.122.07.01.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/deutschland/fritz.os/FRITZ.Repeater_310-07.14.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/deutschland/fritz.os/FRITZ.Repeater_310-07.15.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/deutschland/fritz.os/FRITZ.Repeater_310-07.16.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/other/fritz.os/FRITZ.Box_WLAN_Repeater_310-07.13.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/other/fritz.os/FRITZ.Box_WLAN_Repeater_310-07.12.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/other/fritz.os/FRITZ.Box_WLAN_Repeater_310.en-de-es-it-fr-pl.122.06.92.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/other/fritz.os/FRITZ.Box_WLAN_Repeater_310.en-de-es-it-fr-pl.122.07.01.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/other/fritz.os/FRITZ.Repeater_310-07.14.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/other/fritz.os/FRITZ.Repeater_310-07.15.image
-download.avm.de/fritzwlan/fritzwlan-repeater-310-a/other/fritz.os/FRITZ.Repeater_310-07.16.image
+download.avm.de/fritzwlan/fritzwlan-repeater-310-a/deutschland/recover/fritz.box_wlan_repeater_310-07.12-recover.exe

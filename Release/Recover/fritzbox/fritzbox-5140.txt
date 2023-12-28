@@ -1,7 +1,0 @@
-download.avm.de/fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.27.image
-download.avm.de/fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.25.image
-download.avm.de/fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.37.image
-download.avm.de/fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.41.image
-download.avm.de/fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.57.image
-download.avm.de/fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.59.image
-download.avm.de/fritzbox/fritzbox-5140/firmware/FRITZ.Box_Fon_5140.AnnexB.43.04.67.image

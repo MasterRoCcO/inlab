@@ -1,1 +1,1 @@
-download.avm.de/fritzpowerline/fritzpowerline-1240-ax/deutschland/fritz.os/FRITZ.Powerline_1240_AX.275.07.57.image
+download.avm.de/fritzpowerline/fritzpowerline-1240-ax/deutschland/recover/FRITZ.Powerline_1240_AX-07.57-Release-recover.exe

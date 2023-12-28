@@ -1,9 +1,3 @@
-download.avm.de/fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.21.image
-download.avm.de/fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412-06.86.image
-download.avm.de/fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.30.image
-download.avm.de/fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.50.image
-download.avm.de/fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.80.image
-download.avm.de/fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.83.image
-download.avm.de/fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.85.image
-download.avm.de/fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.87.image
-download.avm.de/fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.88.image
+download.avm.de/fritzbox/fritzbox-7412/deutschland/recover/FRITZ.Box_7412.06.88.exe
+download.avm.de/fritzbox/fritzbox-7412/deutschland/recover/FRITZ.Box_7412_06.87.exe
+download.avm.de/fritzbox/fritzbox-7412/deutschland/recover/fritz.box_7412-06.86-recover.exe
