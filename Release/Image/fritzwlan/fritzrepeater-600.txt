@@ -1,5 +1,5 @@
-fritzwlan/fritzrepeater-600/deutschland/fritz.os/FRITZ.Repeater_600-07.20.image
 fritzwlan/fritzrepeater-600/deutschland/fritz.os/FRITZ.Repeater_600-07.12.image
+fritzwlan/fritzrepeater-600/deutschland/fritz.os/FRITZ.Repeater_600-07.20.image
 fritzwlan/fritzrepeater-600/deutschland/fritz.os/FRITZ.Repeater_600-07.21.image
 fritzwlan/fritzrepeater-600/deutschland/fritz.os/FRITZ.Repeater_600-07.27.image
 fritzwlan/fritzrepeater-600/deutschland/fritz.os/FRITZ.Repeater_600-07.29.image
