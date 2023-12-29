@@ -1,12 +1,12 @@
-fritzwlan/fritzwlan-repeater-310/deutschland/fritz.os/FRITZ.Box_WLAN_Repeater_310.122.06.51.image
 fritzwlan/fritzwlan-repeater-310/deutschland/fritz.os/FRITZ.Box_WLAN_Repeater_310.122.06.30.image
+fritzwlan/fritzwlan-repeater-310/deutschland/fritz.os/FRITZ.Box_WLAN_Repeater_310.122.06.51.image
 fritzwlan/fritzwlan-repeater-310/deutschland/fritz.os/FRITZ.Box_WLAN_Repeater_310.122.06.90.image
 fritzwlan/fritzwlan-repeater-310/deutschland/fritz.os/FRITZ.Box_WLAN_Repeater_310.122.06.92.image
 fritzwlan/fritzwlan-repeater-310/deutschland/fritz.os/fritz.wlan_repeater_310.122.05.24.image
 fritzwlan/fritzwlan-repeater-310/deutschland/fritz.os/fritz.wlan_repeater_310.122.06.00.image
 fritzwlan/fritzwlan-repeater-310/deutschland/fritz.os/fritz.wlan_repeater_310.122.06.04.image
 fritzwlan/fritzwlan-repeater-310/deutschland/fritz.os/fritz.wlan_repeater_310.122.06.20.image
+fritzwlan/fritzwlan-repeater-310/other/fritz.os/FRITZ.Box_WLAN_Repeater_310.en-de-es-it-fr.122.05.30.image
 fritzwlan/fritzwlan-repeater-310/other/fritz.os/FRITZ.Box_WLAN_Repeater_310.en-de-es-it-fr-pl.122.06.20.image
 fritzwlan/fritzwlan-repeater-310/other/fritz.os/FRITZ.Box_WLAN_Repeater_310.en-de-es-it-fr-pl.122.06.51.image
 fritzwlan/fritzwlan-repeater-310/other/fritz.os/FRITZ.Box_WLAN_Repeater_310.en-de-es-it-fr-pl.122.06.92.image
-fritzwlan/fritzwlan-repeater-310/other/fritz.os/FRITZ.Box_WLAN_Repeater_310.en-de-es-it-fr.122.05.30.image

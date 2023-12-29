@@ -1,3 +1,5 @@
+fritzbox/fritzbox-wlan/firmware/deutsch_a-ch/annex_a/fritz.box_fon_wlan.annexa.de.08.04.15.image
+fritzbox/fritzbox-wlan/firmware/deutsch_a-ch/annex_b/fritz.box_fon_wlan.de.08.04.01.image
 fritzbox/fritzbox-wlan/firmware/deutsch/fritz.box_fon_wlan.08.03.14.image
 fritzbox/fritzbox-wlan/firmware/deutsch/fritz.box_fon_wlan.08.03.29.image
 fritzbox/fritzbox-wlan/firmware/deutsch/fritz.box_fon_wlan.08.03.37.image
@@ -13,12 +15,10 @@ fritzbox/fritzbox-wlan/firmware/deutsch/fritz.box_fon_wlan.08.04.15.image
 fritzbox/fritzbox-wlan/firmware/deutsch/fritz.box_fon_wlan.08.04.27.image
 fritzbox/fritzbox-wlan/firmware/deutsch/fritz.box_fon_wlan.08.04.33.image
 fritzbox/fritzbox-wlan/firmware/deutsch/fritz.box_fon_wlan.08.04.34.image
-fritzbox/fritzbox-wlan/firmware/deutsch_a-ch/annex_a/fritz.box_fon_wlan.annexa.de.08.04.15.image
-fritzbox/fritzbox-wlan/firmware/deutsch_a-ch/annex_b/fritz.box_fon_wlan.de.08.04.01.image
 fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.04.01.image
 fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.04.02.image
-fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.04.26.image
 fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.04.21.image
+fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.04.26.image
 fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.04.49.image
 fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.58.04.59.image
 fritzbox/fritzbox-wlan/firmware/english/annex_b/FRITZ.Box_Fon_WLAN.AnnexB.en.08.04.49.image

@@ -1,7 +1,9 @@
+fritzbox/fritzbox-fon/firmware/deutsch_a-ch/annex_a/fritz.box_fon.annexa.de.06.04.15.image
+fritzbox/fritzbox-fon/firmware/deutsch_a-ch/annex_b/fritz.box_fon.de.06.04.01.image
 fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.03.23.image
 fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.03.29.image
-fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.03.42.image
 fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.03.37.image
+fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.03.42.image
 fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.03.53.image
 fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.03.65.image
 fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.03.67.image
@@ -14,8 +16,6 @@ fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.04.27.image
 fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.04.30.image
 fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.06.04.33.image
 fritzbox/fritzbox-fon/firmware/deutsch/fritz.box_fon.de.06.04.01.image
-fritzbox/fritzbox-fon/firmware/deutsch_a-ch/annex_a/fritz.box_fon.annexa.de.06.04.15.image
-fritzbox/fritzbox-fon/firmware/deutsch_a-ch/annex_b/fritz.box_fon.de.06.04.01.image
 fritzbox/fritzbox-fon/firmware/english/annex_a/fritz.box_fon.annexa.en.06.04.02.image
 fritzbox/fritzbox-fon/firmware/english/annex_a/fritz.box_fon.annexa.en.06.04.20.image
 fritzbox/fritzbox-fon/firmware/english/annex_a/fritz.box_fon.annexa.en.06.04.24.image

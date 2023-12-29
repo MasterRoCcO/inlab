@@ -1,2 +1,2 @@
-fritzbox/fritzbox-6840-lte/other/recover/FRITZ.Box_6840_LTE.en-de-es-it-fr-pl.06.88.exe
 fritzbox/fritzbox-6840-lte/deutschland/recover/FRITZ.Box_6840_LTE.06.88.exe
+fritzbox/fritzbox-6840-lte/other/recover/FRITZ.Box_6840_LTE.en-de-es-it-fr-pl.06.88.exe

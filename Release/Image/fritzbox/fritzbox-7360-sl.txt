@@ -1,9 +1,9 @@
-fritzbox/fritzbox-7360-sl/other/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.AnnexB.en-de-es-it-fr.109.06.32.image
-fritzbox/fritzbox-7360-sl/other/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.en-de-es-it-fr.109.06.30.image
 fritzbox/fritzbox-7360-sl/deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL-06.34.image
 fritzbox/fritzbox-7360-sl/deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.109.06.03.image
-fritzbox/fritzbox-7360-sl/deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.109.06.30.image
 fritzbox/fritzbox-7360-sl/deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.109.06.20.image
+fritzbox/fritzbox-7360-sl/deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.109.06.30.image
 fritzbox/fritzbox-7360-sl/deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.109.06.33.image
 fritzbox/fritzbox-7360-sl/deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.AnnexB.109.06.35.image
+fritzbox/fritzbox-7360-sl/other/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.AnnexB.en-de-es-it-fr.109.06.32.image
+fritzbox/fritzbox-7360-sl/other/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.en-de-es-it-fr.109.06.30.image
 fritzbox/fritzbox-7360-sl/switzerland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.en-de-es-it-fr.109.06.30.image

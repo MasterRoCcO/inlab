@@ -1,14 +1,14 @@
 fritzwlan/fritzwlan-repeater-1750e/deutschland/recover/FRITZ.Box_WLAN_Repeater_1750E-07.10-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/deutschland/recover/FRITZ.Box_WLAN_Repeater_1750E-07.20-recover.exe
+fritzwlan/fritzwlan-repeater-1750e/deutschland/recover/fritzrepeater_1750e-07.12-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/deutschland/recover/FRITZ.Repeater_1750E-07.21-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/deutschland/recover/FRITZ.Repeater_1750E-07.27-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/deutschland/recover/FRITZ.Repeater_1750E-07.29-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/deutschland/recover/FRITZ.Repeater_1750E-07.30-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/deutschland/recover/FRITZ.Repeater_1750E-07.31-recover.exe
-fritzwlan/fritzwlan-repeater-1750e/deutschland/recover/fritzrepeater_1750e-07.12-recover.exe
+fritzwlan/fritzwlan-repeater-1750e/other/recover/fritz.box_wlan_repeater_1750e-07.12-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/other/recover/FRITZ.Box_WLAN_Repeater_1750E-07.20-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/other/recover/FRITZ.Repeater_1750E-07.21-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/other/recover/FRITZ.Repeater_1750E-07.27-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/other/recover/FRITZ.Repeater_1750E-07.29-recover.exe
 fritzwlan/fritzwlan-repeater-1750e/other/recover/FRITZ.Repeater_1750E-07.31-recover.exe
-fritzwlan/fritzwlan-repeater-1750e/other/recover/fritz.box_wlan_repeater_1750e-07.12-recover.exe

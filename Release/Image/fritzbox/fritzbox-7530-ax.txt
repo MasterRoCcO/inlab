@@ -1,10 +1,3 @@
-fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.22.image
-fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.27.image
-fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.28.image
-fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.29.image
-fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.31.image
-fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.56.image
-fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.57.image
 fritzbox/fritzbox-7530-ax/deutschland/fritz.os/FRITZ.Box_7530_AX-07.21-Release.image
 fritzbox/fritzbox-7530-ax/deutschland/fritz.os/FRITZ.Box_7530_AX-07.22.image
 fritzbox/fritzbox-7530-ax/deutschland/fritz.os/FRITZ.Box_7530_AX-07.27.image
@@ -13,3 +6,10 @@ fritzbox/fritzbox-7530-ax/deutschland/fritz.os/FRITZ.Box_7530_AX-07.29.image
 fritzbox/fritzbox-7530-ax/deutschland/fritz.os/FRITZ.Box_7530_AX-07.31.image
 fritzbox/fritzbox-7530-ax/deutschland/fritz.os/FRITZ.Box_7530_AX-07.56.image
 fritzbox/fritzbox-7530-ax/deutschland/fritz.os/FRITZ.Box_7530_AX-07.57.image
+fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.22.image
+fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.27.image
+fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.28.image
+fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.29.image
+fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.31.image
+fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.56.image
+fritzbox/fritzbox-7530-ax/other/fritz.os/FRITZ.Box_7530_AX-07.57.image

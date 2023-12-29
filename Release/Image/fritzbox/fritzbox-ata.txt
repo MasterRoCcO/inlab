@@ -1,7 +1,7 @@
+fritzbox/fritzbox-ata/firmware/deutsch_a-ch/fritz.box_fon_ata.de.11.04.01.image
 fritzbox/fritzbox-ata/firmware/deutsch/fritz.box_fon_ata.11.03.45.image
 fritzbox/fritzbox-ata/firmware/deutsch/fritz.box_fon_ata.11.03.64.image
-fritzbox/fritzbox-ata/firmware/deutsch/fritz.box_fon_ata.11.03.90.image
 fritzbox/fritzbox-ata/firmware/deutsch/fritz.box_fon_ata.11.03.65.image
+fritzbox/fritzbox-ata/firmware/deutsch/fritz.box_fon_ata.11.03.90.image
 fritzbox/fritzbox-ata/firmware/deutsch/fritz.box_fon_ata.11.04.01.image
-fritzbox/fritzbox-ata/firmware/deutsch_a-ch/fritz.box_fon_ata.de.11.04.01.image
 fritzbox/fritzbox-ata/firmware/english/fritz.box_fon_ata.en.11.04.01.image

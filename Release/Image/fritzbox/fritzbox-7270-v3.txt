@@ -1,11 +1,5 @@
-fritzbox/fritzbox-7270-v3/firmware/Ewetel/FRITZ.Box_Fon_WLAN_7270_v3_74.04.81_ewetel_fgu/FRITZ.Box_Fon_WLAN_7270_v3_74.04.81_ewetel.image
-fritzbox/fritzbox-7270-v3/firmware/Ewetel/EWE_FRITZ.Box_Fon_WLAN_7270_v3.AnnexB.74.05.05.image
-fritzbox/fritzbox-7270-v3/firmware/Ewetel/EweTel_FRITZ.Box_Fon_WLAN_7270_v3.AnnexB.74.05.05.image
-fritzbox/fritzbox-7270-v3/firmware/Ewetel/FRITZ.Box_7270_74.05.04-21754_EWE.image
-fritzbox/fritzbox-7270-v3/firmware/Ewetel/FRITZ.Box_7270_EWE_74.05.04-21754.image
-fritzbox/fritzbox-7270-v3/firmware/Ewetel/FRITZ.Box_Fon_WLAN_7270_v3.EweTel.74.05.05.image
-fritzbox/fritzbox-7270-v3/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.74.04.76.image
 fritzbox/fritzbox-7270-v3/firmware/deutsch/FRITZ.Box_7270v3.Beta.74.05.23-27582.image
+fritzbox/fritzbox-7270-v3/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.74.04.76.image
 fritzbox/fritzbox-7270-v3/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.74.04.80.image
 fritzbox/fritzbox-7270-v3/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.74.04.86.image
 fritzbox/fritzbox-7270-v3/firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.74.04.88.image
@@ -28,3 +22,9 @@ fritzbox/fritzbox-7270-v3/firmware/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-i
 fritzbox/fritzbox-7270-v3/firmware/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.74.05.51.image
 fritzbox/fritzbox-7270-v3/firmware/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.74.05.52.image
 fritzbox/fritzbox-7270-v3/firmware/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.74.05.53.image
+fritzbox/fritzbox-7270-v3/firmware/Ewetel/EWE_FRITZ.Box_Fon_WLAN_7270_v3.AnnexB.74.05.05.image
+fritzbox/fritzbox-7270-v3/firmware/Ewetel/EweTel_FRITZ.Box_Fon_WLAN_7270_v3.AnnexB.74.05.05.image
+fritzbox/fritzbox-7270-v3/firmware/Ewetel/FRITZ.Box_7270_74.05.04-21754_EWE.image
+fritzbox/fritzbox-7270-v3/firmware/Ewetel/FRITZ.Box_7270_EWE_74.05.04-21754.image
+fritzbox/fritzbox-7270-v3/firmware/Ewetel/FRITZ.Box_Fon_WLAN_7270_v3_74.04.81_ewetel_fgu/FRITZ.Box_Fon_WLAN_7270_v3_74.04.81_ewetel.image
+fritzbox/fritzbox-7270-v3/firmware/Ewetel/FRITZ.Box_Fon_WLAN_7270_v3.EweTel.74.05.05.image

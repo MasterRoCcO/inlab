@@ -1,5 +1,5 @@
-fritzbox/fritzbox-7240/firmware/deutsch/FRITZ.Box_Fon_WLAN_7240.73.04.68.image
 fritzbox/fritzbox-7240/firmware/deutsch/FRITZ.Box_Fon_WLAN_7240.73.04.65.image
+fritzbox/fritzbox-7240/firmware/deutsch/FRITZ.Box_Fon_WLAN_7240.73.04.68.image
 fritzbox/fritzbox-7240/firmware/deutsch/FRITZ.Box_Fon_WLAN_7240.73.04.70.image
 fritzbox/fritzbox-7240/firmware/deutsch/FRITZ.Box_Fon_WLAN_7240.73.04.76.image
 fritzbox/fritzbox-7240/firmware/deutsch/FRITZ.Box_Fon_WLAN_7240.73.04.80.image

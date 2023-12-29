@@ -9,11 +9,11 @@ fritzbox/fritzbox-3390/deutschland/fritz.os/FRITZ.Box_3390.121.06.30.image
 fritzbox/fritzbox-3390/deutschland/fritz.os/FRITZ.Box_3390.121.06.51.image
 fritzbox/fritzbox-3390/deutschland/fritz.os/FRITZ.Box_3390.121.06.53.image
 fritzbox/fritzbox-3390/deutschland/fritz.os/FRITZ.Box_3390.121.06.54.image
+fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr.121.05.51.image
+fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr.121.05.52.image
+fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr.121.06.04.image
 fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr-pl.121.06.20.image
-fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr-pl.121.06.30.image
 fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr-pl.121.06.30_ach.image
+fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr-pl.121.06.30.image
 fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr-pl.121.06.52.image
 fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr-pl.121.06.54.image
-fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr.121.05.52.image
-fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr.121.05.51.image
-fritzbox/fritzbox-3390/other/fritz.os/FRITZ.Box_3390.en-de-es-it-fr.121.06.04.image

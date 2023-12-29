@@ -1,5 +1,5 @@
-fritzbox/fritzbox-7320/firmware/deutsch/FRITZ.Box_Fon_WLAN_7320-06.35.image
 fritzbox/fritzbox-7320/firmware/deutsch/FRITZ.Box_Fon_WLAN_7320-06.34.image
+fritzbox/fritzbox-7320/firmware/deutsch/FRITZ.Box_Fon_WLAN_7320-06.35.image
 fritzbox/fritzbox-7320/firmware/deutsch/FRITZ.Box_Fon_WLAN_7320.100.04.86.image
 fritzbox/fritzbox-7320/firmware/deutsch/FRITZ.Box_Fon_WLAN_7320.100.04.88.image
 fritzbox/fritzbox-7320/firmware/deutsch/FRITZ.Box_Fon_WLAN_7320.100.04.89.image

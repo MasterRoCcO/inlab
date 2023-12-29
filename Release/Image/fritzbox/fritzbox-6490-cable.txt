@@ -15,8 +15,8 @@ fritzbox/fritzbox-6490-cable/deutschland/fritz.os/FRITZ.Box_6490_Cable.de-en-es-
 fritzbox/fritzbox-6490-cable/deutschland/fritz.os/FRITZ.Box_6490_Cable.de-en-es-it-fr-pl.141.06.87.image
 fritzbox/fritzbox-6490-cable/deutschland/fritz.os/FRITZ.Box_6490_Cable.de-en-es-it-fr-pl.141.07.01.image
 fritzbox/fritzbox-6490-cable/deutschland/fritz.os/FRITZ.Box_6490_Cable.de-en-es-it-fr-pl.141.07.02.image
-fritzbox/fritzbox-6490-cable/other/fritz.os/FRITZ.Box_6490_Cable-07.27.image
 fritzbox/fritzbox-6490-cable/other/fritz.os/FRITZ.Box_6490_Cable-07.25.image
+fritzbox/fritzbox-6490-cable/other/fritz.os/FRITZ.Box_6490_Cable-07.27.image
 fritzbox/fritzbox-6490-cable/other/fritz.os/FRITZ.Box_6490_Cable-07.28.image
 fritzbox/fritzbox-6490-cable/other/fritz.os/FRITZ.Box_6490_Cable-07.29.image
 fritzbox/fritzbox-6490-cable/other/fritz.os/FRITZ.Box_6490_Cable-07.56.image
