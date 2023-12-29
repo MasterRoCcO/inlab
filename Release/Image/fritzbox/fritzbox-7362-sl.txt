@@ -1,5 +1,5 @@
-fritzbox/fritzbox-7362-sl/deutschland/fritz.os/FRITZ.Box_7362_SL-07.12.image
 fritzbox/fritzbox-7362-sl/deutschland/fritz.os/FRITZ.Box_7362_SL-07.10.image
+fritzbox/fritzbox-7362-sl/deutschland/fritz.os/FRITZ.Box_7362_SL-07.12.image
 fritzbox/fritzbox-7362-sl/deutschland/fritz.os/FRITZ.Box_7362_SL-07.13.image
 fritzbox/fritzbox-7362-sl/deutschland/fritz.os/FRITZ.Box_7362_SL-07.14.image
 fritzbox/fritzbox-7362-sl/deutschland/fritz.os/FRITZ.Box_7362_SL.131.05.53.image
