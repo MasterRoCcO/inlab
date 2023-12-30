@@ -8,7 +8,6 @@ fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.40.imag
 fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.49.image
 fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.57.image
 fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.80.image
-fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ.Box Fon WLAN 7170.29.04.81.image
 fritzbox/fritzbox-7170-sl/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.81.image
 fritzbox/fritzbox-7170-sl/firmware/freenet/fritz.box_fon_wlan_7170sl.29.04.15.image
 fritzbox/fritzbox-7170-sl/firmware/freenet/fritz.box_fon_wlan_7170sl.29.04.22.image

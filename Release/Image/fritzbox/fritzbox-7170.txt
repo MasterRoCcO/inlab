@@ -14,7 +14,6 @@ fritzbox/fritzbox-7170/firmware/deutsch/fritz.box_fon_wlan_7170.29.04.21.image
 fritzbox/fritzbox-7170/firmware/deutsch/fritz.box_fon_wlan_7170.29.04.25.image
 fritzbox/fritzbox-7170/firmware/deutsch/fritz.box_fon_wlan_7170.29.04.29.image
 fritzbox/fritzbox-7170/firmware/deutsch/fritz.box_fon_wlan_7170.29.04.30.image
-fritzbox/fritzbox-7170/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.30.image
 fritzbox/fritzbox-7170/firmware/deutsch/fritz.box_fon_wlan_7170.29.04.33.image
 fritzbox/fritzbox-7170/firmware/deutsch/fritz.box_fon_wlan_7170.29.04.34.image
 fritzbox/fritzbox-7170/firmware/deutsch/fritz.box_fon_wlan_7170.29.04.37.image
@@ -27,10 +26,8 @@ fritzbox/fritzbox-7170/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.57.image
 fritzbox/fritzbox-7170/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.59.image
 fritzbox/fritzbox-7170/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.67.image
 fritzbox/fritzbox-7170/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.70.image
-fritzbox/fritzbox-7170/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.76.image
 fritzbox/fritzbox-7170/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.76.image
 fritzbox/fritzbox-7170/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.77.image
-fritzbox/fritzbox-7170/firmware/deutsch/FRITZ!Box Fon WLAN 7170 29.04.80.image
 fritzbox/fritzbox-7170/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.80.image
 fritzbox/fritzbox-7170/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.87.image
 fritzbox/fritzbox-7170/firmware/deutsch/FRITZ.Box_Fon_WLAN_7170.29.04.88.image
