@@ -1,2 +1,2 @@
-inhaus/MOVE21/600v2/FRITZ.Repeater_600v2-07.39-103693-Inhaus.image
-inhaus/MOVE21/600v2/FRITZ.Repeater_600v2-07.39-104769-Inhaus.image
+FRITZ.Repeater_600v2-07.39-103693-Inhaus.image
+FRITZ.Repeater_600v2-07.39-104769-Inhaus.image

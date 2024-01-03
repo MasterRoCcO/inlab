@@ -1,8 +1,8 @@
-inhaus/MOVE21NL1/6660Cable/FRITZ.Box_6660_Cable-07.51-104450-Inhaus.image
-inhaus/MOVE21NL1/6660Cable/FRITZ.Box_6660_Cable-07.51-104822-Inhaus.image
-inhaus/MOVE21NL1/6660Cable/FRITZ.Box_6660_Cable-07.51-105057-Inhaus.image
-inhaus/MOVE21NL1/6660Cable/FRITZ.Box_6660_Cable-07.51-105171-Inhaus.image
-inhaus/MOVE21NL1/6660Cable/FRITZ.Box_6660_Cable-07.51-105340-Inhaus.image
-inhaus/MOVE21NL1/6660Cable/FRITZ.Box_6660_Cable-07.51-105557-Inhaus.image
-inhaus/MOVE21NL1/6660Cable/FRITZ.Box_6660_Cable-07.51-105985-Inhaus.image
-inhaus/MOVE21NL1/6660Cable/FRITZ.Box_6660_Cable-07.51-106316-Inhaus.image
+FRITZ.Box_6660_Cable-07.51-104450-Inhaus.image
+FRITZ.Box_6660_Cable-07.51-104822-Inhaus.image
+FRITZ.Box_6660_Cable-07.51-105057-Inhaus.image
+FRITZ.Box_6660_Cable-07.51-105171-Inhaus.image
+FRITZ.Box_6660_Cable-07.51-105340-Inhaus.image
+FRITZ.Box_6660_Cable-07.51-105557-Inhaus.image
+FRITZ.Box_6660_Cable-07.51-105985-Inhaus.image
+FRITZ.Box_6660_Cable-07.51-106316-Inhaus.image

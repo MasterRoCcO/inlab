@@ -1,6 +1,6 @@
-inhaus/MOVE21/1260E/FRITZ.Powerline_1260E-07.39-101668-Inhaus.image
-inhaus/MOVE21/1260E/FRITZ.Powerline_1260E-07.39-102245-Inhaus.image
-inhaus/MOVE21/1260E/FRITZ.Powerline_1260E-07.39-104257-Inhaus.image
-inhaus/MOVE21/1260E/FRITZ.Powerline_1260E-07.39-104520-Inhaus.image
-inhaus/MOVE21/1260E/FRITZ.Powerline_1260E-07.39-104871-Inhaus.image
-inhaus/MOVE21/1260E/FRITZ.Powerline_1260E-07.39-104990-Inhaus.image
+FRITZ.Powerline_1260E-07.39-101668-Inhaus.image
+FRITZ.Powerline_1260E-07.39-102245-Inhaus.image
+FRITZ.Powerline_1260E-07.39-104257-Inhaus.image
+FRITZ.Powerline_1260E-07.39-104520-Inhaus.image
+FRITZ.Powerline_1260E-07.39-104871-Inhaus.image
+FRITZ.Powerline_1260E-07.39-104990-Inhaus.image
