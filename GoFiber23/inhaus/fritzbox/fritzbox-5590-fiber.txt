@@ -13,3 +13,4 @@ FRITZ.Box_5590_Fiber-07.70-109757-Inhaus.image
 FRITZ.Box_5590_Fiber-07.70-109780-Inhaus.image
 FRITZ.Box_5590_Fiber-07.70-109830-Inhaus.image
 FRITZ.Box_5590_Fiber-07.70-109869-Inhaus.image
+FRITZ.Box_5590_Fiber-07.70-109939-Inhaus.image
