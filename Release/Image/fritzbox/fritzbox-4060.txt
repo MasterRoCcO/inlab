@@ -2,6 +2,7 @@ fritzbox/fritzbox-4060/deutschland/fritz.os/FRITZ.Box_4060-07.29.image
 fritzbox/fritzbox-4060/deutschland/fritz.os/FRITZ.Box_4060-07.30.image
 fritzbox/fritzbox-4060/deutschland/fritz.os/FRITZ.Box_4060-07.56.image
 fritzbox/fritzbox-4060/deutschland/fritz.os/FRITZ.Box_4060-07.57.image
+fritzbox/fritzbox-4060/deutschland/fritz.os/FRITZ.Box_4060-07.57-V2.image
 fritzbox/fritzbox-4060/other/fritz.os/FRITZ.Box_4060-07.29.image
 fritzbox/fritzbox-4060/other/fritz.os/FRITZ.Box_4060-07.30.image
 fritzbox/fritzbox-4060/other/fritz.os/FRITZ.Box_4060-07.56.image

@@ -2,6 +2,7 @@ fritzbox/fritzbox-6690-cable/deutschland/fritz.os/FRITZ.Box_6690_Cable-07.29.ima
 fritzbox/fritzbox-6690-cable/deutschland/fritz.os/FRITZ.Box_6690_Cable-07.50.image
 fritzbox/fritzbox-6690-cable/deutschland/fritz.os/FRITZ.Box_6690_Cable-07.56.image
 fritzbox/fritzbox-6690-cable/deutschland/fritz.os/FRITZ.Box_6690_Cable-07.57.image
+fritzbox/fritzbox-6690-cable/deutschland/fritz.os/FRITZ.Box_6690_Cable-07.57-V2.image
 fritzbox/fritzbox-6690-cable/other/fritz.os/FRITZ.Box_6690_Cable-07.29.image
 fritzbox/fritzbox-6690-cable/other/fritz.os/FRITZ.Box_6690_Cable-07.50.image
 fritzbox/fritzbox-6690-cable/other/fritz.os/FRITZ.Box_6690_Cable-07.56.image

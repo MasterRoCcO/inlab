@@ -18,4 +18,5 @@ fritzwlan/fritzwlan-repeater-310-b/other/fritz.os/FRITZ.Box_WLAN_Repeater_310_en
 fritzwlan/fritzwlan-repeater-310-b/other/fritz.os/FRITZ.Box_WLAN_Repeater_310_en-de-es-it-fr-pl.143.07.01.image
 fritzwlan/fritzwlan-repeater-310-b/other/fritz.os/FRITZ.Repeater_310_07.14.image
 fritzwlan/fritzwlan-repeater-310-b/other/fritz.os/FRITZ.Repeater_310_07.15.image
+fritzwlan/fritzwlan-repeater-310-b/other/fritz.os/FRITZ.Repeater_310-07.16.image
 fritzwlan/fritzwlan-repeater-310-b/other/fritz.os/FRITZ.Repeater_310_07.16.image
