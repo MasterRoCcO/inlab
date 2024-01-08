@@ -1,6 +1,6 @@
-download.avm.de/fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.52.image
-download.avm.de/fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.54.image
-download.avm.de/fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.54-Release.image
-download.avm.de/fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.57-Release.image
-download.avm.de/fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.58-Release.image
-download.avm.de/fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.59-Release.image
+fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.52.image
+fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.54.image
+fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.54-Release.image
+fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.57-Release.image
+fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.58-Release.image
+fritzwlan/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.59-Release.image
