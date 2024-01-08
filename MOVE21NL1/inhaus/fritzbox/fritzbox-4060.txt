@@ -15,3 +15,4 @@ FRITZ.Box_4060-07.51-107012-Inhaus.image
 FRITZ.Box_4060-07.51-102087-Inhaus.image
 FRITZ.Box_4060-07.51-102608-Inhaus.image
 FRITZ.Box_4060-07.57-109858-Inhaus.image
+download.avm.de/FRITZ.Box_4060-07.57-109858-Inhaus.image
