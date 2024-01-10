@@ -19,3 +19,4 @@ FRITZ.Box_7530_AX-07.70-109782-Inhaus.image
 FRITZ.Box_7530_AX-07.70-109829-Inhaus.image
 FRITZ.Box_7530_AX-07.70-109871-Inhaus.image
 FRITZ.Box_7530_AX-07.70-109941-Inhaus.image
+FRITZ.Box_7530_AX-07.70-109998-Inhaus.image
