@@ -19,6 +19,6 @@ fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.
 fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.04.02.image
 fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.04.21.image
 fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.04.26.image
-fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.08.04.49.image
+fritzbox/fritzbox-wlan/firmware/english/annex_a/FRITZ.Box_Fon_WLAN.AnnexA.en.08.04.49.image
 fritzbox/fritzbox-wlan/firmware/english/annex_a/fritz.box_fon_wlan.annexa.en.58.04.59.image
 fritzbox/fritzbox-wlan/firmware/english/annex_b/FRITZ.Box_Fon_WLAN.AnnexB.en.08.04.49.image

@@ -40,3 +40,4 @@ fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590-07.57.image
 fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590.en-de-es-it-fr-pl-nl.154.06.84.image
 fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590.en-de-es-it-fr-pl-nl.154.07.00.image
 fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590.en-de-es-it-fr-pl-nl.154.07.01.image
+fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590.int.07.13.image

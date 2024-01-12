@@ -20,3 +20,4 @@ fritzbox/fritzbox-7583/other/fritz.os/FRITZ.Box_7583-07.31.image
 fritzbox/fritzbox-7583/other/fritz.os/FRITZ.Box_7583-07.50.image
 fritzbox/fritzbox-7583/other/fritz.os/FRITZ.Box_7583-07.56.image
 fritzbox/fritzbox-7583/other/fritz.os/FRITZ.Box_7583-07.57.image
+fritzbox/fritzbox-7583/other/fritz.os/FRITZ.Box_7583.int.07.15.image

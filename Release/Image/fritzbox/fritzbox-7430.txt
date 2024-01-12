@@ -33,3 +33,4 @@ fritzbox/fritzbox-7430/other/fritz.os/FRITZ.Box_7430.en-de-es-it-fr-pl.146.06.30
 fritzbox/fritzbox-7430/other/fritz.os/FRITZ.Box_7430.en-de-es-it-fr-pl.146.06.52.image
 fritzbox/fritzbox-7430/other/fritz.os/FRITZ.Box_7430.en-de-es-it-fr-pl.146.06.83.image
 fritzbox/fritzbox-7430/other/fritz.os/FRITZ.Box_7430.en-de-es-it-fr-pl.146.07.01.image
+fritzbox/fritzbox-7430/other/fritz.os/FRITZ.Box_7430.int.07.12.image
