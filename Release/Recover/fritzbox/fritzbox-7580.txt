@@ -1,3 +1,14 @@
+fritzbox/fritzbox-7580/deutschland/recover/FRITZ.Box_7580.06.51.recover-image.exe
+fritzbox/fritzbox-7580/deutschland/recover/FRITZ.Box_7580.06.53.recover-image.exe
+fritzbox/fritzbox-7580/deutschland/recover/FRITZ.Box_7580.06.54.recover-image.exe
+fritzbox/fritzbox-7580/deutschland/recover/FRITZ.Box_7580.06.80.recover-image.exe
+fritzbox/fritzbox-7580/deutschland/recover/FRITZ.Box_7580.06.81.recover-image.exe
+fritzbox/fritzbox-7580/deutschland/recover/FRITZ.Box_7580.06.83.recover-image.exe
+fritzbox/fritzbox-7580/deutschland/recover/FRITZ.Box_7580.06.90.recover-image.exe
+fritzbox/fritzbox-7580/deutschland/recover/FRITZ.Box_7580.06.92.recover-image.exe
+fritzbox/fritzbox-7580/deutschland/recover/FRITZ.Box_7580.07.00.recover-image.exe
+fritzbox/fritzbox-7580/deutschland/recover/fritz.box_7580.07.01.recover-image.exe
+fritzbox/fritzbox-7580/deutschland/recover/fritz.box_7580-07.10-recover-image.exe
 fritzbox/fritzbox-7580/deutschland/recover/fritz.box_7580-07.11-recover.exe
 fritzbox/fritzbox-7580/deutschland/recover/fritz.box_7580-07.12-recover.exe
 fritzbox/fritzbox-7580/deutschland/recover/FRITZ.Box_7580-07.21-recover.exe

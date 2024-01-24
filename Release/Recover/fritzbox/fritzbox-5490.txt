@@ -2,7 +2,17 @@ fritzbox/fritzbox-5490/deutschland/recover/fritz.box_5490-07.12-recover.exe
 fritzbox/fritzbox-5490/deutschland/recover/FRITZ.Box_5490-07.27-recover.exe
 fritzbox/fritzbox-5490/deutschland/recover/FRITZ.Box_5490-07.29-Recover.exe
 fritzbox/fritzbox-5490/deutschland/recover/FRITZ.Box_5490-07.31-recover.exe
+fritzbox/fritzbox-5490/deutschland/recover/FRITZ.Box_5490.de-en-es-it-fr-pl.06.51.recover-image.exe
+fritzbox/fritzbox-5490/deutschland/recover/FRITZ.Box_5490.de-en-es-it-fr-pl.06.52.recover-image.exe
+fritzbox/fritzbox-5490/deutschland/recover/FRITZ.Box_5490.de-en-es-it-fr-pl.06.83.recover-image.exe
+fritzbox/fritzbox-5490/deutschland/recover/FRITZ.Box_5490.de-en-es-it-fr-pl.06.84.recover-image.exe
+fritzbox/fritzbox-5490/deutschland/recover/FRITZ.Box_5490.de-en-es-it-fr-pl.07.01.recover-image.exe
 fritzbox/fritzbox-5490/other/recover/fritz.box_5490-07.12-recover.exe
 fritzbox/fritzbox-5490/other/recover/FRITZ.Box_5490-07.27-recover.exe
 fritzbox/fritzbox-5490/other/recover/FRITZ.Box_5490-07.29-Recover.exe
 fritzbox/fritzbox-5490/other/recover/FRITZ.Box_5490-07.31-recover.exe
+fritzbox/fritzbox-5490/other/recover/FRITZ.Box_5490.de-en-es-it-fr-pl.06.51.recover-image.exe
+fritzbox/fritzbox-5490/other/recover/FRITZ.Box_5490.de-en-es-it-fr-pl.06.52.recover-image.exe
+fritzbox/fritzbox-5490/other/recover/FRITZ.Box_5490.de-en-es-it-fr-pl.06.83.recover-image.exe
+fritzbox/fritzbox-5490/other/recover/FRITZ.Box_5490.de-en-es-it-fr-pl.06.84.recover-image.exe
+fritzbox/fritzbox-5490/other/recover/FRITZ.Box_5490.de-en-es-it-fr-pl.07.01.recover-image.exe

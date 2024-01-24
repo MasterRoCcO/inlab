@@ -1,2 +1,17 @@
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.06.50_CE.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.06.50_EN.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.06.50.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.06.51_CE.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.06.51_EN.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.06.90_CE.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.06.90.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.06.92.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.07.01.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.07.10.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.07.12.recover-image.exe
 fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.07.13-recover.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.07.14.recover-image.exe
+fritzpowerline/fritzpowerline-546e/deutschland/recover/FRITZ.Powerline_546E.07.15-recover-image.exe
 fritzpowerline/fritzpowerline-546e/other/recover/FRITZ.Powerline_546E-07.15_recover.exe
+fritzpowerline/fritzpowerline-546e/other/recover/FRITZ.Powerline_546E.en-de-es-it-fr-pl.06.34.recover-image.exe
+fritzpowerline/fritzpowerline-546e/other/recover/FRITZ.Powerline_546E.en-de-es-it-fr-pl.06.50.recover-image.exe

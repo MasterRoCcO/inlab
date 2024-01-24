@@ -6,6 +6,7 @@ fritzwlan/fritzrepeater-3000/deutschland/recover/FRITZ.Repeater_3000-07.29-recov
 fritzwlan/fritzrepeater-3000/deutschland/recover/FRITZ.Repeater_3000-07.50-recover.exe
 fritzwlan/fritzrepeater-3000/deutschland/recover/FRITZ.Repeater_3000-07.56-recover.exe
 fritzwlan/fritzrepeater-3000/deutschland/recover/FRITZ.Repeater_3000-07.57-recover.exe
+fritzwlan/fritzrepeater-3000/deutschland/recover/FRITZ.Repeater_3000.en-de-es-it-fr-pl.07.04.recover-image.exe
 fritzwlan/fritzrepeater-3000/other/recover/FRITZ.Repeater_3000-07.20-recover.exe
 fritzwlan/fritzrepeater-3000/other/recover/FRITZ.Repeater_3000-07.21-recover.exe
 fritzwlan/fritzrepeater-3000/other/recover/FRITZ.Repeater_3000-07.27-recover.exe
@@ -13,3 +14,4 @@ fritzwlan/fritzrepeater-3000/other/recover/FRITZ.Repeater_3000-07.29-recover.exe
 fritzwlan/fritzrepeater-3000/other/recover/FRITZ.Repeater_3000-07.50-recover.exe
 fritzwlan/fritzrepeater-3000/other/recover/FRITZ.Repeater_3000-07.56-recover.exe
 fritzwlan/fritzrepeater-3000/other/recover/FRITZ.Repeater_3000-07.57-recover.exe
+fritzwlan/fritzrepeater-3000/other/recover/fritz.repeater_3000.en-de-es-it-fr-pl.07.05.recover-image.exe

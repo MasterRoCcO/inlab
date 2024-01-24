@@ -1,3 +1,14 @@
+fritzbox/fritzbox-7360-sl/deutschland/recover/FRITZ.Box_Fon_WLAN_7360_SL.05.04.recover-image.exe
+fritzbox/fritzbox-7360-sl/deutschland/recover/FRITZ.Box_Fon_WLAN_7360_SL.05.08.recover-image.exe
+fritzbox/fritzbox-7360-sl/deutschland/recover/FRITZ.Box_Fon_WLAN_7360_SL.05.20.recover-image.exe
+fritzbox/fritzbox-7360-sl/deutschland/recover/FRITZ.Box_Fon_WLAN_7360_SL.05.22.recover-image.exe
+fritzbox/fritzbox-7360-sl/deutschland/recover/FRITZ.Box_Fon_WLAN_7360_SL.05.50.recover-image.exe
+fritzbox/fritzbox-7360-sl/deutschland/recover/FRITZ.Box_Fon_WLAN_7360_SL.05.51.recover-image.exe
+fritzbox/fritzbox-7360-sl/deutschland/recover/FRITZ.Box_Fon_WLAN_7360_SL.06.00.recover-image.exe
+fritzbox/fritzbox-7360-sl/deutschland/recover/FRITZ.Box_Fon_WLAN_7360_SL.06.01.recover-image.exe
+fritzbox/fritzbox-7360-sl/deutschland/recover/FRITZ.Box_Fon_WLAN_7360_SL.06.03.recover-image.exe
+fritzbox/fritzbox-7360-sl/deutschland/recover/fritz.box_fon_wlan_7360_sl.06.30.recover-image.exe
+fritzbox/fritzbox-7360-sl/deutschland/recover/fritz.box_fon_wlan_7360_sl.06.33.recover-image.exe
 fritzbox/fritzbox-7360-sl/deutschland/recover/fritz.box_fon_wlan_7360_sl-06.34.recover.exe
 fritzbox/fritzbox-7360-sl/deutschland/recover/fritz.box_fon_wlan_7360_sl-06.35.recover.exe
 fritzbox/fritzbox-7360-sl/other/recover/fritz.box_fon_wlan_7360_sl-en-de-es-it-fr.06.32.recover.exe

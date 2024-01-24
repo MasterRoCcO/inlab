@@ -1,4 +1,10 @@
+fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E.06.90.recover-image.exe
+fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E.06.92.recover-image.exe
+fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E.07.01.recover-image.exe
+fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E.07.10.recover-image.exe
+fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E.07.12.recover-image.exe
 fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E-07.12-Release-Recover.exe
+fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E.07.13.recover-image.exe
 fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E-07.20-recover.exe
 fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E-07.21-Release-recover.exe
 fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E-07.27-Release-recover.exe
@@ -8,9 +14,13 @@ fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E-07
 fritzpowerline/fritzpowerline-1260e/deutschland/recover/FRITZ.Powerline_1260E-07.57-107853-Release-recover.exe
 fritzpowerline/fritzpowerline-1260e/other/recover/fritz.powerline_1260e-07.10-recover.exe
 fritzpowerline/fritzpowerline-1260e/other/recover/FRITZ.Powerline_1260E-07.12-Release-Recover.exe
+fritzpowerline/fritzpowerline-1260e/other/recover/FRITZ.Powerline_1260E.07.13.recover-image.exe
 fritzpowerline/fritzpowerline-1260e/other/recover/FRITZ.Powerline_1260E-07.20-recover.exe
 fritzpowerline/fritzpowerline-1260e/other/recover/FRITZ.Powerline_1260E-07.21-84898-Release-recover.exe
 fritzpowerline/fritzpowerline-1260e/other/recover/FRITZ.Powerline_1260E-07.29-Release-recover.exe
 fritzpowerline/fritzpowerline-1260e/other/recover/FRITZ.Powerline_1260E-07.50-Release-recover.exe
 fritzpowerline/fritzpowerline-1260e/other/recover/FRITZ.Powerline_1260E-07.56-Release-recover.exe
 fritzpowerline/fritzpowerline-1260e/other/recover/FRITZ.Powerline_1260E-07.57-107853-Release-recover.exe
+fritzpowerline/fritzpowerline-1260e/other/recover/FRITZ.Powerline_1260E.en-de-es-it-fr-pl.06.92.recover-image (1).exe
+fritzpowerline/fritzpowerline-1260e/other/recover/FRITZ.Powerline_1260E.en-de-es-it-fr-pl.06.92.recover-image.exe
+fritzpowerline/fritzpowerline-1260e/other/recover/fritz.powerline_1260e.en-de-es-it-fr-pl.07.01.recover-image.exe

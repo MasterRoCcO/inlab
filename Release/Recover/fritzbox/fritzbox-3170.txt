@@ -1,0 +1,4 @@
+fritzbox/fritzbox-3170/x_misc/deutsch/fritz.box_wlan_3170.04.31.recover-image.exe
+fritzbox/fritzbox-3170/x_misc/deutsch/fritz.box_wlan_3170.04.34.recover-image.exe
+fritzbox/fritzbox-3170/x_misc/deutsch/fritz.box_wlan_3170.04.57.recover-image.exe
+fritzbox/fritzbox-3170/x_misc/deutsch/fritz.box_wlan_3170.04.58.recover-image.exe
