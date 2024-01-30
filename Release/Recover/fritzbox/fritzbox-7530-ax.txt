@@ -7,6 +7,7 @@ fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.31-recover.ex
 fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.56 recover.exe
 fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.57.exe
 fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.57-recover.exe
+fritzbox/fritzbox-7530-ax/deutschland/recover/FRITZ.Box_7530_AX-07.80.exe
 fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.22-recover.exe
 fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.27 Recover.exe
 fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.28-Recover.exe
@@ -15,3 +16,4 @@ fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.31-recover.exe
 fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.56 recover.exe
 fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.57.exe
 fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.57-recover.exe
+fritzbox/fritzbox-7530-ax/other/recover/FRITZ.Box_7530_AX-07.80.exe

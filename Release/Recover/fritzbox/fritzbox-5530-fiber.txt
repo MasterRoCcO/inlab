@@ -8,6 +8,7 @@ fritzbox/fritzbox-5530-fiber/deutschland/recover/FRITZ.Box_5530-07.50-recover.ex
 fritzbox/fritzbox-5530-fiber/deutschland/recover/FRITZ.Box_5530_Fiber-07.56-recover.exe
 fritzbox/fritzbox-5530-fiber/deutschland/recover/FRITZ.Box_5530_Fiber-07.57.exe
 fritzbox/fritzbox-5530-fiber/deutschland/recover/FRITZ.Box_5530_Fiber-07.58-recover.exe
+fritzbox/fritzbox-5530-fiber/deutschland/recover/FRITZ.Box_5530_Fiber-07.80-Recover.exe
 fritzbox/fritzbox-5530-fiber/other/recover/FRITZ.Box_5530-07.21-recover.exe
 fritzbox/fritzbox-5530-fiber/other/recover/FRITZ.Box_5530-07.25-recover.exe
 fritzbox/fritzbox-5530-fiber/other/recover/FRITZ.Box_5530-07.26-recover.exe
@@ -17,3 +18,5 @@ fritzbox/fritzbox-5530-fiber/other/recover/FRITZ.Box_5530-07.30-recover.exe
 fritzbox/fritzbox-5530-fiber/other/recover/FRITZ.Box_5530-07.50-recover.exe
 fritzbox/fritzbox-5530-fiber/other/recover/FRITZ.Box_5530_Fiber-07.56-recover.exe
 fritzbox/fritzbox-5530-fiber/other/recover/FRITZ.Box_5530_Fiber-07.57.exe
+fritzbox/fritzbox-5530-fiber/other/recover/FRITZ.Box_5530_Fiber-07.58-Recover.exe
+fritzbox/fritzbox-5530-fiber/other/recover/FRITZ.Box_5530_Fiber-07.80-Recover.exe
