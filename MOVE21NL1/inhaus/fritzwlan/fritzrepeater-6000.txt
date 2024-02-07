@@ -6,3 +6,4 @@ FRITZ.Repeater_6000-07.51-106152-Inhaus.image
 FRITZ.Repeater_6000-07.51-106587-Inhaus.image
 FRITZ.Repeater_6000-07.51-106790-Inhaus.image
 FRITZ.Repeater_6000-07.57-109860-Inhaus.image
+FRITZ.Repeater_6000-07.57-111009-Inhaus.image

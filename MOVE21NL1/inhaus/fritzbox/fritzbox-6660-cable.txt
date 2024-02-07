@@ -6,3 +6,4 @@ FRITZ.Box_6660_Cable-07.51-105340-Inhaus.image
 FRITZ.Box_6660_Cable-07.51-105557-Inhaus.image
 FRITZ.Box_6660_Cable-07.51-105985-Inhaus.image
 FRITZ.Box_6660_Cable-07.51-106316-Inhaus.image
+FRITZ.Box_6660_Cable-07.57-110964-Inhaus.image

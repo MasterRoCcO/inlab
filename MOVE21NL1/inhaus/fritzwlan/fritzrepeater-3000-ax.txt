@@ -6,3 +6,4 @@ FRITZ.Repeater_3000_AX-07.51-106227-Inhaus.image
 FRITZ.Repeater_3000_AX-07.51-106588-Inhaus.image
 FRITZ.Repeater_3000_AX-07.51-106792-Inhaus.image
 FRITZ.Repeater_3000_AX-07.57-109862-Inhaus.image
+FRITZ.Repeater_3000_AX-07.57-111005-Inhaus.image
