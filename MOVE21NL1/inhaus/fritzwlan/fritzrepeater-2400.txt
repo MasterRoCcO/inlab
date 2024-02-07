@@ -2,3 +2,4 @@ FRITZ.Repeater_2400-07.51-104595-Inhaus.image
 FRITZ.Repeater_2400-07.51-105213-Inhaus.image
 FRITZ.Repeater_2400-07.51-105604-Inhaus.image
 FRITZ.Repeater_2400-07.51-106222-Inhaus.image
+FRITZ.Repeater_2400-07.57-110995-Inhaus.image
