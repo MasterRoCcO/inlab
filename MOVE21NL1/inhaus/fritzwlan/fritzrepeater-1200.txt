@@ -1,3 +1,4 @@
 FRITZ.Repeater_1200-07.51-105209-Inhaus.image
 FRITZ.Repeater_1200-07.51-105602-Inhaus.image
 FRITZ.Repeater_1200-07.57-110997-Inhaus.image
+FRITZ.Repeater_1200-07.57-111466-Inhaus.image
