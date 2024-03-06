@@ -5,6 +5,7 @@ dect/FRITZDECT_302/Labor/06.11.05.13.avm.de.upd
 dect/FRITZDECT_302/Labor/06.11.05.14.avm.de.upd
 dect/FRITZDECT_302/Labor/06.11.05.16.avm.de.upd
 dect/FRITZDECT_302/Labor/06.11.05.17.avm.de.upd
+dect/FRITZDECT_302/Labor/06.11.05.18.avm.de.upd
 dect/FRITZDECT_302/move21/06.11.05.07.avm.de.upd
 dect/FRITZDECT_302/move21/06.11.05.11.avm.de.upd
 dect/FRITZDECT_302/move21/06.11.05.13.avm.de.upd
