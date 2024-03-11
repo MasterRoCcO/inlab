@@ -7,6 +7,7 @@ fritzwlan/fritzrepeater-3000/deutschland/fritz.os/FRITZ.Repeater_3000-07.29.imag
 fritzwlan/fritzrepeater-3000/deutschland/fritz.os/FRITZ.Repeater_3000-07.50.image
 fritzwlan/fritzrepeater-3000/deutschland/fritz.os/FRITZ.Repeater_3000-07.56.image
 fritzwlan/fritzrepeater-3000/deutschland/fritz.os/FRITZ.Repeater_3000-07.57.image
+fritzwlan/fritzrepeater-3000/deutschland/fritz.os/FRITZ.Repeater_3000-07.58.image
 fritzwlan/fritzrepeater-3000/deutschland/fritz.os/FRITZ.Repeater_3000.en-de-es-it-fr-pl.174.07.04.image
 fritzwlan/fritzrepeater-3000/other/fritz.os/FRITZ.Repeater_3000-07.12.image
 fritzwlan/fritzrepeater-3000/other/fritz.os/FRITZ.Repeater_3000-07.20.image
@@ -16,3 +17,4 @@ fritzwlan/fritzrepeater-3000/other/fritz.os/FRITZ.Repeater_3000-07.29.image
 fritzwlan/fritzrepeater-3000/other/fritz.os/FRITZ.Repeater_3000-07.50.image
 fritzwlan/fritzrepeater-3000/other/fritz.os/FRITZ.Repeater_3000-07.56.image
 fritzwlan/fritzrepeater-3000/other/fritz.os/FRITZ.Repeater_3000-07.57.image
+fritzwlan/fritzrepeater-3000/other/fritz.os/FRITZ.Repeater_3000-07.58.image

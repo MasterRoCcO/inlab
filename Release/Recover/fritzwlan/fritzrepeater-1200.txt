@@ -7,6 +7,7 @@ fritzwlan/fritzrepeater-1200/deutschland/recover/FRITZ.Repeater_1200-07.29-recov
 fritzwlan/fritzrepeater-1200/deutschland/recover/FRITZ.Repeater_1200-07.50-recover.exe
 fritzwlan/fritzrepeater-1200/deutschland/recover/FRITZ.Repeater_1200-07.56-recover.exe
 fritzwlan/fritzrepeater-1200/deutschland/recover/FRITZ.Repeater_1200-07.57-recover.exe
+fritzwlan/fritzrepeater-1200/deutschland/recover/FRITZ.Repeater_1200-07.58-recover.exe
 fritzwlan/fritzrepeater-1200/other/recover/FRITZ.Repeater_1200-07.20-recover.exe
 fritzwlan/fritzrepeater-1200/other/recover/FRITZ.Repeater_1200-07.21-recover.exe
 fritzwlan/fritzrepeater-1200/other/recover/FRITZ.Repeater_1200-07.27-recover.exe
@@ -14,3 +15,4 @@ fritzwlan/fritzrepeater-1200/other/recover/FRITZ.Repeater_1200-07.29-recover.exe
 fritzwlan/fritzrepeater-1200/other/recover/FRITZ.Repeater_1200-07.50-recover.exe
 fritzwlan/fritzrepeater-1200/other/recover/FRITZ.Repeater_1200-07.56-recover.exe
 fritzwlan/fritzrepeater-1200/other/recover/FRITZ.Repeater_1200-07.57-recover.exe
+fritzwlan/fritzrepeater-1200/other/recover/FRITZ.Repeater_1200-07.58-recover.exe
