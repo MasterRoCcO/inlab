@@ -20,6 +20,7 @@ fritzwlan/fritzwlan-repeater-1750e/deutschland/fritz.os/FRITZ.Repeater_1750E-07.
 fritzwlan/fritzwlan-repeater-1750e/deutschland/fritz.os/FRITZ.Repeater_1750E-07.29.image
 fritzwlan/fritzwlan-repeater-1750e/deutschland/fritz.os/FRITZ.Repeater_1750E-07.30.image
 fritzwlan/fritzwlan-repeater-1750e/deutschland/fritz.os/FRITZ.Repeater_1750E-07.31.image
+fritzwlan/fritzwlan-repeater-1750e/deutschland/fritz.os/FRITZ_Repeater_1750E-07.32.image
 fritzwlan/fritzwlan-repeater-1750e/other/fritz.os/FRITZ.Box_WLAN_Repeater_1750E-07.12.image
 fritzwlan/fritzwlan-repeater-1750e/other/fritz.os/FRITZ.Box_WLAN_Repeater_1750E-07.20.image
 fritzwlan/fritzwlan-repeater-1750e/other/fritz.os/FRITZ.Box_WLAN_Repeater_1750E-07.21.image
@@ -30,3 +31,4 @@ fritzwlan/fritzwlan-repeater-1750e/other/fritz.os/FRITZ.Repeater_1750E-07.27.ima
 fritzwlan/fritzwlan-repeater-1750e/other/fritz.os/FRITZ.Repeater_1750E-07.29.image
 fritzwlan/fritzwlan-repeater-1750e/other/fritz.os/FRITZ.Repeater_1750E-07.30.image
 fritzwlan/fritzwlan-repeater-1750e/other/fritz.os/FRITZ.Repeater_1750E-07.31.image
+fritzwlan/fritzwlan-repeater-1750e/other/fritz.os/FRITZ_Repeater_1750E-07.32.image
