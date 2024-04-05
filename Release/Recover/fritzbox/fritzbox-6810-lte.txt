@@ -5,6 +5,7 @@ fritzbox/fritzbox-6810-lte/deutschland/recover/FRITZ.Box_6810_LTE.06.21.recover-
 fritzbox/fritzbox-6810-lte/deutschland/recover/FRITZ.Box_6810_LTE.06.30.recover-image.exe
 fritzbox/fritzbox-6810-lte/deutschland/recover/fritz.box_6810_lte.06.31.recover-image.exe
 fritzbox/fritzbox-6810-lte/deutschland/recover/fritz.box_6810_lte.06.34.recover-image.exe
+fritzbox/fritzbox-6810-lte/deutschland/recover/fritz.box_6810_lte.06.35.recover-image.exe
 fritzbox/fritzbox-6810-lte/deutschland/recover/FRITZ.Box_6810_LTE.06.35.recover-image.exe
 fritzbox/fritzbox-6810-lte/other/recover/FRITZ.Box_6810_LTE.en-de-es-it-fr.05.51.recover-image.exe
 fritzbox/fritzbox-6810-lte/other/recover/FRITZ.Box_6810_LTE.en-de-es-it-fr.06.20.recover-image.exe
@@ -12,4 +13,5 @@ fritzbox/fritzbox-6810-lte/other/recover/FRITZ.Box_6810_LTE.en-de-es-it-fr.06.21
 fritzbox/fritzbox-6810-lte/other/recover/FRITZ.Box_6810_LTE.en-de-es-it-fr.06.30.recover-image.exe
 fritzbox/fritzbox-6810-lte/other/recover/fritz.box_6810_lte.en-de-es-it-fr.06.31.recover-image.exe
 fritzbox/fritzbox-6810-lte/other/recover/fritz.box_6810_lte.en-de-es-it-fr.06.34.recover-image.exe
+fritzbox/fritzbox-6810-lte/other/recover/fritz.box_6810_lte.en-de-es-it-fr.06.35.recover-image.exe
 fritzbox/fritzbox-6810-lte/other/recover/FRITZ.Box_6810_LTE.en-de-es-it-fr.06.35.recover-image.exe
