@@ -1,3 +1,6 @@
+FRITZ.Box_7690-07.59-110600-Inhaus.image
+FRITZ.Box_7690-07.59-110644-Inhaus.image
+FRITZ.Box_7690-07.59-110985-Inhaus.image
 FRITZ.Box_7690-07.59-111119-Inhaus.image
 FRITZ.Box_7690-07.59-111289-Inhaus.image
 FRITZ.Box_7690-07.59-111404-Inhaus.image
