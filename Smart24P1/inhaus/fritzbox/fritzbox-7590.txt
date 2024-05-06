@@ -5,3 +5,4 @@ FRITZ.Box_7590-07.90-112265-Inhaus.image
 FRITZ.Box_7590-07.90-112449-Inhaus.image
 FRITZ.Box_7590-07.90-112534-Inhaus.image
 FRITZ.Box_7590-07.90-112607-Inhaus.image
+FRITZ.Box_7590-07.90-112806-Inhaus.image
