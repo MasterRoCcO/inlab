@@ -7,6 +7,7 @@ fritzwlan/fritzrepeater-6000/deutschland/fritz.os/FRITZ.Repeater_6000-07.31.imag
 fritzwlan/fritzrepeater-6000/deutschland/fritz.os/FRITZ.Repeater_6000-07.56.image
 fritzwlan/fritzrepeater-6000/deutschland/fritz.os/FRITZ.Repeater_6000-07.57-109986-Release.image
 fritzwlan/fritzrepeater-6000/deutschland/fritz.os/FRITZ.Repeater_6000-07.57.image
+fritzwlan/fritzrepeater-6000/deutschland/fritz.os/FRITZ.Repeater_6000-07.58.image
 fritzwlan/fritzrepeater-6000/other/fritz.os/FRITZ.Repeater_6000-07.28.image
 fritzwlan/fritzrepeater-6000/other/fritz.os/FRITZ.Repeater_6000-07.29.image
 fritzwlan/fritzrepeater-6000/other/fritz.os/FRITZ.Repeater_6000-07.30.image
@@ -15,3 +16,4 @@ fritzwlan/fritzrepeater-6000/other/fritz.os/FRITZ.Repeater_6000-07.31.image
 fritzwlan/fritzrepeater-6000/other/fritz.os/FRITZ.Repeater_6000-07.56.image
 fritzwlan/fritzrepeater-6000/other/fritz.os/FRITZ.Repeater_6000-07.57-109986-Release.image
 fritzwlan/fritzrepeater-6000/other/fritz.os/FRITZ.Repeater_6000-07.57.image
+fritzwlan/fritzrepeater-6000/other/fritz.os/FRITZ.Repeater_6000-07.58.image
