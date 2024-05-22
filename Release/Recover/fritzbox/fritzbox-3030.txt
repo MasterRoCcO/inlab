@@ -1,0 +1,6 @@
+fritzbox/fritzbox-3030/x_misc/fritz.box_wlan_3030.04.07.recover-image.exe
+fritzbox/fritzbox-3030/x_misc/fritz.box_wlan_3030.04.15.recover-image.exe
+fritzbox/fritzbox-3030/x_misc/fritz.box_wlan_3030.04.33.recover-image.exe
+fritzbox/fritzbox-3030/x_misc/fritz.box_wlan_3030.04.34.recover-image.exe
+fritzbox/fritzbox-3030/x_misc/FRITZ!Box WLAN 3030 21.04.15.recover-image.exe
+fritzbox/fritzbox-3030/x_misc/FRITZ!Box WLAN 3030 21.04.34.recover-image.exe

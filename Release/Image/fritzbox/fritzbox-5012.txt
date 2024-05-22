@@ -1,0 +1,2 @@
+fritzbox/fritzbox-5012/firmware/fritz.box_fon_5012.25.03.90.image
+fritzbox/fritzbox-5012/firmware/fritz.box_fon_5012.25.04.27.image

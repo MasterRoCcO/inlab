@@ -1,0 +1,13 @@
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312-06.55.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.05.23.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.05.50.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.05.51.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.06.01.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.06.03.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.06.20.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.06.21.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.06.30.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.06.50.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.06.53.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.117.06.54.image
+fritzbox/fritzbox-7312/deutschland/fritz.os/FRITZ.Box_7312.AnnexB.117.06.56.image

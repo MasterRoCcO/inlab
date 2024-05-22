@@ -1,0 +1,3 @@
+fritzbox/fritzbox-7113/x_misc/deutsch_a-ch/FRITZ.Box_Fon_WLAN_7113.de-en-es-it-fr.04.86.recover-image.exe
+fritzbox/fritzbox-7113/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7113.04.67.recover-image.exe
+fritzbox/fritzbox-7113/x_misc/english/FRITZ.Box_Fon_WLAN_7113.de-en-es-it-fr.04.86.recover-image.exe

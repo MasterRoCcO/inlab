@@ -1,0 +1,4 @@
+fritzwlan/fritzwlan-usb-stick-nv2/deutschland/fritz.os/avm_fritz!wlan_usb_stick_n_v2_32Bit_build_141114.exe
+fritzwlan/fritzwlan-usb-stick-nv2/deutschland/fritz.os/avm_fritz!wlan_usb_stick_n_v2_64Bit_build_141114.exe
+fritzwlan/fritzwlan-usb-stick-nv2/other/fritz.os/avm_fritz!wlan_usb_stick_n_v2_32Bit_build_141114e.exe
+fritzwlan/fritzwlan-usb-stick-nv2/other/fritz.os/avm_fritz!wlan_usb_stick_n_v2_64Bit_build_141114e.exe

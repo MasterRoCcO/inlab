@@ -1,0 +1,7 @@
+fritzpowerline/fritzpowerline-1260/deutschland/recover/FRITZ.Powerline_1260-07.27-Release-recover.exe
+fritzpowerline/fritzpowerline-1260/deutschland/recover/FRITZ.Powerline_1260-07.29-Release-recover.exe
+fritzpowerline/fritzpowerline-1260/deutschland/recover/FRITZ.Powerline_1260-07.50-Release-recover.exe
+fritzpowerline/fritzpowerline-1260/deutschland/recover/FRITZ.Powerline_1260-07.56-Release-recover.exe
+fritzpowerline/fritzpowerline-1260/other/recover/FRITZ.Powerline_1260-07.50-Release-recover.exe
+fritzpowerline/fritzpowerline-1260/other/recover/FRITZ.Powerline_1260-07.56-Release-recover.exe
+fritzpowerline/fritzpowerline-1260/other/recover/FRITZ.Powerline_1260-07.57-107850-Release-recover.exe

@@ -1,0 +1,2 @@
+fritzbox/fritzbox-3130/x_misc/fritz.box_wlan_3130.04.21.recover-image.exe
+fritzbox/fritzbox-3130/x_misc/fritz.box_wlan_3130.04.34.recover-image.exe
