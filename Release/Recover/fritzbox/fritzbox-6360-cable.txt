@@ -1,4 +1,0 @@
-fritzbox/fritzbox-6360-cable/x_misc/deutsch/6360_201208170010.recover.exe
-fritzbox/fritzbox-6360-cable/x_misc/deutsch/6360_85.04.90_avme.recover.exe
-fritzbox/fritzbox-6360-cable/x_misc/deutsch/6360_85858585.recover.exe
-fritzbox/fritzbox-6360-cable/x_misc/deutsch/FRITZ.Box_6360_Cable.06.04.recover-image.exe

@@ -1,9 +1,0 @@
-fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412-06.86.image
-fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.21.image
-fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.30.image
-fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.50.image
-fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.80.image
-fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.83.image
-fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.85.image
-fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.87.image
-fritzbox/fritzbox-7412/deutschland/fritz.os/FRITZ.Box_7412.137.06.88.image

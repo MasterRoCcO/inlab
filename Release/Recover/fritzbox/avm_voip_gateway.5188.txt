@@ -1,1 +1,0 @@
-fritzbox/avm_voip_gateway.5188/x_misc/VoIP-Gateway-5188.04.81.recover-image.exe

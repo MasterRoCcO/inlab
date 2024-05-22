@@ -1,4 +1,0 @@
-fritzbox/fritzbox-5050/x_misc/fritz.box_fon_5050.04.01.recover-image.exe
-fritzbox/fritzbox-5050/x_misc/fritz.box_fon_5050.04.15.recover-image.exe
-fritzbox/fritzbox-5050/x_misc/fritz.box_fon_5050.12.04.30.recover-image.exe
-fritzbox/fritzbox-5050/x_misc/fritz.box_fon_5050.12.04.31.recover-image.exe

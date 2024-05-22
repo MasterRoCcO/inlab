@@ -1,8 +1,0 @@
-fritzbox/fritzbox-7582/other/recover/fritz.box_7582-07.12.exe
-fritzbox/fritzbox-7582/other/recover/FRITZ.Box_7582-07.13.exe
-fritzbox/fritzbox-7582/other/recover/FRITZ.Box_7582-07.14.exe
-fritzbox/fritzbox-7582/other/recover/FRITZ.Box_7582-07.15.exe
-fritzbox/fritzbox-7582/other/recover/FRITZ.Box_7582-07.16.exe
-fritzbox/fritzbox-7582/other/recover/FRITZ.Box_7582-07.17.exe
-fritzbox/fritzbox-7582/other/recover/FRITZ.Box_7582-07.17-recover.exe
-fritzbox/fritzbox-7582/other/recover/fritz.box_7582.en-de-es-it-fr-pl-nl.07.01.recover-image.exe

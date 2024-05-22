@@ -1,2 +1,0 @@
-fritzbox/fritzbox-5124/x_misc/english/annex_a/FRITZ.Box_Fon_5124.AnnexA.en.04.77.recover-image.exe
-fritzbox/fritzbox-5124/x_misc/english/annex_b/FRITZ.Box_Fon_5124.AnnexB.en.04.77.recover-image.exe

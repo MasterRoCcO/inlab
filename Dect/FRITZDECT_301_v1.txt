@@ -1,5 +1,0 @@
-dect/FRITZDECT_301_v1/iq17/06.06.04.89.avm.de.upd
-dect/FRITZDECT_301_v1/labor/06.06.05.02.avm.de.upd
-dect/FRITZDECT_301_v1/labor/06.06.05.08.avm.de.upd
-dect/FRITZDECT_301_v1/Move21/06.06.05.02.avm.de.upd
-dect/FRITZDECT_301_v1/Move21/06.06.05.08.avm.de.upd
