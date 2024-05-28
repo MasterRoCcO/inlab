@@ -8,3 +8,4 @@ FRITZ.Box_7590_AX-07.90-112609-Inhaus.image
 FRITZ.Box_7590_AX-07.90-112808-Inhaus.image
 FRITZ.Box_7590_AX-07.90-112975-Inhaus.image
 FRITZ.Box_7590_AX-07.90-113120-Inhaus.image
+FRITZ.Box_7590_AX-07.90-113277-Inhaus.image
