@@ -15,6 +15,7 @@ fritzbox/fritzbox-7590/deutschland/fritz.os/FRITZ.Box_7590-07.50.image
 fritzbox/fritzbox-7590/deutschland/fritz.os/FRITZ.Box_7590-07.55.image
 fritzbox/fritzbox-7590/deutschland/fritz.os/FRITZ.Box_7590-07.56.image
 fritzbox/fritzbox-7590/deutschland/fritz.os/FRITZ.Box_7590-07.57.image
+fritzbox/fritzbox-7590/deutschland/fritz.os/FRITZ.Box_7590-07.59.image
 fritzbox/fritzbox-7590/deutschland/fritz.os/FRITZ.Box_7590.154.06.83.image
 fritzbox/fritzbox-7590/deutschland/fritz.os/FRITZ.Box_7590.154.06.84.image
 fritzbox/fritzbox-7590/deutschland/fritz.os/FRITZ.Box_7590.154.06.85.image
@@ -37,6 +38,7 @@ fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590-07.50.image
 fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590-07.55.image
 fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590-07.56.image
 fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590-07.57.image
+fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590-07.59.image
 fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590.en-de-es-it-fr-pl-nl.154.06.84.image
 fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590.en-de-es-it-fr-pl-nl.154.07.00.image
 fritzbox/fritzbox-7590/other/fritz.os/FRITZ.Box_7590.en-de-es-it-fr-pl-nl.154.07.01.image
