@@ -9,6 +9,7 @@ fritzbox/fritzbox-7583/deutschland/recover/FRITZ.Box_7583-07.31.exe
 fritzbox/fritzbox-7583/deutschland/recover/FRITZ.Box_7583-07.50.exe
 fritzbox/fritzbox-7583/deutschland/recover/FRITZ.Box_7583-07.56.exe
 fritzbox/fritzbox-7583/deutschland/recover/FRITZ.Box_7583-07.57-recover.exe
+fritzbox/fritzbox-7583/deutschland/recover/FRITZ.Box_7583-07.59.exe
 fritzbox/fritzbox-7583/other/recover/fritz.box_7583-07.13.exe
 fritzbox/fritzbox-7583/other/recover/FRITZ.Box_7583-07.14.exe
 fritzbox/fritzbox-7583/other/recover/FRITZ.Box_7583-07.15.exe
@@ -20,3 +21,4 @@ fritzbox/fritzbox-7583/other/recover/FRITZ.Box_7583-07.31.exe
 fritzbox/fritzbox-7583/other/recover/FRITZ.Box_7583-07.50.exe
 fritzbox/fritzbox-7583/other/recover/FRITZ.Box_7583-07.56.exe
 fritzbox/fritzbox-7583/other/recover/FRITZ.Box_7583-07.57-recover.exe
+fritzbox/fritzbox-7583/other/recover/FRITZ.Box_7583-07.59.exe
