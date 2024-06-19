@@ -3,5 +3,7 @@ fritzbox/fritzbox-6670-cable/deutschland/fritz.os/FRITZ.Box_6670_Cable-07.60-110
 fritzbox/fritzbox-6670-cable/deutschland/fritz.os/FRITZ.Box_6670_Cable-07.61-110965-Release.image
 fritzbox/fritzbox-6670-cable/deutschland/fritz.os/FRITZ.Box_6670_Cable-07.61.image
 fritzbox/fritzbox-6670-cable/deutschland/fritz.os/FRITZ.Box_6670_Cable-07.62.image
+fritzbox/fritzbox-6670-cable/deutschland/fritz.os/FRITZ.Box_6670_Cable-07.63.image
 fritzbox/fritzbox-6670-cable/other/fritz.os/FRITZ.Box_6670_Cable-07.61.image
 fritzbox/fritzbox-6670-cable/other/fritz.os/FRITZ.Box_6670_Cable-07.62.image
+fritzbox/fritzbox-6670-cable/other/fritz.os/FRITZ.Box_6670_Cable-07.63.image
