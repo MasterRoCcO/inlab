@@ -22,3 +22,4 @@ FRITZ.Smart_Gateway-07.59-111628-Inhaus.image
 FRITZ.Smart_Gateway-07.59-112088-Inhaus.image
 FRITZ.Smart_Gateway-07.61-112952-Inhaus.image
 FRITZ.Smart_Gateway-07.61-113436-Inhaus.image
+FRITZ.Smart_Gateway-07.61-114171-Inhaus.image
