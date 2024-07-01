@@ -1,2 +1,3 @@
 FRITZ.Box_7530-07.90-113954-Inhaus.image
 FRITZ.Box_7530-07.90-114101-Inhaus.image
+FRITZ.Box_7530-07.90-114232-Inhaus.image

@@ -15,3 +15,4 @@ FRITZ.Box_7590-07.90-113718-Inhaus.image
 FRITZ.Box_7590-07.90-113780-Inhaus.image
 FRITZ.Box_7590-07.90-113958-Inhaus.image
 FRITZ.Box_7590-07.90-114107-Inhaus.image
+FRITZ.Box_7590-07.90-114235-Inhaus.image
