@@ -24,3 +24,4 @@ FRITZ.Box_7690-07.60-113572-Inhaus.image
 FRITZ.Box_7690-07.61-113774-Inhaus.image
 FRITZ.Box_7690-07.61-113967-Inhaus.image
 FRITZ.Box_7690-07.61-114118-Inhaus.image
+FRITZ.Box_7690-07.61-114371-Inhaus.image
