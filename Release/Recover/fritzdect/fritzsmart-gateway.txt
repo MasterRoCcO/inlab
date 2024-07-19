@@ -3,3 +3,4 @@ fritzdect/fritzsmart-gateway/deutschland/recover/FRITZ.Smart_Gateway-07.57-Relea
 fritzdect/fritzsmart-gateway/deutschland/recover/FRITZ.Smart_Gateway-07.58-Release-recover.exe
 fritzdect/fritzsmart-gateway/deutschland/recover/FRITZ.Smart_Gateway-07.59-Release-recover.exe
 fritzdect/fritzsmart-gateway/deutschland/recover/FRITZ.Smart_Gateway-07.60-Release-recover.exe
+fritzdect/fritzsmart-gateway/deutschland/recover/FRITZ.Smart_Gateway-07.61-Release-recover.exe

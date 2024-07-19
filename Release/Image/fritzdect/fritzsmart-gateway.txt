@@ -5,3 +5,4 @@ fritzdect/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.57-Rele
 fritzdect/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.58-Release.image
 fritzdect/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.59-Release.image
 fritzdect/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.60-Release.image
+fritzdect/fritzsmart-gateway/deutschland/fritz.os/FRITZ.Smart_Gateway-07.61-Release.image
