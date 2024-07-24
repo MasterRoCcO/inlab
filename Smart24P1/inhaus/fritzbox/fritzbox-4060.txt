@@ -3,3 +3,4 @@ FRITZ.Box_4060-07.90-114082-Inhaus.image
 FRITZ.Box_4060-07.90-114221-Inhaus.image
 FRITZ.Box_4060-07.90-114377-Inhaus.image
 FRITZ.Box_4060-07.90-114579-Inhaus.image
+FRITZ.Box_4060-07.90-114653-Inhaus.image
