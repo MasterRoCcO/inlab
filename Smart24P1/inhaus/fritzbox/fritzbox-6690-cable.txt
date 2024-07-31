@@ -10,3 +10,4 @@ FRITZ.Box_6690_Cable-07.90-114273-Inhaus.image
 FRITZ.Box_6690_Cable-07.90-114386-Inhaus.image
 FRITZ.Box_6690_Cable-07.90-114521-Inhaus.image
 FRITZ.Box_6690_Cable-07.90-114662-Inhaus.image
+FRITZ.Box_6690_Cable-07.90-114777-Inhaus.image
