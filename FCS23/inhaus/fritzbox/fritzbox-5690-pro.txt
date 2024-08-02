@@ -15,3 +15,4 @@ FRITZ.Box_5690_Pro-07.60-113280-Inhaus.image
 FRITZ.Box_5690_Pro-07.61-113770-Inhaus.image
 FRITZ.Box_5690_Pro-07.61-114114-Inhaus.image
 FRITZ.Box_5690_Pro-07.61-114731-Inhaus.image
+FRITZ.Box_5690_Pro-07.61-114853-Inhaus.image
