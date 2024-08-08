@@ -5,3 +5,4 @@ FRITZ.Box_7530-07.90-114401-Inhaus.image
 FRITZ.Box_7530-07.90-114602-Inhaus.image
 FRITZ.Box_7530-07.90-114677-Inhaus.image
 FRITZ.Box_7530-07.90-114792-Inhaus.image
+FRITZ.Box_7530-07.90-114929-Inhaus.image
