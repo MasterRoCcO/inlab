@@ -3,7 +3,9 @@ fritzbox/fritzbox-6850-5g/deutschland/fritz.os/FRITZ.Box_6850_5G-07.30.image
 fritzbox/fritzbox-6850-5g/deutschland/fritz.os/FRITZ.Box_6850_5G-07.56.image
 fritzbox/fritzbox-6850-5g/deutschland/fritz.os/FRITZ.Box_6850_5G-07.57-107917-Release.image
 fritzbox/fritzbox-6850-5g/deutschland/fritz.os/FRITZ.Box_6850_5G-07.57.image
+fritzbox/fritzbox-6850-5g/deutschland/fritz.os/FRITZ.Box_6850_5G-07.59.image
 fritzbox/fritzbox-6850-5g/other/fritz.os/FRITZ.Box_6850_5G-07.29.image
 fritzbox/fritzbox-6850-5g/other/fritz.os/FRITZ.Box_6850_5G-07.30.image
 fritzbox/fritzbox-6850-5g/other/fritz.os/FRITZ.Box_6850_5G-07.56.image
 fritzbox/fritzbox-6850-5g/other/fritz.os/FRITZ.Box_6850_5G-07.57.image
+fritzbox/fritzbox-6850-5g/other/fritz.os/FRITZ.Box_6850_5G-07.59.image
