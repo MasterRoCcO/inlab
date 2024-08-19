@@ -1,5 +1,6 @@
 fritzbox/fritzbox-4020/deutschland/fritz.os/FRITZ.Box_4020-07.02.image
 fritzbox/fritzbox-4020/deutschland/fritz.os/FRITZ.Box_4020.07.03.image
+fritzbox/fritzbox-4020/deutschland/fritz.os/FRITZ.Box_4020.07.04.image
 fritzbox/fritzbox-4020/deutschland/fritz.os/FRITZ.Box_4020.de-en-es-it-fr-pl.147.06.27.image
 fritzbox/fritzbox-4020/deutschland/fritz.os/FRITZ.Box_4020.de-en-es-it-fr-pl.147.06.50.image
 fritzbox/fritzbox-4020/deutschland/fritz.os/FRITZ.Box_4020.de-en-es-it-fr-pl.147.06.83.image
@@ -7,6 +8,7 @@ fritzbox/fritzbox-4020/deutschland/fritz.os/FRITZ.Box_4020.de-en-es-it-fr-pl.147
 fritzbox/fritzbox-4020/italy/fritz.os/FRITZ.Box_4020.147.06.84.image
 fritzbox/fritzbox-4020/other/fritz.os/FRITZ.Box_4020-07.02.image
 fritzbox/fritzbox-4020/other/fritz.os/FRITZ.Box_4020.07.03.image
+fritzbox/fritzbox-4020/other/fritz.os/FRITZ.Box_4020.07.04.image
 fritzbox/fritzbox-4020/other/fritz.os/FRITZ.Box_4020.de-en-es-it-fr-pl.147.06.50.image
 fritzbox/fritzbox-4020/other/fritz.os/FRITZ.Box_4020.de-en-es-it-fr-pl.147.06.83.image
 fritzbox/fritzbox-4020/other/fritz.os/FRITZ.Box_4020.de-en-es-it-fr-pl.147.07.01.image

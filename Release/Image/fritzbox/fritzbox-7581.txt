@@ -8,5 +8,6 @@ fritzbox/fritzbox-7581/other/fritz.os/FRITZ.Box_7581-07.14.image
 fritzbox/fritzbox-7581/other/fritz.os/FRITZ.Box_7581-07.15.image
 fritzbox/fritzbox-7581/other/fritz.os/FRITZ.Box_7581-07.16.image
 fritzbox/fritzbox-7581/other/fritz.os/FRITZ.Box_7581-07.17.image
+fritzbox/fritzbox-7581/other/fritz.os/FRITZ.Box_7581-07.18.image
 fritzbox/fritzbox-7581/other/fritz.os/FRITZ.Box_7581.en-de-es-it-fr-pl.152.06.85.image
 fritzbox/fritzbox-7581/other/fritz.os/FRITZ.Box_7581.en-de-es-it-fr-pl-nl.152.07.01.image

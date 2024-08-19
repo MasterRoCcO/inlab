@@ -4,4 +4,5 @@ fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.14.image
 fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.15.image
 fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.16.image
 fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.17.image
+fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.18.image
 fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582.en-de-es-it-fr-pl-nl.156.07.01.image
