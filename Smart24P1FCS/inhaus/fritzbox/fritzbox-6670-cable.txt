@@ -7,3 +7,4 @@ FRITZ.Box_6670_Cable-07.90-115060-Inhaus.image
 FRITZ.Box_6670_Cable-07.90-115320-Inhaus.image
 FRITZ.Box_6670_Cable-07.90-115402-Inhaus.image
 FRITZ.Box_6670_Cable-07.90-115577-Inhaus.image
+FRITZ.Box_6670_Cable-07.90-115692-Inhaus.image

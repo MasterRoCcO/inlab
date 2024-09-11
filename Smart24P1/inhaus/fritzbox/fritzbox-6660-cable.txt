@@ -17,3 +17,4 @@ FRITZ.Box_6660_Cable-07.90-115032-Inhaus.image
 FRITZ.Box_6660_Cable-07.90-115208-Inhaus.image
 FRITZ.Box_6660_Cable-07.90-115365-Inhaus.image
 FRITZ.Box_6660_Cable-07.90-115503-Inhaus.image
+FRITZ.Box_6660_Cable-07.90-115650-Inhaus.image

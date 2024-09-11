@@ -17,3 +17,4 @@ FRITZ.Box_6591_Cable-07.90-115035-Inhaus.image
 FRITZ.Box_6591_Cable-07.90-115225-Inhaus.image
 FRITZ.Box_6591_Cable-07.90-115368-Inhaus.image
 FRITZ.Box_6591_Cable-07.90-115506-Inhaus.image
+FRITZ.Box_6591_Cable-07.90-115653-Inhaus.image
