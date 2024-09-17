@@ -3,3 +3,4 @@ FRITZ.Box_6850_5G-07.90-114137-Inhaus.image
 FRITZ.Box_6850_5G-07.90-114771-Inhaus.image
 FRITZ.Box_6850_5G-07.90-114934-Inhaus.image
 FRITZ.Box_6850_5G-07.90-115641-Inhaus.image
+FRITZ.Box_6850_5G-07.90-115770-Inhaus.image
