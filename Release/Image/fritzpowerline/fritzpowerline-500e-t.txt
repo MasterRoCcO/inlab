@@ -1,0 +1,4 @@
+fritzpowerline/fritzpowerline-500e-t/deutschland/fritz.os/fritz.powerline_500E_T_523_03_01.image
+fritzpowerline/fritzpowerline-500e-t/deutschland/fritz.os/fritz.powerline_500E_T_524_03_02.image
+fritzpowerline/fritzpowerline-500e-t/deutschland/fritz.os/fritz.powerline_500E_T_531_03_06.image
+fritzpowerline/fritzpowerline-500e-t/deutschland/fritz.os/fritz.powerline_500E_T_531_03_07.image

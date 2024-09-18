@@ -1,0 +1,25 @@
+fritzbox/fritzbox-7270-v3/firmware/Ewetel/FRITZ.Box_Fon_WLAN_7270_v3.AnnexB.04.81.ewetel.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch_a-ch/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.05.53.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.04.70.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.04.76.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.04.86.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.04.88.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.05.05.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.05.22.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.05.50.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.05.52.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.05.53.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.05.54.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/fritz.box_fon_wlan_7270_v3.06.06.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ!Box Fon WLAN 7270v3 74.04.80.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ!Box Fon WLAN 7270v3 74.04.86.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/english/FRITZ.Box_Fon_WLAN_7270_v3.AnnexB.en-de-es-it-fr.05.53.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.04.86.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.04.90.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.05.04.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.05.05.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.05.06.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.05.23.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.05.51.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.05.52.recover-image.exe
+fritzbox/fritzbox-7270-v3/x_misc/english/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.05.53.recover-image.exe

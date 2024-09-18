@@ -1,0 +1,3 @@
+fritzbox/fritzbox-sl/x_misc/fritz.box_sl.03.73.recover-image.exe
+fritzbox/fritzbox-sl/x_misc/fritz.box_sl.03.93.recover-image.exe
+fritzbox/fritzbox-sl/x_misc/fritz.box_sl.03.94.recover-image.exe

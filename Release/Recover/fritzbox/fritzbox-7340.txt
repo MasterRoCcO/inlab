@@ -1,0 +1,9 @@
+fritzbox/fritzbox-7340/x_misc/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.04.88.recover-image.exe
+fritzbox/fritzbox-7340/x_misc/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.04.89.recover-image.exe
+fritzbox/fritzbox-7340/x_misc/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.04.90.recover-image.exe
+fritzbox/fritzbox-7340/x_misc/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.05.05.recover-image.exe
+fritzbox/fritzbox-7340/x_misc/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.05.22.recover-image.exe
+fritzbox/fritzbox-7340/x_misc/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.05.51.recover-image.exe
+fritzbox/fritzbox-7340/x_misc/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.06.01.recover-image.exe
+fritzbox/fritzbox-7340/x_misc/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.06.03.recover-image.exe
+fritzbox/fritzbox-7340/x_misc/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.06.06.recover-image.exe

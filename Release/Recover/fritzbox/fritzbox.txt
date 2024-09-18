@@ -1,0 +1,3 @@
+fritzbox/fritzbox/x_misc/deutsch/fritz.box.03.87.recover-image.exe
+fritzbox/fritzbox/x_misc/english/annex a/fritz.box.annexa.en.03.62.recover-image.exe
+fritzbox/fritzbox/x_misc/english/annex b/fritz.box.en.03.62.recover-image.exe
