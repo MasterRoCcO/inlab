@@ -11,3 +11,4 @@ FRITZ.Box_4060-07.90-115151-Inhaus.image
 FRITZ.Box_4060-07.90-115353-Inhaus.image
 FRITZ.Box_4060-07.90-115491-Inhaus.image
 FRITZ.Box_4060-07.90-115638-Inhaus.image
+FRITZ.Box_4060-07.90-115767-Inhaus.image
