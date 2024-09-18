@@ -1,4 +1,0 @@
-fritzbox/fritzbox-2170/firmware/deutsch/fritz.box_2170.51.04.31.image
-fritzbox/fritzbox-2170/firmware/deutsch/fritz.box_2170.51.04.34.image
-fritzbox/fritzbox-2170/firmware/deutsch/FRITZ.Box_2170.51.04.57.image
-fritzbox/fritzbox-2170/firmware/deutsch/FRITZ.Box_2170_Arcor.AnnexB.51.04.31.image

@@ -1,5 +1,0 @@
-fritzbox/fritzbox-ata/x_misc/deutsch_a-ch/fritz.box_fon_ata.de.04.01.recover-image.exe
-fritzbox/fritzbox-ata/x_misc/deutsch/FRITZ.Box_Fon_ata.03.88.recover-image.exe
-fritzbox/fritzbox-ata/x_misc/deutsch/fritz.box_fon_ata.04.01.recover-image.exe
-fritzbox/fritzbox-ata/x_misc/english/FRITZ.Box_Fon_ata.en.03.64.recover-image.exe
-fritzbox/fritzbox-ata/x_misc/english/fritz.box_fon_ata.en.04.01.recover-image.exe

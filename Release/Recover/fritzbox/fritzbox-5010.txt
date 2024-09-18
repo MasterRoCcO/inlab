@@ -1,7 +1,0 @@
-fritzbox/fritzbox-5010/x_misc/deutsch_a-ch/fritz.box_fon_5010.annexa.04.43.recover-image.exe
-fritzbox/fritzbox-5010/x_misc/deutsch/fritz.box_fon_5010.04.01.recover-image.exe
-fritzbox/fritzbox-5010/x_misc/deutsch/fritz.box_fon_5010.04.15.recover-image.exe
-fritzbox/fritzbox-5010/x_misc/deutsch/FRITZ!Box Fon 5010 23.04.15.recover-image.exe
-fritzbox/fritzbox-5010/x_misc/deutsch/fritz.box_fon_5010.annexa.04.43.recover-image.exe
-fritzbox/fritzbox-5010/x_misc/deutsch/FRITZ!Box Fon 5010 AnnexA 48.04.43.recover-image.exe
-fritzbox/fritzbox-5010/x_misc/fritz.box_fon_5010.04.15.recover-image.exe
