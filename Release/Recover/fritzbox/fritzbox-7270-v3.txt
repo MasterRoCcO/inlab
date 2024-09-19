@@ -1,4 +1,4 @@
-fritzbox/fritzbox-7270-v3/firmware/Ewetel/FRITZ.Box_Fon_WLAN_7270_v3.AnnexB.04.81.ewetel.recover-image.exe
+Ewetel/FRITZ.Box_Fon_WLAN_7270_v3.AnnexB.04.81.ewetel.recover-image.exe
 fritzbox/fritzbox-7270-v3/x_misc/deutsch_a-ch/FRITZ.Box_Fon_WLAN_7270_v3.en-de-es-it-fr.05.53.recover-image.exe
 fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.04.70.recover-image.exe
 fritzbox/fritzbox-7270-v3/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v3.04.76.recover-image.exe
