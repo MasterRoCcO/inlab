@@ -1,5 +1,5 @@
-fritzbox/fritzbox-7520-B/deutschland/fritz.os/FRITZ.Box_7520_B-07.31.image
-fritzbox/fritzbox-7520-B/deutschland/fritz.os/FRITZ.Box_7520_B-07.50.image
-fritzbox/fritzbox-7520-B/deutschland/fritz.os/FRITZ.Box_7520_B-07.56.image
-fritzbox/fritzbox-7520-B/deutschland/fritz.os/FRITZ.Box_7520_B-07.57.image
-fritzbox/fritzbox-7520-B/deutschland/fritz.os/FRITZ.Box_7520_B-07.59.image
+deutschland/fritz.os/FRITZ.Box_7520_B-07.31.image
+deutschland/fritz.os/FRITZ.Box_7520_B-07.50.image
+deutschland/fritz.os/FRITZ.Box_7520_B-07.56.image
+deutschland/fritz.os/FRITZ.Box_7520_B-07.57.image
+deutschland/fritz.os/FRITZ.Box_7520_B-07.59.image

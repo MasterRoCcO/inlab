@@ -1,2 +1,2 @@
-fritzbox/fritzbox-5690-pro/deutschland/fritz.os/FRITZ.Box_5690_Pro-07.62.image
-fritzbox/fritzbox-5690-pro/other/fritz.os/FRITZ.Box_5690_Pro-07.62.image
+deutschland/fritz.os/FRITZ.Box_5690_Pro-07.62.image
+other/fritz.os/FRITZ.Box_5690_Pro-07.62.image

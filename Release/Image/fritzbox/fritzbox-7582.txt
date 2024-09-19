@@ -1,8 +1,8 @@
-fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.12.image
-fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.13.image
-fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.14.image
-fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.15.image
-fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.16.image
-fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.17.image
-fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582-07.18.image
-fritzbox/fritzbox-7582/other/fritz.os/FRITZ.Box_7582.en-de-es-it-fr-pl-nl.156.07.01.image
+other/fritz.os/FRITZ.Box_7582-07.12.image
+other/fritz.os/FRITZ.Box_7582-07.13.image
+other/fritz.os/FRITZ.Box_7582-07.14.image
+other/fritz.os/FRITZ.Box_7582-07.15.image
+other/fritz.os/FRITZ.Box_7582-07.16.image
+other/fritz.os/FRITZ.Box_7582-07.17.image
+other/fritz.os/FRITZ.Box_7582-07.18.image
+other/fritz.os/FRITZ.Box_7582.en-de-es-it-fr-pl-nl.156.07.01.image

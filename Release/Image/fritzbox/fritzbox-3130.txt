@@ -1,2 +1,2 @@
-fritzbox/fritzbox-3130/firmware/fritz.box_wlan_3130.44.04.21.image
-fritzbox/fritzbox-3130/firmware/fritz.box_wlan_3130.44.04.34.image
+fritz.box_wlan_3130.44.04.21.image
+fritz.box_wlan_3130.44.04.34.image

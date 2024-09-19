@@ -1,7 +1,7 @@
-fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.25.image
-fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.27.image
-fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.37.image
-fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.41.image
-fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.57.image
-fritzbox/fritzbox-5140/firmware/FRITZ!Box Fon 5140 43.04.59.image
-fritzbox/fritzbox-5140/firmware/FRITZ.Box_Fon_5140.AnnexB.43.04.67.image
+FRITZ!Box Fon 5140 43.04.25.image
+FRITZ!Box Fon 5140 43.04.27.image
+FRITZ!Box Fon 5140 43.04.37.image
+FRITZ!Box Fon 5140 43.04.41.image
+FRITZ!Box Fon 5140 43.04.57.image
+FRITZ!Box Fon 5140 43.04.59.image
+FRITZ.Box_Fon_5140.AnnexB.43.04.67.image

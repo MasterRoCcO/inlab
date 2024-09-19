@@ -1,6 +1,6 @@
-fritzbox/fritzbox-5010/firmware/deutsch_a-ch/fritz.box_fon_5010.annexa.48.04.43.image
-fritzbox/fritzbox-5010/firmware/deutsch/fritz.box_fon_5010.23.03.91.image
-fritzbox/fritzbox-5010/firmware/deutsch/fritz.box_fon_5010.23.04.01.image
-fritzbox/fritzbox-5010/firmware/deutsch/fritz.box_fon_5010.23.04.15.image
-fritzbox/fritzbox-5010/firmware/deutsch/fritz.box_fon_5010.23.04.27.image
-fritzbox/fritzbox-5010/firmware/deutsch/fritz.box_fon_5010.annexa.48.04.43.image
+deutsch_a-ch/fritz.box_fon_5010.annexa.48.04.43.image
+deutsch/fritz.box_fon_5010.23.03.91.image
+deutsch/fritz.box_fon_5010.23.04.01.image
+deutsch/fritz.box_fon_5010.23.04.15.image
+deutsch/fritz.box_fon_5010.23.04.27.image
+deutsch/fritz.box_fon_5010.annexa.48.04.43.image

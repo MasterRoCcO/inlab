@@ -1,8 +1,8 @@
-fritzbox/fritzbox-5050/firmware/fritz.box_fon_5050.12.03.68.image
-fritzbox/fritzbox-5050/firmware/fritz.box_fon_5050.12.03.71.image
-fritzbox/fritzbox-5050/firmware/fritz.box_fon_5050.12.03.89.image
-fritzbox/fritzbox-5050/firmware/fritz.box_fon_5050.12.04.01.image
-fritzbox/fritzbox-5050/firmware/fritz.box_fon_5050.12.04.15.image
-fritzbox/fritzbox-5050/firmware/fritz.box_fon_5050.12.04.26.image
-fritzbox/fritzbox-5050/firmware/fritz.box_fon_5050.12.04.30.image
-fritzbox/fritzbox-5050/firmware/fritz.box_fon_5050.12.04.31.image
+fritz.box_fon_5050.12.03.68.image
+fritz.box_fon_5050.12.03.71.image
+fritz.box_fon_5050.12.03.89.image
+fritz.box_fon_5050.12.04.01.image
+fritz.box_fon_5050.12.04.15.image
+fritz.box_fon_5050.12.04.26.image
+fritz.box_fon_5050.12.04.30.image
+fritz.box_fon_5050.12.04.31.image

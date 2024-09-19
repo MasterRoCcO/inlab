@@ -1,5 +1,5 @@
-fritzpowerline/fritzpowerline-510e-t/deutschland/fritz.os/fritz.powerline_510E_T_110_00_01.image
-fritzpowerline/fritzpowerline-510e-t/deutschland/fritz.os/fritz.powerline_510E_T_110_03_03.image
-fritzpowerline/fritzpowerline-510e-t/deutschland/fritz.os/fritz.powerline_510E_T_110_04_05.image
-fritzpowerline/fritzpowerline-510e-t/deutschland/fritz.os/fritz.powerline_510E_T_111_03_13.image
-fritzpowerline/fritzpowerline-510e-t/deutschland/fritz.os/fritz.powerline_510E_T_120_01_14.image
+deutschland/fritz.os/fritz.powerline_510E_T_110_00_01.image
+deutschland/fritz.os/fritz.powerline_510E_T_110_03_03.image
+deutschland/fritz.os/fritz.powerline_510E_T_110_04_05.image
+deutschland/fritz.os/fritz.powerline_510E_T_111_03_13.image
+deutschland/fritz.os/fritz.powerline_510E_T_120_01_14.image

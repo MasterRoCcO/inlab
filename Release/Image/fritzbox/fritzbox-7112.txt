@@ -1,4 +1,4 @@
-fritzbox/fritzbox-7112/firmware/deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.76.image
-fritzbox/fritzbox-7112/firmware/deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.80.image
-fritzbox/fritzbox-7112/firmware/deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.87.image
-fritzbox/fritzbox-7112/firmware/deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.88.image
+deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.76.image
+deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.80.image
+deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.87.image
+deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.88.image
