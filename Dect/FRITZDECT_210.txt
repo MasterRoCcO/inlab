@@ -1,4 +1,4 @@
-dect/FRITZDECT_210/c16/07.04.03.87.avm.de.upd
-dect/FRITZDECT_210/m18/07.04.04.16.avm.de.upd
-dect/FRITZDECT_210/m18/07.04.04.17.avm.de.upd
-dect/FRITZDECT_210/move21/07.04.04.25.avm.de.upd
+c16/07.04.03.87.avm.de.upd
+m18/07.04.04.16.avm.de.upd
+m18/07.04.04.17.avm.de.upd
+move21/07.04.04.25.avm.de.upd

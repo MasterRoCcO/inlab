@@ -1,2 +1,2 @@
-dect/FRITZDECT_500/Labor/34.10.16.16.015.avm.de.upd
-dect/FRITZDECT_500/Release/34.10.16.16.015.avm.de.upd
+Labor/34.10.16.16.015.avm.de.upd
+Release/34.10.16.16.015.avm.de.upd

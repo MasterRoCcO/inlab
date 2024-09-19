@@ -1,2 +1,2 @@
-dect/FRITZFon_C4/move21/08.01.04.93.avm.de.upd
-dect/FRITZFon_C4/psq19p2/08.01.04.67.avm.de.upd
+move21/08.01.04.93.avm.de.upd
+psq19p2/08.01.04.67.avm.de.upd

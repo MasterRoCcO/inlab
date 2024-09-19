@@ -1,1 +1,1 @@
-dect/FRITZDECT_350/Release/06.13.03.56.avm.de.upd
+Release/06.13.03.56.avm.de.upd

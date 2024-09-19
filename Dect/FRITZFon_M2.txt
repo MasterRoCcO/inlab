@@ -1,4 +1,4 @@
-dect/FRITZFon_M2/labor/05.01.04.88.avm.de.upd
-dect/FRITZFon_M2/labor1/05.01.04.84.avm.de.upd
-dect/FRITZFon_M2/mesh18/05.01.04.26.avm.de.upd
-dect/FRITZFon_M2/move21/05.01.04.88.avm.de.upd
+labor/05.01.04.88.avm.de.upd
+labor1/05.01.04.84.avm.de.upd
+mesh18/05.01.04.26.avm.de.upd
+move21/05.01.04.88.avm.de.upd
