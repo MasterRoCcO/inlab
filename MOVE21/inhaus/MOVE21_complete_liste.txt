@@ -472,7 +472,7 @@ FRITZ.Box_7530-07.39-101111-Inhaus.image
 FRITZ.Box_7530_AX-07.39-101113-Inhaus.image
 FRITZ.Box_7590-07.39-101115-Inhaus.image
 FRITZ.Box_7590_AX-07.39-101117-Inhaus.image
-FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101125-Inhaus.image
+FRITZ.Smart_Gateway-07.39-101125-Inhaus.image
 FRITZ.Box_7520_B-07.39-101137-Inhaus.image
 FRITZ.Box_6850_5G-07.39-101189-Inhaus.image
 FRITZ.Box_6850_LTE-07.39-101192-Inhaus.image
@@ -491,11 +491,11 @@ FRITZ.Box_7530-07.39-101277-Inhaus.image
 FRITZ.Box_7530_AX-07.39-101279-Inhaus.image
 FRITZ.Box_7590-07.39-101281-Inhaus.image
 FRITZ.Box_7590_AX-07.39-101283-Inhaus.image
-FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101287-Inhaus.image
+FRITZ.Smart_Gateway-07.39-101287-Inhaus.image
 FRITZ.Box_7530-07.39-101409-Inhaus.image
 FRITZ.Box_7590-07.39-101413-Inhaus.image
 FRITZ.Box_7590_AX-07.39-101415-Inhaus.image
-FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101427-Inhaus.image
+FRITZ.Smart_Gateway-07.39-101427-Inhaus.image
 FRITZ.Repeater_2400-07.39-101453-Inhaus.image
 FRITZ.Repeater_3000-07.39-101455-Inhaus.image
 FRITZ.Repeater_3000_AX-07.41-101457-Inhaus.image
@@ -547,7 +547,7 @@ FRITZ.Box_6660_Cable-07.39-101661-Inhaus.image
 FRITZ.Box_6690_Cable-07.39-101665-Inhaus.image
 FRITZ.Powerline_1260E-07.39-101668-Inhaus.image
 FRITZ.Powerline_1260-07.39-101670-Inhaus.image
-FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-101690-Inhaus.image
+FRITZ.Smart_Gateway-07.39-101690-Inhaus.image
 FRITZ.Box_6820v3_LTE-07.39-101697-Inhaus.image
 FRITZ.Box_6820_LTE-07.39-101698-Inhaus.image
 FRITZ.Box_6820_LTE-07.39-101701-Inhaus.image
@@ -594,7 +594,7 @@ FRITZ.Box_6660_Cable-07.39-102258-Inhaus.image
 FRITZ.Box_6690_Cable-07.39-102260-Inhaus.image
 FRITZ.Box_7510-07.39-102262-Inhaus.image
 FRITZ.Box_7520-07.39-102272-Inhaus.image
-FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-102280-Inhaus.image
+FRITZ.Smart_Gateway-07.39-102280-Inhaus.image
 FRITZ.Box_7520_B-07.39-102323-Inhaus.image
 FRITZ.Box_6660_Cable-07.39-102378-Inhaus.image
 FRITZ.Box_5530_Fiber-07.39-102379-Inhaus.image
@@ -605,10 +605,10 @@ FRITZ.Box_6660_Cable-07.39-102468-Inhaus.image
 FRITZ.Box_7590_AX-07.39-102470-Inhaus.image
 FRITZ.Box_6591_Cable-07.39-102477-Inhaus.image
 FRITZ.Box_6690_Cable-07.39-102485-Inhaus.image
-FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-102495-Inhaus.image
+FRITZ.Smart_Gateway-07.39-102495-Inhaus.image
 FRITZ.Repeater_6000-07.39-102515-Inhaus.image
 FRITZ.Repeater_1200_AX-07.39-102534-Inhaus.image
-FRITZSmartGateway/FRITZ.Smart_Gateway-07.39-102540-Inhaus.image
+FRITZ.Smart_Gateway-07.39-102540-Inhaus.image
 FRITZ.Box_5590_Fiber-07.39-102541-Inhaus.image
 FRITZ.Repeater_3000_AX-07.41-102549-Inhaus.image
 FRITZ.Box_5530_Fiber-07.39-102551-Inhaus.image
