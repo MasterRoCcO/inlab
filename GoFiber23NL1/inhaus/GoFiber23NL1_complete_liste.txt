@@ -1,0 +1,6 @@
+FRITZ.Box_5530_Fiber-07.80-112728-Inhaus.image
+FRITZ.Box_7530_AX-07.80-112874-Inhaus.image
+FRITZ.Box_5530_Fiber-07.80-112875-Inhaus.image
+FRITZ.Box_5530_Fiber-07.80-113072-Inhaus.image
+FRITZ.Box_7590_AX-07.80-113073-Inhaus.image
+FRITZ.Box_5590_Fiber-07.80-113074-Inhaus.image
