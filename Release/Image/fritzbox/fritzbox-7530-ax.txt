@@ -9,6 +9,7 @@ deutschland/fritz.os/FRITZ.Box_7530_AX-07.57-107818.image
 deutschland/fritz.os/FRITZ.Box_7530_AX-07.57.image
 deutschland/fritz.os/FRITZ.Box_7530_AX-07.80.image
 deutschland/fritz.os/FRITZ.Box_7530_AX-07.81.image
+deutschland/fritz.os/FRITZ.Box_7530_AX-08.00.image
 other/fritz.os/FRITZ.Box_7530_AX-07.22.image
 other/fritz.os/FRITZ.Box_7530_AX-07.27.image
 other/fritz.os/FRITZ.Box_7530_AX-07.28.image
@@ -19,3 +20,4 @@ other/fritz.os/FRITZ.Box_7530_AX-07.57-107818.image
 other/fritz.os/FRITZ.Box_7530_AX-07.57.image
 other/fritz.os/FRITZ.Box_7530_AX-07.80.image
 other/fritz.os/FRITZ.Box_7530_AX-07.81.image
+other/fritz.os/FRITZ.Box_7530_AX-08.00.image
