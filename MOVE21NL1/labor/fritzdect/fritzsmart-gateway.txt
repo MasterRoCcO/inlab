@@ -1,2 +1,3 @@
 FRITZ.Smart_Gateway-07.62-113994-LabBETA.image
 FRITZ.Smart_Gateway-07.62-114848-LabBETA.image
+FRITZ.Smart_Gateway-07.62-116023-LabBETA.image
