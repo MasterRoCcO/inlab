@@ -10,6 +10,7 @@ deutschland/recover/FRITZ.Box_5530_Fiber-07.57.exe
 deutschland/recover/FRITZ.Box_5530_Fiber-07.58-recover.exe
 deutschland/recover/FRITZ.Box_5530_Fiber-07.80-Recover.exe
 deutschland/recover/FRITZ.Box_5530_Fiber-07.81-recover.exe
+deutschland/recover/FRITZ.Box_5530_Fiber-08.00-recover.exe
 other/recover/FRITZ.Box_5530-07.21-recover.exe
 other/recover/FRITZ.Box_5530-07.25-recover.exe
 other/recover/FRITZ.Box_5530-07.26-recover.exe
@@ -22,3 +23,4 @@ other/recover/FRITZ.Box_5530_Fiber-07.57.exe
 other/recover/FRITZ.Box_5530_Fiber-07.58-Recover.exe
 other/recover/FRITZ.Box_5530_Fiber-07.80-Recover.exe
 other/recover/FRITZ.Box_5530_Fiber-07.81-recover.exe
+other/recover/FRITZ.Box_5530_Fiber-08.00-recover.exe
