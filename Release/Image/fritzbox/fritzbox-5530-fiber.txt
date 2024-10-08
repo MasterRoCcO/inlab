@@ -10,6 +10,7 @@ deutschland/fritz.os/FRITZ.Box_5530_Fiber-07.57.image
 deutschland/fritz.os/FRITZ.Box_5530_Fiber-07.58.image
 deutschland/fritz.os/FRITZ.Box_5530_Fiber-07.80.image
 deutschland/fritz.os/FRITZ.Box_5530_Fiber-07.81.image
+deutschland/fritz.os/FRITZ.Box_5530_Fiber-08.00.image
 other/fritz.os/FRITZ.Box_5530-07.21.image
 other/fritz.os/FRITZ.Box_5530-07.25.image
 other/fritz.os/FRITZ.Box_5530-07.26.image
@@ -22,3 +23,4 @@ other/fritz.os/FRITZ.Box_5530_Fiber-07.57.image
 other/fritz.os/FRITZ.Box_5530_Fiber-07.58.image
 other/fritz.os/FRITZ.Box_5530_Fiber-07.80.image
 other/fritz.os/FRITZ.Box_5530_Fiber-07.81.image
+other/fritz.os/FRITZ.Box_5530_Fiber-08.00.image
