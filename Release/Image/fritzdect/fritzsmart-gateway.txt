@@ -6,3 +6,4 @@ deutschland/fritz.os/FRITZ.Smart_Gateway-07.58-Release.image
 deutschland/fritz.os/FRITZ.Smart_Gateway-07.59-Release.image
 deutschland/fritz.os/FRITZ.Smart_Gateway-07.60-Release.image
 deutschland/fritz.os/FRITZ.Smart_Gateway-07.61-Release.image
+deutschland/fritz.os/FRITZ.Smart_Gateway-07.63-Release.image
