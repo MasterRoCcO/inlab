@@ -1,4 +1,5 @@
 source-files-FRITZ.Smart_Gateway-07.59.tar.gz
 source-files-FRITZ.Smart_Gateway-07.60.tar.gz
+source-files-FRITZ.Smart_Gateway-07.61.tar.gz
 source-files-FRITZ.Smart_Gateway-maple_lowmem-07.54.tar.gz
 source-files-FRITZ.Smart_Gateway-maple_lowmem-07.57.tar.gz
