@@ -1,0 +1,4 @@
+firmware/fritz.box_wlan_3070.19.03.87.image
+firmware/fritz.box_wlan_3070.19.03.99.image
+firmware/fritz.box_wlan_3070.19.04.07.image
+firmware/fritz.box_wlan_3070.19.04.15.image

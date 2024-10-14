@@ -1,0 +1,2 @@
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_6820_LTE-07.39-101698-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_6820_LTE-07.39-101701-Inhaus.image

@@ -1,0 +1,10 @@
+firmware/deutsch/fritz.box_wlan_3270.67.04.57.image
+firmware/deutsch/fritz.box_wlan_3270.67.04.68.image
+firmware/deutsch/fritz.box_wlan_3270.67.04.70.image
+firmware/deutsch/fritz.box_wlan_3270.67.04.76.image
+firmware/deutsch/fritz.box_wlan_3270.67.04.80.image
+firmware/deutsch/fritz.box_wlan_3270.67.04.86.image
+firmware/deutsch/fritz.box_wlan_3270.67.05.05.image
+firmware/deutsch/fritz.box_wlan_3270.67.05.21.image
+firmware/deutsch/fritz.box_wlan_3270.67.05.50.image
+firmware/deutsch/fritz.box_wlan_3270.67.05.54.image

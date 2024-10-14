@@ -1,0 +1,8 @@
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_6590_Cable-07.51-102787-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_6590_Cable-07.51-103121-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_6590_Cable-07.51-103393-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_6590_Cable-07.51-103627-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_6590_Cable-07.51-104098-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_6590_Cable-07.51-105167-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_6590_Cable-07.51-105336-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_6590_Cable-07.51-106549-Inhaus.image

@@ -1,0 +1,7 @@
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.08.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.20.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.50.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.51.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-06.00.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-06.01.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-06.34.tar.gz

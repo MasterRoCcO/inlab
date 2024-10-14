@@ -1,0 +1,6 @@
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_5590_Fiber-07.39-102064-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_5590_Fiber-07.39-102541-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_5590_Fiber-07.39-102730-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_5590_Fiber-07.39-103511-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_5590_Fiber-07.39-103873-Inhaus.image
+/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_5590_Fiber-07.39-104224-Inhaus.image

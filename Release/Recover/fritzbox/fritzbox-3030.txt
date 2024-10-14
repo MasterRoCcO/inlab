@@ -1,0 +1,5 @@
+firmware/fritz.box_wlan_3030.21.03.87.image
+firmware/fritz.box_wlan_3030.21.03.99.image
+firmware/fritz.box_wlan_3030.21.04.15.image
+firmware/fritz.box_wlan_3030.21.04.33.image
+firmware/fritz.box_wlan_3030.21.04.34.image

@@ -1,0 +1,3 @@
+firmware/deutsch/fritz.box_2070.20.03.87.image
+firmware/deutsch/fritz.box_2070.20.03.99.image
+firmware/deutsch/fritz.box_2070.20.04.15.image

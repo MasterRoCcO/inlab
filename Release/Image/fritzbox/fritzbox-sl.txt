@@ -1,0 +1,4 @@
+firmware/fritz.box_sl.10.03.48.image
+firmware/fritz.box_sl.10.03.92.image
+firmware/fritz.box_sl.10.03.93.image
+firmware/fritz.box_sl.10.03.94.image

@@ -1,0 +1,15 @@
+firmware/deutsch_a-ch/FRITZ.Box_Fon_WLAN_7113.de-en-es-it-fr.90.04.86.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.40.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.57.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.58.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.59.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.61.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.67.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7113.60.04.68.image
+firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexA.de-en-es-it-fr.90.04.82.image
+firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexA.de-en-es-it-fr.90.04.84.image
+firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexB.60.04.62.image
+firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexB.60.04.77-freenet.image
+firmware/english/FRITZ.Box_Fon_WLAN_7113.AnnexB.60.04.77.image
+firmware/english/FRITZ.Box_Fon_WLAN_7113.de-en-es-it-fr.90.04.85.image
+firmware/english/FRITZ.Box_Fon_WLAN_7113.de-en-es-it-fr.90.04.86.image

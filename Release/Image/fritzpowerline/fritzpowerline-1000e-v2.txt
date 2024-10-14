@@ -1,0 +1,8 @@
+deutschland/fritz.os/fritz.powerline_1000E_v2_2120_01_tr069_2.image
+deutschland/fritz.os/fritz.powerline_1000E_v2_2130_00_tr069_2.image
+deutschland/fritz.os/fritz.powerline_1000E_v2_2130_01_tr069_3.image
+deutschland/fritz.os/fritz.powerline_1000E_v2_2130_02_tr069_3.image
+other/fritz.os/fritz.powerline_1000E_v2_2120_01_tr069_2.image
+other/fritz.os/fritz.powerline_1000E_v2_2130_00_tr069_2.image
+other/fritz.os/fritz.powerline_1000E_v2_2130_01_tr069_3.image
+other/fritz.os/fritz.powerline_1000E_v2_2130_02_tr069_3.image

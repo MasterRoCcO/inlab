@@ -1,0 +1,16 @@
+source-files-FRITZ.Box_6490_Cable-06.61.tar.gz
+source-files-FRITZ.Box_6490_Cable-07.01.tar.gz
+source-files-FRITZ.Box_6490_Cable-07.02.tar.gz
+source-files-FRITZ.Box_6490_Cable-07.10.tar.gz
+source-files-FRITZ.Box_6490_Cable-07.19.tar.gz
+source-files-FRITZ.Box_6490_Cable.arm-07.20.tar.gz
+source-files-FRITZ.Box_6490_Cable-armp6-07.29.tar.gz
+source-files-FRITZ.Box_6490_Cable-armp6-07.56.tar.gz
+source-files-FRITZ.Box_6490_Cable.atom-06.61.tar.gz
+source-files-FRITZ.Box_6490_Cable.atom-07.01.tar.gz
+source-files-FRITZ.Box_6490_Cable.atom-07.02.tar.gz
+source-files-FRITZ.Box_6490_Cable.atom-07.10.tar.gz
+source-files-FRITZ.Box_6490_Cable.atom-07.19.tar.gz
+source-files-FRITZ.Box_6490_Cable.atom-07.20.tar.gz
+source-files-FRITZ.Box_6490_Cable-x86-07.29.tar.gz
+source-files-FRITZ.Box_6490_Cable-x86-07.56.tar.gz

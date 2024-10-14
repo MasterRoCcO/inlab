@@ -1,0 +1,3 @@
+deutschland/fritz.os/fritz.powerline_1000ET_01_00.image
+deutschland/fritz.os/fritz.powerline_1000ET_01_05.image
+other/fritz.os/fritz.powerline_1000ET_01_05.image
