@@ -1,0 +1,11 @@
+firmware/english/FRITZ.Box_7340.int.99.05.23.image
+firmware/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.99.04.88.image
+firmware/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.99.04.89.image
+firmware/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.99.04.90.image
+firmware/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.99.05.05.image
+firmware/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.99.05.22.image
+firmware/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.99.05.23.image
+firmware/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.99.05.51.image
+firmware/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.99.06.01.image
+firmware/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.99.06.03.image
+firmware/english/FRITZ.Box_Fon_WLAN_7340.en-de-es-it-fr.99.06.06.image

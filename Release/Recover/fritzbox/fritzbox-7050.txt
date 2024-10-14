@@ -1,0 +1,29 @@
+firmware/deutsch/fritz.box_fon_wlan_7050.14.03.101.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.03.62.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.03.68.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.03.71.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.03.86.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.03.88.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.03.89.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.03.99.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.04.01.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.04.06.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.04.12.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.04.15.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.04.25.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.04.26.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.04.30.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.04.31.image
+firmware/deutsch/fritz.box_fon_wlan_7050.14.04.33.image
+firmware/english/annex_a/7050_04.33_en_Englisch firmware for 7050 annex A base DE annex B.image
+firmware/english/annex_a/fritz.box_fon_wlan_7050.annexa.en.14.04.20.image
+firmware/english/annex_a/fritz.box_fon_wlan_7050.annexa.en.14.04.26.image
+firmware/english/annex_b/fritz.box_fon_wlan_7050.14.04.50.B.telnet.image
+firmware/english/annex_b/FRITZ.Box_Fon_WLAN_7050.AnnexB.14.04.23.image
+firmware/english/annex_b/FRITZ.Box_Fon_WLAN_7050.AnnexB (von Arcor) .14.04.23.image
+firmware/english/annex_b/fritz.box_fon_wlan_7050.en.14.04.20.image
+firmware/english/annex_b/fritz.box_fon_wlan_7050.en.14.04.26.image
+firmware/Freenet/fritz.box.fon.wlan.7050.14.03.89.image
+firmware/Freenet/fritz.box.fon.wlan.7050.14.04.15.image
+firmware/Freenet/fritz.box.fon.wlan.7050.14.04.33.image
+firmware/italien/7050.14.04.50_ita_b0.35_r10009.image

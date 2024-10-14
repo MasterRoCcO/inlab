@@ -1,0 +1,7 @@
+firmware/deutsch/fritz.box_wlan_3170.49.04.31.image
+firmware/deutsch/fritz.box_wlan_3170.49.04.34.image
+firmware/deutsch/fritz.box_wlan_3170.49.04.50.image
+firmware/deutsch/fritz.box_wlan_3170.49.04.52.image
+firmware/deutsch/fritz.box_wlan_3170.49.04.53.image
+firmware/deutsch/fritz.box_wlan_3170.49.04.57.image
+firmware/deutsch/fritz.box_wlan_3170.49.04.58.image

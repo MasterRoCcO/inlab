@@ -1,0 +1,4 @@
+deutschland/fritz.os/avm_fritz!wlanusb_stick_ac860_32Bit_build_150706.exe
+deutschland/fritz.os/avm_fritz!wlanusb_stick_ac860_64Bit_build_150706.exe
+other/fritz.os/avm_fritz!wlanusb_stick_ac860_32Bit_english_build_150706.exe
+other/fritz.os/avm_fritz!wlanusb_stick_ac860_64Bit_english_build_150706.exe

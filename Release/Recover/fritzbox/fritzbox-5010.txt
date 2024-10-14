@@ -1,0 +1,6 @@
+firmware/deutsch_a-ch/fritz.box_fon_5010.annexa.48.04.43.image
+firmware/deutsch/fritz.box_fon_5010.23.03.91.image
+firmware/deutsch/fritz.box_fon_5010.23.04.01.image
+firmware/deutsch/fritz.box_fon_5010.23.04.15.image
+firmware/deutsch/fritz.box_fon_5010.23.04.27.image
+firmware/deutsch/fritz.box_fon_5010.annexa.48.04.43.image
