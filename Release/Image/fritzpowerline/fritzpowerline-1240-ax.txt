@@ -1,6 +1,0 @@
-deutschland/fritz.os/FRITZ.Powerline_1240_AX.275.07.57.image
-deutschland/fritz.os/FRITZ.Powerline_1240_AX.275.07.58-113257.image
-deutschland/fritz.os/FRITZ.Powerline_1240_AX.275.07.58.image
-other/fritz.os/FRITZ.Powerline_1240_AX.275.07.58-113257.image
-other/fritz.os/FRITZ.Powerline_1240_AX.275.07.58-114298.image
-other/fritz.os/FRITZ.Powerline_1240_AX.275.07.58.image

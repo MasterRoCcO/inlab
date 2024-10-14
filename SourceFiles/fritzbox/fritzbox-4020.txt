@@ -1,8 +1,0 @@
-source-files-FRITZ.Box_4020-06.27.tar.gz
-source-files-FRITZ.Box_4020-06.50.tar.gz
-source-files-FRITZ.Box_4020-06.83.tar.gz
-source-files-FRITZ.Box_4020-07.01.tar.gz
-source-files-FRITZ.Box_4020-drgfly-06.83.tar.gz
-source-files-FRITZ.Box_4020-drgfly-06.84.tar.gz
-source-files-FRITZ.Box_4020-drgfly-07.02.tar.gz
-source-files-FRITZ.Box_4020-drgfly-07.04.tar.gz

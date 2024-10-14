@@ -1,5 +1,0 @@
-source-files-FRITZ.Box_Fon_WLAN_7320.04.86.tar.gz
-source-files-FRITZ.Box_Fon_WLAN_7320.05.20.tar.gz
-source-files-FRITZ.Box_Fon_WLAN_7320.05.50.tar.gz
-source-files-FRITZ.Box_Fon_WLAN_7320.06.01.tar.gz
-source-files-FRITZ.Box_Fon_WLAN_7320.06.30.tar.gz

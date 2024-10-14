@@ -1,4 +1,0 @@
-source-files-FRITZ.Repeater_6000-07.30.tar.gz
-source-files-FRITZ.Repeater_6000-07.56.tar.gz
-source-files-FRITZ.Repeater_6000-07.58.tar.gz
-source-files-FRITZ.Repeater_6000-qcaarmv8-07.28.tar.gz

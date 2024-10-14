@@ -1,5 +1,0 @@
-source-files-FRITZ.Box_7581-06.83.tar.gz
-source-files-FRITZ.Box_7581-06.85.tar.gz
-source-files-FRITZ.Box_7581-07.01.tar.gz
-source-files-FRITZ.Box_7581-07.13.tar.gz
-source-files-FRITZ.Box_7581-brcma9-07.18.tar.gz

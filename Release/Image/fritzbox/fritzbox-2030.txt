@@ -1,2 +1,0 @@
-firmware/fritz.box_2030.17.03.92.image
-firmware/fritz.box_2030.17.03.93.image

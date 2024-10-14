@@ -1,8 +1,0 @@
-firmware/fritz.box_fon_5050.12.03.68.image
-firmware/fritz.box_fon_5050.12.03.71.image
-firmware/fritz.box_fon_5050.12.03.89.image
-firmware/fritz.box_fon_5050.12.04.01.image
-firmware/fritz.box_fon_5050.12.04.15.image
-firmware/fritz.box_fon_5050.12.04.26.image
-firmware/fritz.box_fon_5050.12.04.30.image
-firmware/fritz.box_fon_5050.12.04.31.image

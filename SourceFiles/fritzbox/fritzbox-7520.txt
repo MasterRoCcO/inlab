@@ -1,3 +1,0 @@
-source-files-FRITZ.Box_7520-07.56.tar.gz
-source-files-FRITZ.Box_7520-cortexa9-07.59.tar.gz
-sources-files-FRITZ.Box_7520-07.21.tar.gz

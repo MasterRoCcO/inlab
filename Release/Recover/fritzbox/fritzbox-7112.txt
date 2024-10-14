@@ -1,4 +1,0 @@
-firmware/deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.76.image
-firmware/deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.80.image
-firmware/deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.87.image
-firmware/deutsch/FRITZ.Box_Fon_WLAN_7112.87.04.88.image
