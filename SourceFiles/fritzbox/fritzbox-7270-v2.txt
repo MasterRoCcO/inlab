@@ -1,0 +1,7 @@
+fritzbox7270-source-files-04.86.tar.gz
+fritzbox7270-source-files-05.05.tar.gz
+fritzbox7270-source-files-05.21.tar.gz
+fritzbox7270-source-files-05.50.tar.gz
+fritzbox7270-source-files-05.51.tar.gz
+fritzbox7270-source-files-06.05.tar.gz
+fritzbox7270-source-files-06.06.tar.gz

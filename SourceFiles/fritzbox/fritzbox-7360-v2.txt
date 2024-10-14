@@ -1,0 +1,8 @@
+fritzbox7360-source-files-05.20.tar.gz
+fritzbox7360-source-files-05.50.tar.gz
+fritzbox7360-source-files-05.51.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360-06.00.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360-06.20.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360-06.50.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360-06.80.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360-06.86.tar.gz
