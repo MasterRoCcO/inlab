@@ -1,3 +1,0 @@
-other/recover/FRITZ.Box_7369.en-de-es-it-fr-pl.06.30.recover-image.exe
-other/recover/FRITZ.Box_7369.en-de-es-it-fr-pl.06.32.recover-image.exe
-other/recover/fritz.box_7369.en-de-es-it-fr-pl.06.34.recover.exe

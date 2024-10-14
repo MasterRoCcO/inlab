@@ -1,2 +1,0 @@
-fritzbox/fritzbox-2170/x_misc/deutsch/FRITZ.Box_2170.04.57.recover-image.exe
-fritzbox/fritzbox-2170/x_misc/deutsch/fritz.box_2170.51.04.31.recover-image.exe

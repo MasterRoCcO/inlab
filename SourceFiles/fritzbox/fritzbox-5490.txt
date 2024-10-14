@@ -1,4 +1,0 @@
-source-files-FRITZ.Box_5490-06.51.tar.gz
-source-files-FRITZ.Box_5490-06.52.tar.gz
-source-files-FRITZ.Box_5490-06.84.tar.gz
-source-files-FRITZ.Box_5490-07.01.tar.gz

@@ -1,7 +1,0 @@
-fritz.box_sl_wlan.09.03.87.image
-fritz.box_sl_wlan.09.03.91.image
-fritz.box_sl_wlan.09.03.97.image
-fritz.box_sl_wlan.09.03.99.image
-fritz.box_sl_wlan.09.04.15.image
-fritz.box_sl_wlan.09.04.33.image
-fritz.box_sl_wlan.09.04.34.image

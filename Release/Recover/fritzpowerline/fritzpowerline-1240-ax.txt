@@ -1,5 +1,0 @@
-deutschland/recover/FRITZ.Powerline_1240_AX-07.57-Release-recover.exe
-deutschland/recover/FRITZ.Powerline_1240_AX-07.58-113257-Release-recover.exe
-deutschland/recover/FRITZ.Powerline_1240_AX-07.58-114298-Release-recover.exe
-other/recover/FRITZ.Powerline_1240_AX-07.58-113257-Release-recover.exe
-other/recover/FRITZ.Powerline_1240_AX-07.58-114298-Release-recover.exe

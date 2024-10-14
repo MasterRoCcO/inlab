@@ -1,4 +1,0 @@
-fritz_box_WLAN_3390_source_files.05.51.tar.gz
-fritz_box_WLAN_3390_source_files.06.01.tar.gz
-fritz_box_WLAN_3390_source_files.06.51.tar.gz
-fritz_box_WLAN_3390_source_files.06.55.tar.gz

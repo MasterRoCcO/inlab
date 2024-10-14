@@ -1,2 +1,0 @@
-source-files-FRITZ.Box_5690_Pro-alder-07.62.tar.gz
-source-files-FRITZ.Box_5690_Pro-rtl9601-07.62.tar.gz

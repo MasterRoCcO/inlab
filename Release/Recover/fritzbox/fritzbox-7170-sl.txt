@@ -1,7 +1,0 @@
-fritzbox/fritzbox-7170-sl/x_misc/deutsch/FRITZ.Box_Fon_WLAN_29.04.22.recover-image.exe
-fritzbox/fritzbox-7170-sl/x_misc/deutsch/FRITZ.Box_Fon_WLAN_29.04.30.recover-image.exe
-fritzbox/fritzbox-7170-sl/x_misc/deutsch/FRITZ.Box_Fon_WLAN_29.04.57.recover-image.exe
-fritzbox/fritzbox-7170-sl/x_misc/deutsch/FRITZ.Box_Fon_WLAN_29.04.80.recover-image.exe
-fritzbox/fritzbox-7170-sl/x_misc/deutsch/FRITZ.Box_Fon_WLAN_29.04.81.recover-image.exe
-fritzbox/fritzbox-7170-sl/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7170.04.81.recover-image.exe
-fritzbox/fritzbox-7170-sl/x_misc/freenet/FRITZ.Box_Fon_WLAN_7170.04.22.recover-image.exe

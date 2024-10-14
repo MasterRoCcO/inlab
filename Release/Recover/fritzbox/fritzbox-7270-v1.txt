@@ -1,2 +1,0 @@
-fritzbox/fritzbox-7270-v1/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.04.86.recover-image.exe
-fritzbox/fritzbox-7270-v1/x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.04.89.recover-image.exe

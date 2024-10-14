@@ -1,2 +1,0 @@
-fritzbox6360-source-files-04.91.tar.gz
-fritzbox6360-source-files-05.29.tar.gz

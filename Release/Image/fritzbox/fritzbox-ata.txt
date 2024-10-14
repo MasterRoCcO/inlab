@@ -1,7 +1,0 @@
-deutsch_a-ch/fritz.box_fon_ata.de.11.04.01.image
-deutsch/fritz.box_fon_ata.11.03.45.image
-deutsch/fritz.box_fon_ata.11.03.64.image
-deutsch/fritz.box_fon_ata.11.03.65.image
-deutsch/fritz.box_fon_ata.11.03.90.image
-deutsch/fritz.box_fon_ata.11.04.01.image
-english/fritz.box_fon_ata.en.11.04.01.image

@@ -1,2 +1,0 @@
-source-files-FRITZ.Box_6890_LTE-07.56.tar.gz
-source-files-FRITZ.Box_6890_LTE-grx5-07.29.tar.gz

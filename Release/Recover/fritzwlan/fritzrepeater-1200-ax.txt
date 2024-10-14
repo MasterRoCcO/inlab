@@ -1,8 +1,0 @@
-deutschland/recover/FRITZ.Repeater_1200_AX-07.29-recover.exe
-deutschland/recover/FRITZ.Repeater_1200_AX-07.56-recover.exe
-deutschland/recover/FRITZ.Repeater_1200_AX-07.57-recover.exe
-deutschland/recover/FRITZ.Repeater_1200_AX-07.58.exe
-other/recover/FRITZ.Repeater_1200_AX-07.29-recover.exe
-other/recover/FRITZ.Repeater_1200_AX-07.56-recover.exe
-other/recover/FRITZ.Repeater_1200_AX-07.57-recover.exe
-other/recover/FRITZ.Repeater_1200_AX-07.58.exe

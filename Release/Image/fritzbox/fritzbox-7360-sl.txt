@@ -1,9 +1,0 @@
-deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL-06.34.image
-deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.109.06.03.image
-deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.109.06.20.image
-deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.109.06.30.image
-deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.109.06.33.image
-deutschland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.AnnexB.109.06.35.image
-other/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.AnnexB.en-de-es-it-fr.109.06.32.image
-other/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.en-de-es-it-fr.109.06.30.image
-switzerland/fritz.os/FRITZ.Box_Fon_WLAN_7360_SL.en-de-es-it-fr.109.06.30.image

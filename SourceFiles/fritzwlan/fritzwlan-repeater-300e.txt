@@ -1,2 +1,0 @@
-fritz_wlan_repeater_300E_source_files.05.10.tar.gz
-FRITZ_WLAN_Repeater_300E_source_files.06.30.tar.gz

@@ -1,8 +1,0 @@
-fritz.box_fon_5050.12.03.68.image
-fritz.box_fon_5050.12.03.71.image
-fritz.box_fon_5050.12.03.89.image
-fritz.box_fon_5050.12.04.01.image
-fritz.box_fon_5050.12.04.15.image
-fritz.box_fon_5050.12.04.26.image
-fritz.box_fon_5050.12.04.30.image
-fritz.box_fon_5050.12.04.31.image
