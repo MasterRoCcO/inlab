@@ -1,0 +1,6 @@
+deutschland/fritz.os/FRITZ.Box_6430_Cable-07.12.image
+deutschland/fritz.os/FRITZ.Box_6430_Cable-07.29.image
+deutschland/fritz.os/FRITZ.Box_6430_Cable-07.30.image
+deutschland/fritz.os/FRITZ.Box_6430_Cable.de-en-es-it-fr-pl.159.06.84.image
+deutschland/fritz.os/FRITZ.Box_6430_Cable.de-en-es-it-fr-pl.159.06.85.image
+deutschland/fritz.os/FRITZ.Box_6430_Cable.de-en-es-it-fr-pl.159.06.87.image

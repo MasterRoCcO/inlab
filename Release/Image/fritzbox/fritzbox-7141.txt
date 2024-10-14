@@ -1,0 +1,14 @@
+firmware/deutsch/fritz.box_fon_wlan_7141.40.04.14.image
+firmware/deutsch/fritz.box_fon_wlan_7141.40.04.22.image
+firmware/deutsch/fritz.box_fon_wlan_7141.40.04.23.image
+firmware/deutsch/fritz.box_fon_wlan_7141.40.04.25.image
+firmware/deutsch/fritz.box_fon_wlan_7141.40.04.30.image
+firmware/deutsch/fritz.box_fon_wlan_7141.40.04.33.image
+firmware/deutsch/fritz.box_fon_wlan_7141.40.04.37.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7141.40.04.50.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7141.40.04.57.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7141.40.04.59.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7141.40.04.68.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7141.40.04.70.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7141.40.04.76.image
+firmware/deutsch/FRITZ.Box_Fon_WLAN_7141.40.04.77.image
