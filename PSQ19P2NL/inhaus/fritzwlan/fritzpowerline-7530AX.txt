@@ -1,4 +1,0 @@
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_7530_AX-07.24-87344-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_7530_AX-07.24-87374-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_7530_AX-07.24-87471-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_7530_AX-07.24-87663-Inhaus.image

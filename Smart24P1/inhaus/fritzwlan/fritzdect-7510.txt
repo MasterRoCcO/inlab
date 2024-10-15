@@ -1,5 +1,0 @@
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_7510-07.90-115662-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_7510-07.90-115791-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_7510-07.90-115937-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_7510-07.90-116096-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_7510-07.90-116202-Inhaus.image

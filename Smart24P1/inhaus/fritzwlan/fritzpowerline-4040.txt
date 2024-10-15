@@ -1,8 +1,0 @@
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_4040-07.90-114164-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_4040-07.90-115261-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_4040-07.90-115548-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_4040-07.90-115635-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_4040-07.90-115764-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_4040-07.90-115910-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_4040-07.90-116181-Inhaus.image
-/home/rocco/SiTE/FritzBox/FritzBox_Firmenware/download.avm.de/FRITZ.Box_4040-07.90-116319-Inhaus.image
