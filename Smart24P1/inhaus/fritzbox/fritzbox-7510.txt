@@ -1,0 +1,10 @@
+FRITZ.Box_7510-07.90-115662-Inhaus.image came to server 12.09.2024 created on 07.09.2024 ReleaseCycle=Smart24 P1 Revision=f57f7e745ca39b2003d21c0a41f06e612ee9a92f    
+FRITZ.Box_7510-07.90-115662-Inhaus.image came to server 12.09.2024 created on 07.09.2024 ReleaseCycle=Smart24 P1 Revision=f57f7e745ca39b2003d21c0a41f06e612ee9a92f    
+FRITZ.Box_7510-07.90-115791-Inhaus.image came to server 17.09.2024 created on 14.09.2024 ReleaseCycle=Smart24 P1 Revision=e955a317e883305ca2a5326279e17c6cd0b2af87    
+FRITZ.Box_7510-07.90-115791-Inhaus.image came to server 17.09.2024 created on 14.09.2024 ReleaseCycle=Smart24 P1 Revision=e955a317e883305ca2a5326279e17c6cd0b2af87    
+FRITZ.Box_7510-07.90-115937-Inhaus.image came to server 26.09.2024 created on 20.09.2024 ReleaseCycle=Smart24 P1 Revision=a346088be9650d5773bd4f16b410f6972f417f2b    
+FRITZ.Box_7510-07.90-115937-Inhaus.image came to server 26.09.2024 created on 20.09.2024 ReleaseCycle=Smart24 P1 Revision=a346088be9650d5773bd4f16b410f6972f417f2b    
+FRITZ.Box_7510-07.90-116096-Inhaus.image came to server 04.10.2024 created on 27.09.2024 ReleaseCycle=Smart24 P1 Revision=962dd1482655cf11857e4f5b7064a7384316c9e3    
+FRITZ.Box_7510-07.90-116096-Inhaus.image came to server 04.10.2024 created on 27.09.2024 ReleaseCycle=Smart24 P1 Revision=962dd1482655cf11857e4f5b7064a7384316c9e3    
+FRITZ.Box_7510-07.90-116202-Inhaus.image came to server 08.10.2024 created on 04.10.2024 ReleaseCycle=Smart24 P1 Revision=4ea8272b9cff488ebe01049335bc62494b766319    
+FRITZ.Box_7510-07.90-116202-Inhaus.image came to server 08.10.2024 created on 04.10.2024 ReleaseCycle=Smart24 P1 Revision=4ea8272b9cff488ebe01049335bc62494b766319    

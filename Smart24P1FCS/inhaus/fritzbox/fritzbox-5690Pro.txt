@@ -1,0 +1,7 @@
+FRITZ.Box_5690_Pro-07.90-114928-Inhaus.image came to server 07.08.2024 created on 06.08.2024 ReleaseCycle=Smart24 P1 FCS Revision=2c33efd090e120f6eda14665ce8e8800bf6f969f   
+FRITZ.Box_5690_Pro-07.90-115400-Inhaus.image came to server 29.08.2024 created on 24.08.2024 ReleaseCycle=Smart24 P1 FCS Revision=fde2a4cf76d245c58275c4ce5e122b6d5833f827   
+FRITZ.Box_5690_Pro-07.90-115538-Inhaus.image came to server 16.09.2024 created on 31.08.2024 ReleaseCycle=Smart24 P1 FCS Revision=c22be7f7f3c650f00662a7222bf597ca448aa599   
+FRITZ.Box_5690_Pro-07.90-115820-Inhaus.image came to server 17.09.2024 created on 14.09.2024 ReleaseCycle=Smart24 P1 FCS Revision=8cef0f8025f912f7610ffcdf24b1685f30670ae4   
+FRITZ.Box_5690_Pro-07.90-116122-Inhaus.image came to server 07.10.2024 created on 28.09.2024 ReleaseCycle=Smart24 P1 FCS Revision=4da4ff4299d5c0147a5176beb92b0e4ce9c28efd   
+FRITZ.Box_5690_Pro-07.90-116225-Inhaus.image came to server 08.10.2024 created on 05.10.2024 ReleaseCycle=Smart24 P1 FCS Revision=f1f9ef70b76621faa5f93b04c7f7608abd3b2c67   
+FRITZ.Box_5690_Pro-07.90-116353-Inhaus.image came to server 15.10.2024 created on 12.10.2024 ReleaseCycle=Smart24 P1 FCS Revision=26a036086b92af289d413e8c3b9980d708aee43c   
