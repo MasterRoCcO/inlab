@@ -23,3 +23,4 @@ FRITZ.Box_7590-07.90-115957-LabBETA.image came to server 25.09.2024 created on 2
 FRITZ.Box_7590-07.90-116116-LabBETA.image came to server 01.10.2024 created on 27.09.2024 ReleaseCycle=Smart24 P1 Revision=962dd1482655cf11857e4f5b7064a7384316c9e3
 FRITZ.Box_7590-07.90-116219-LabBETA.image came to server 08.10.2024 created on 04.10.2024 ReleaseCycle=Smart24 P1 Revision=4ea8272b9cff488ebe01049335bc62494b766319
 FRITZ.Box_7590-07.90-116347-LabBETA.image came to server 17.10.2024 created on 11.10.2024 ReleaseCycle=Smart24 P1 Revision=9d889c1a9220b7ba1e3c9202d548327194b808e1
+FRITZ.Box_7590-07.90-116347-LabBETA.image came to server 17.10.2024 created on 11.10.2024 ReleaseCycle=Smart24 P1 Revision=9d889c1a9220b7ba1e3c9202d548327194b808e1
