@@ -1,2 +1,1 @@
 FRITZ.Box_5690_Pro-07.90-116416-LabBETA.image came to server 17.10.2024 created on 12.10.2024 ReleaseCycle=Smart24 P1 FCS Revision=26a036086b92af289d413e8c3b9980d708aee43c
-FRITZ.Box_5690_Pro-07.90-116416-LabBETA.image came to server 17.10.2024 created on 12.10.2024 ReleaseCycle=Smart24 P1 FCS Revision=26a036086b92af289d413e8c3b9980d708aee43c
