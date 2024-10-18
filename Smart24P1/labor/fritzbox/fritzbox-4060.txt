@@ -1,12 +1,12 @@
-FRITZ.Box_4060-07.90-114223-LabBETA.image
-FRITZ.Box_4060-07.90-114379-LabBETA.image
-FRITZ.Box_4060-07.90-114590-LabBETA.image
-FRITZ.Box_4060-07.90-114967-LabBETA.image
-FRITZ.Box_4060-07.90-115022-LabBETA.image
-FRITZ.Box_4060-07.90-115254-LabBETA.image
-FRITZ.Box_4060-07.90-115355-LabBETA.image
-FRITZ.Box_4060-07.90-115493-LabBETA.image
-FRITZ.Box_4060-07.90-115640-LabBETA.image
-FRITZ.Box_4060-07.90-115769-LabBETA.image
-FRITZ.Box_4060-07.90-115915-LabBETA.image
-FRITZ.Box_4060-07.90-116186-LabBETA.image
+FRITZ.Box_4060-07.90-114223-LabBETA.image came to server 04.07.2024 created on 29.06.2024 ReleaseCycle=Smart24 P1 Revision=de32f34a8f204275ad3857687c72a88e73a60625
+FRITZ.Box_4060-07.90-114379-LabBETA.image came to server 10.07.2024 created on 06.07.2024 ReleaseCycle=Smart24 P1 Revision=9bbf187477e36a4886b1d70a27d0f540c45e2fa0
+FRITZ.Box_4060-07.90-114590-LabBETA.image came to server 19.07.2024 created on 16.07.2024 ReleaseCycle=Smart24 P1 Revision=03211f6b4c35fd638ebeece6b6e9dc123722ffbe
+FRITZ.Box_4060-07.90-114967-LabBETA.image came to server 08.08.2024 created on 06.08.2024 ReleaseCycle=Smart24 P1 Revision=48551f1382ccebcc592177f51b80c6578f0cbe0e
+FRITZ.Box_4060-07.90-115022-LabBETA.image came to server 19.08.2024 created on 10.08.2024 ReleaseCycle=Smart24 P1 Revision=760659c9da7621424ac3033e93f4fbb93c5dd54c
+FRITZ.Box_4060-07.90-115254-LabBETA.image came to server 21.08.2024 created on 19.08.2024 ReleaseCycle=Smart24 P1 Revision=31c319f81eb77a54f8b3480104f75a1faf17384b
+FRITZ.Box_4060-07.90-115355-LabBETA.image came to server 28.08.2024 created on 24.08.2024 ReleaseCycle=Smart24 P1 Revision=3bb6f9620fa9e0783c1289a9e16e16eed7a5cd98
+FRITZ.Box_4060-07.90-115493-LabBETA.image came to server 04.09.2024 created on 30.08.2024 ReleaseCycle=Smart24 P1 Revision=a61bff3e4be676beab099d24163b4fb74c690523
+FRITZ.Box_4060-07.90-115640-LabBETA.image came to server 12.09.2024 created on 07.09.2024 ReleaseCycle=Smart24 P1 Revision=f57f7e745ca39b2003d21c0a41f06e612ee9a92f
+FRITZ.Box_4060-07.90-115769-LabBETA.image came to server 18.09.2024 created on 14.09.2024 ReleaseCycle=Smart24 P1 Revision=e955a317e883305ca2a5326279e17c6cd0b2af87
+FRITZ.Box_4060-07.90-115915-LabBETA.image came to server 25.09.2024 created on 20.09.2024 ReleaseCycle=Smart24 P1 Revision=a346088be9650d5773bd4f16b410f6972f417f2b
+FRITZ.Box_4060-07.90-116186-LabBETA.image came to server 09.10.2024 created on 04.10.2024 ReleaseCycle=Smart24 P1 Revision=4ea8272b9cff488ebe01049335bc62494b766319

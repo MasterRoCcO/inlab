@@ -1,1 +1,1 @@
-FRITZ.Box_7690-07.90-115840-LabBETA.image
+FRITZ.Box_7690-07.90-115840-LabBETA.image came to server 17.09.2024 created on 14.09.2024 ReleaseCycle=Smart24 P1 FCS Revision=8cef0f8025f912f7610ffcdf24b1685f30670ae4
