@@ -1,1 +1,1 @@
- FRITZ.Box_5590_Fiber-07.80-113074-Inhaus.image came to server 21.05.2024 created on 16.05.2024 ReleaseCycle=GoFiber23NL1 Revision=
+FRITZ.Box_5590_Fiber-07.80-113074-Inhaus.image came to server 21.05.2024 created on 16.05.2024 ReleaseCycle=GoFiber23NL1 Revision=

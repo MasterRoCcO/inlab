@@ -1,1 +1,1 @@
- FRITZ.Box_7530_AX-07.80-112874-Inhaus.image came to server 10.05.2024 created on 06.05.2024 ReleaseCycle=GoFiber23NL1 Revision=
+FRITZ.Box_7530_AX-07.80-112874-Inhaus.image came to server 10.05.2024 created on 06.05.2024 ReleaseCycle=GoFiber23NL1 Revision=
