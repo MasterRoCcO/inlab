@@ -1,12 +1,12 @@
-FRITZ.Box_5530_Fiber-07.70-108604-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-108715-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-108829-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-108943-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-109075-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-109165-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-109306-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-109397-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-109795-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-109881-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-110136-LabBETA.image
-FRITZ.Box_5530_Fiber-07.70-110408-LabBETA.image
+ FRITZ.Box_5530_Fiber-07.70-108604-LabBETA.image came to server 17.10.2023 created on 02.10.2023 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-108715-LabBETA.image came to server 17.10.2023 created on 06.10.2023 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-108829-LabBETA.image came to server 25.10.2023 created on 13.10.2023 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-108943-LabBETA.image came to server 03.11.2023 created on 30.10.2023 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-109075-LabBETA.image came to server 13.11.2023 created on 03.11.2023 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-109165-LabBETA.image came to server 17.11.2023 created on 10.11.2023 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-109306-LabBETA.image came to server 23.11.2023 created on 17.11.2023 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-109397-LabBETA.image came to server 30.11.2023 created on 24.11.2023 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-109795-LabBETA.image came to server 15.12.2023 created on 08.12.2023 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-109881-LabBETA.image came to server 21.12.2023 created on 18.12.2023 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-110136-LabBETA.image came to server 12.01.2024 created on 09.01.2024 ReleaseCycle=GoFiber23 Revision=
+ FRITZ.Box_5530_Fiber-07.70-110408-LabBETA.image came to server 19.01.2024 created on 18.01.2024 ReleaseCycle=GoFiber23 Revision=
