@@ -1,15 +1,15 @@
-FRITZ.Box_6490_Cable-07.51-102783-Inhaus.image
-kdg/FRITZ.Box_6490_Cable-07.51-102785-Inhaus.image
-FRITZ.Box_6490_Cable-07.51-103117-Inhaus.image
-FRITZ.Box_6490_Cable-07.51-103389-Inhaus.image
-kdg/FRITZ.Box_6490_Cable-07.51-103391-Inhaus.image
-FRITZ.Box_6490_Cable-07.51-103623-Inhaus.image
-kdg/FRITZ.Box_6490_Cable-07.51-103625-Inhaus.image
-FRITZ.Box_6490_Cable-07.51-104094-Inhaus.image
-kdg/FRITZ.Box_6490_Cable-07.51-104096-Inhaus.image
-FRITZ.Box_6490_Cable-07.51-105163-Inhaus.image
-kdg/FRITZ.Box_6490_Cable-07.51-105165-Inhaus.image
-FRITZ.Box_6490_Cable-07.51-105332-Inhaus.image
-kdg/FRITZ.Box_6490_Cable-07.51-105334-Inhaus.image
-FRITZ.Box_6490_Cable-07.51-106543-Inhaus.image
-kdg/FRITZ.Box_6490_Cable-07.51-106545-Inhaus.image
+FRITZ.Box_6490_Cable-07.51-102783-Inhaus.image came to server 30.01.2023 created on 24.01.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-102785-Inhaus.image came to server 30.01.2023 created on 24.01.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-103117-Inhaus.image came to server 09.02.2023 created on 07.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-103389-Inhaus.image came to server 22.02.2023 created on 18.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-103391-Inhaus.image came to server 22.02.2023 created on 18.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-103623-Inhaus.image came to server 01.03.2023 created on 25.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-103625-Inhaus.image came to server 01.03.2023 created on 25.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-104094-Inhaus.image came to server 23.03.2023 created on 18.03.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-104096-Inhaus.image came to server 23.03.2023 created on 18.03.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-105163-Inhaus.image came to server 02.05.2023 created on 29.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-105165-Inhaus.image came to server 02.05.2023 created on 29.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-105332-Inhaus.image came to server 11.05.2023 created on 06.05.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-105334-Inhaus.image came to server 11.05.2023 created on 06.05.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-106543-Inhaus.image came to server 15.06.2023 created on 09.06.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6490_Cable-07.51-106545-Inhaus.image came to server 15.06.2023 created on 09.06.2023 ReleaseCycle=MOVE21NL1 Revision=

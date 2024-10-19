@@ -1,5 +1,5 @@
-FRITZ.Box_7510-07.51-104466-Inhaus.image
-FRITZ.Box_7510-07.51-104838-Inhaus.image
-FRITZ.Box_7510-07.51-105028-Inhaus.image
-FRITZ.Box_7510-07.51-105187-Inhaus.image
-FRITZ.Box_7510-07.51-106578-Inhaus.image
+FRITZ.Box_7510-07.51-104466-Inhaus.image came to server 04.04.2023 created on 01.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7510-07.51-104838-Inhaus.image came to server 18.04.2023 created on 15.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7510-07.51-105028-Inhaus.image came to server 27.04.2023 created on 22.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7510-07.51-105187-Inhaus.image came to server 02.05.2023 created on 29.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7510-07.51-106578-Inhaus.image came to server 16.06.2023 created on 13.06.2023 ReleaseCycle=MOVE21NL1 Revision=

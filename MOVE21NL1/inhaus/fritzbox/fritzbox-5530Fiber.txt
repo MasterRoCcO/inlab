@@ -1,5 +1,5 @@
-FRITZ.Box_5530_Fiber-07.51-105006-Inhaus.image
-FRITZ.Box_5530_Fiber-07.51-105159-Inhaus.image
-FRITZ.Box_5530_Fiber-07.51-105544-Inhaus.image
-FRITZ.Box_5530_Fiber-07.51-106154-Inhaus.image
-FRITZ.Box_5530_Fiber-07.51-106774-Inhaus.image
+FRITZ.Box_5530_Fiber-07.51-105006-Inhaus.image came to server 25.04.2023 created on 22.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_5530_Fiber-07.51-105159-Inhaus.image came to server 03.05.2023 created on 29.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_5530_Fiber-07.51-105544-Inhaus.image came to server 16.05.2023 created on 13.05.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_5530_Fiber-07.51-106154-Inhaus.image came to server 08.06.2023 created on 05.06.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_5530_Fiber-07.51-106774-Inhaus.image came to server 27.06.2023 created on 23.06.2023 ReleaseCycle=MOVE21NL1 Revision=

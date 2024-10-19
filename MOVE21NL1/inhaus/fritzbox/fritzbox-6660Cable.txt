@@ -1,10 +1,10 @@
-FRITZ.Box_6660_Cable-07.51-104450-Inhaus.image
-FRITZ.Box_6660_Cable-07.51-104822-Inhaus.image
-FRITZ.Box_6660_Cable-07.51-105057-Inhaus.image
-FRITZ.Box_6660_Cable-07.51-105171-Inhaus.image
-FRITZ.Box_6660_Cable-07.51-105340-Inhaus.image
-FRITZ.Box_6660_Cable-07.51-105557-Inhaus.image
-FRITZ.Box_6660_Cable-07.51-105985-Inhaus.image
-FRITZ.Box_6660_Cable-07.51-106316-Inhaus.image
-FRITZ.Box_6660_Cable-07.57-110964-Inhaus.image
-FRITZ.Box_6660_Cable-07.57-111098-Inhaus.image
+FRITZ.Box_6660_Cable-07.51-104450-Inhaus.image came to server 04.04.2023 created on 01.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6660_Cable-07.51-104822-Inhaus.image came to server 20.04.2023 created on 15.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6660_Cable-07.51-105057-Inhaus.image came to server 27.04.2023 created on 24.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6660_Cable-07.51-105171-Inhaus.image came to server 03.05.2023 created on 29.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6660_Cable-07.51-105340-Inhaus.image came to server 11.05.2023 created on 06.05.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6660_Cable-07.51-105557-Inhaus.image came to server 16.05.2023 created on 13.05.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6660_Cable-07.51-105985-Inhaus.image came to server 30.05.2023 created on 26.05.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6660_Cable-07.51-106316-Inhaus.image came to server 12.06.2023 created on 06.06.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6660_Cable-07.57-110964-Inhaus.image came to server 06.02.2024 created on 02.02.2024 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6660_Cable-07.57-111098-Inhaus.image came to server 15.02.2024 created on 09.02.2024 ReleaseCycle=MOVE21NL1 Revision=

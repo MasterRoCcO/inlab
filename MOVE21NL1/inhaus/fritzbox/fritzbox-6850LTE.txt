@@ -1,10 +1,10 @@
-FRITZ.Box_6850_LTE-07.51-102453-Inhaus.image
-FRITZ.Box_6850_LTE-07.51-103132-Inhaus.image
-FRITZ.Box_6850_LTE-07.51-103405-Inhaus.image
-FRITZ.Box_6850_LTE-07.51-103956-Inhaus.image
-FRITZ.Box_6850_LTE-07.51-104110-Inhaus.image
-FRITZ.Box_6850_LTE-07.51-104460-Inhaus.image
-FRITZ.Box_6850_LTE-07.51-104832-Inhaus.image
-FRITZ.Box_6850_LTE-07.51-105022-Inhaus.image
-FRITZ.Box_6850_LTE-07.51-106157-Inhaus.image
-FRITZ.Box_6850_LTE-07.51-106668-Inhaus.image
+FRITZ.Box_6850_LTE-07.51-102453-Inhaus.image came to server 16.01.2023 created on 07.01.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6850_LTE-07.51-103132-Inhaus.image came to server 10.02.2023 created on 07.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6850_LTE-07.51-103405-Inhaus.image came to server 21.02.2023 created on 18.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6850_LTE-07.51-103956-Inhaus.image came to server 17.03.2023 created on 11.03.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6850_LTE-07.51-104110-Inhaus.image came to server 23.03.2023 created on 18.03.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6850_LTE-07.51-104460-Inhaus.image came to server 05.04.2023 created on 01.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6850_LTE-07.51-104832-Inhaus.image came to server 19.04.2023 created on 15.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6850_LTE-07.51-105022-Inhaus.image came to server 28.04.2023 created on 22.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6850_LTE-07.51-106157-Inhaus.image came to server 16.06.2023 created on 05.06.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_6850_LTE-07.51-106668-Inhaus.image came to server 23.06.2023 created on 19.06.2023 ReleaseCycle=MOVE21NL1 Revision=
