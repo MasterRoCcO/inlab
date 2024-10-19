@@ -1,0 +1,13 @@
+deutschland/recover/FRITZ.Box_4020 07.02 Recover.exe came to server 12.04.2023
+deutschland/recover/FRITZ.Box_4020.07.04 recover-image.exe came to server 19.08.2024
+deutschland/recover/FRITZ.Box_4020.de-en-es-it-fr-pl.06.27.recover-image.exe came to server 12.04.2023
+deutschland/recover/FRITZ.Box_4020.de-en-es-it-fr-pl.06.50.recover-image.exe came to server 12.04.2023
+deutschland/recover/FRITZ.Box_4020.de-en-es-it-fr-pl.06.83.recover-image.exe came to server 12.04.2023
+deutschland/recover/fritz.box_4020.de-en-es-it-fr-pl.07.01.recover-image.exe came to server 12.04.2023
+deutschland/recover/FRITZ.Box_4020.de-en-es-it-fr-pl.07.03.recover.exe came to server 09.09.2023
+italy/recover/FRITZ.Box_4020.06.84.exe came to server 22.09.2023
+other/recover/FRITZ.Box_4020 07.02 Recover.exe came to server 12.04.2023
+other/recover/FRITZ.Box_4020.07.04 recover-image.exe came to server 19.08.2024
+other/recover/FRITZ.Box_4020.de-en-es-it-fr-pl.06.83.recover-image.exe came to server 12.04.2023
+other/recover/fritz.box_4020.de-en-es-it-fr-pl.07.01.recover-image.exe came to server 12.04.2023
+other/recover/FRITZ.Box_4020.de-en-es-it-fr-pl.07.03.recover.exe came to server 09.09.2023

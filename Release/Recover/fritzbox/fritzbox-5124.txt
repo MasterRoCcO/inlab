@@ -1,0 +1,2 @@
+x_misc/english/annex_a/FRITZ.Box_Fon_5124.AnnexA.en.04.77.recover-image.exe came to server 12.04.2023
+x_misc/english/annex_b/FRITZ.Box_Fon_5124.AnnexB.en.04.77.recover-image.exe came to server 12.04.2023

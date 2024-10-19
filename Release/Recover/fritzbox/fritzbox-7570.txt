@@ -1,0 +1,7 @@
+firmware/Alice/Fritzbox 7570 VDSL Edition - Alice Hansenet2Fritz - Freetz Images/Alice_IAD_7570_vDSL.AnnexB.04.86.recover-image.exe came to server 12.04.2023
+x_misc/Alice/Alice_IAD_7570_vDSL.AnnexB.04.86.recover-image.exe came to server 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7570_vDSL.04.81.recover-image.exe came to server 12.04.2023
+x_misc/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.04.81.recover-image.exe came to server 12.04.2023
+x_misc/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.04.90.recover-image.exe came to server 12.04.2023
+x_misc/english/FRITZ.Box_Fon_WLAN_7570_vDSL.en-de-fr.04.91.recover-image.exe came to server 12.04.2023
+x_misc/O2/FRITZ.Box_Fon_WLAN_7570_vDSL.04.81.recover-image.exe came to server 12.04.2023
