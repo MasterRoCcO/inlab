@@ -1,0 +1,2 @@
+FRITZ.Box_4050-07.57-113084-Inhaus.image came to server 22.05.2024 created on 17.05.2024 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_4050-07.57-113213-Inhaus.image came to server 24.05.2024 created on 22.05.2024 ReleaseCycle=MOVE21NL1 Revision=
