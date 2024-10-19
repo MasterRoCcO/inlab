@@ -1,2 +1,0 @@
-FRITZ.Box_5530_Fiber-07.51-105311-LabBETA.image came to server 10.05.2023 created on 29.04.2023 ReleaseCycle=MOVE21NL1 Revision=
-FRITZ.Box_5530_Fiber-07.51-106819-LabBETA.image came to server 30.06.2023 created on 27.06.2023 ReleaseCycle=MOVE21NL1 Revision=

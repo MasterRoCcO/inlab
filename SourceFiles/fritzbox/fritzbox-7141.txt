@@ -1,2 +1,0 @@
-fritzbox7141-source-files-04.15.tar.bz2
-fritzbox7141-source-files-04.30.tar.bz2

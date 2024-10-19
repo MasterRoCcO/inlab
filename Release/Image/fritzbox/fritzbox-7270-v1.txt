@@ -1,6 +1,0 @@
-firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.59.image
-firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.76.image
-firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.80.image
-firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.86.image
-firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.88.image
-firmware/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.54.04.89.image

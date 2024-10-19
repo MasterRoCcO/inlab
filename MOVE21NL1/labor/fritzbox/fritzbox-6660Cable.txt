@@ -1,3 +1,0 @@
-FRITZ.Box_6660_Cable-07.51-104538-LabBETA.image came to server 17.04.2023 created on 01.04.2023 ReleaseCycle=MOVE21NL1 Revision=
-FRITZ.Box_6660_Cable-07.51-105296-LabBETA.image came to server 05.05.2023 created on 29.04.2023 ReleaseCycle=MOVE21NL1 Revision=
-FRITZ.Box_6660_Cable-07.51-105559-LabBETA.image came to server 17.05.2023 created on 13.05.2023 ReleaseCycle=MOVE21NL1 Revision=

@@ -1,4 +1,0 @@
-download.avm.de/FRITZ.Smart_Gateway-07.62-113994-LabBETA.image came to server 20.06.2024 created on 17.06.2024 ReleaseCycle=MOVE21NL1 Revision=
-download.avm.de/FRITZ.Smart_Gateway-07.62-114848-LabBETA.image came to server 06.08.2024 created on 31.07.2024 ReleaseCycle=MOVE21NL1 Revision=
-download.avm.de/FRITZ.Smart_Gateway-07.62-116023-LabBETA.image came to server 01.10.2024 created on 24.09.2024 ReleaseCycle=MOVE21NL1 Revision=
-download.avm.de/FRITZ.Smart_Gateway-07.62-116255-LabBETA.image came to server 08.10.2024 created on 07.10.2024 ReleaseCycle=MOVE21NL1 Revision=

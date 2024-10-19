@@ -1,4 +1,0 @@
-source-files-FRITZ.Box_6850_LTE-07.56.tar.gz
-source-files-FRITZ.Box_6850_LTE-cortexa9-07.21.tar.gz
-source-files-FRITZ.Box_6850_LTE-cortexa9-07.58.tar.gz
-source-files-FRITZ.Box_6850_LTE-cortexa9-07.59.tar.gz

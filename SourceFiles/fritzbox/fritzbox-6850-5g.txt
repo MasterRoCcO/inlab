@@ -1,2 +1,0 @@
-source-files-FRITZ.Box_6850_5G-07.56.tar.gz
-source-files-FRITZ.Box_6850_5G-cortexa9-07.59.tar.gz

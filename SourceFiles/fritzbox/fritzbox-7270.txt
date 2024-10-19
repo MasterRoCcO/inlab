@@ -1,2 +1,0 @@
-fritzbox7270-source-files-04.76.tar.gz
-fritzbox7270-source-files-04.80.tar.gz

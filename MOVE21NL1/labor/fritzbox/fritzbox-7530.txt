@@ -1,8 +1,0 @@
-FRITZ.Box_7530-07.51-104204-LabBETA.image came to server 24.03.2023 created on 18.03.2023 ReleaseCycle=MOVE21NL1 Revision=
-FRITZ.Box_7530-07.51-104510-LabBETA.image came to server 06.04.2023 created on 01.04.2023 ReleaseCycle=MOVE21NL1 Revision=
-FRITZ.Box_7530-07.51-104920-LabBETA.image came to server 21.04.2023 created on 15.04.2023 ReleaseCycle=MOVE21NL1 Revision=
-FRITZ.Box_7530-07.51-105107-LabBETA.image came to server 28.04.2023 created on 22.04.2023 ReleaseCycle=MOVE21NL1 Revision=
-FRITZ.Box_7530-07.51-105299-LabBETA.image came to server 05.05.2023 created on 29.04.2023 ReleaseCycle=MOVE21NL1 Revision=
-FRITZ.Box_7530-07.51-105495-LabBETA.image came to server 12.05.2023 created on 06.05.2023 ReleaseCycle=MOVE21NL1 Revision=
-FRITZ.Box_7530-07.51-105583-LabBETA.image came to server 16.05.2023 created on 13.05.2023 ReleaseCycle=MOVE21NL1 Revision=
-FRITZ.Box_7530-07.51-105726-LabBETA.image came to server 24.05.2023 created on 22.05.2023 ReleaseCycle=MOVE21NL1 Revision=

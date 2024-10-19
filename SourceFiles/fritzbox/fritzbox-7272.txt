@@ -1,3 +1,0 @@
-source-files-FRITZ.Box_7272-06.20.tar.gz
-source-files-FRITZ.Box_7272-06.87.tar.gz
-source-files-FRITZ.Box_7272_Labor-06.10.tar.gz

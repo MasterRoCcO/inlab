@@ -1,7 +1,0 @@
-firmware/aol/FRITZ.Box_WLAN_3050.16.03.73.image
-firmware/aol/FRITZ.Box_WLAN_3050.16.03.91.image
-firmware/aol/FRITZ.Box_WLAN_3050.16.04.07.image
-firmware/FRITZ.Box_WLAN_3050.16.03.73.image
-firmware/FRITZ.Box_WLAN_3050.16.03.91.image
-firmware/fritz.box_wlan_3050.16.03.99.image
-firmware/fritz.box_wlan_3050.16.04.07.image

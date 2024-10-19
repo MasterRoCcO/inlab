@@ -1,3 +1,0 @@
-source-files-FRITZ.Box_7560-06.51.tar.gz
-source-files-FRITZ.Box_7560-07.12.tar.gz
-source-files-FRITZ.Box_7560-07.29.tar.gz

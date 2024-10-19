@@ -1,9 +1,0 @@
-deutschland/fritz.os/fritz.powerline_1220_cm8_2110_00_tr069_2.image
-deutschland/fritz.os/fritz.powerline_1220_cm9_2120_01_tr069_6.image
-deutschland/fritz.os/fritz.powerline_1220_cm9_2130_00_tr069_6.image
-deutschland/fritz.os/fritz.powerline_1220_cm9_2130_01_tr069_7.image
-deutschland/fritz.os/fritz.powerline_1220_cm9_2130_02_tr069_7.image
-other/fritz.os/fritz.powerline_1220_cm9_2120_01_tr069_6.image
-other/fritz.os/fritz.powerline_1220_cm9_2130_00_tr069_6.image
-other/fritz.os/fritz.powerline_1220_cm9_2130_01_tr069_7.image
-other/fritz.os/fritz.powerline_1220_cm9_2130_02_tr069_7.image

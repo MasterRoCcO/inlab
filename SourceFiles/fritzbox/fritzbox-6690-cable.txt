@@ -1,6 +1,0 @@
-source-files-FRITZ.Box_6690_Cable-armp7-07.29.tar.gz
-source-files-FRITZ.Box_6690_Cable-armp7-07.50.tar.gz
-source-files-FRITZ.Box_6690_Cable-armp7-07.56.tar.gz
-source-files-FRITZ.Box_6690_Cable-atomp7-07.29.tar.gz
-source-files-FRITZ.Box_6690_Cable-atomp7-07.50.tar.gz
-source-files-FRITZ.Box_6690_Cable-atomp7-07.56.tar.gz

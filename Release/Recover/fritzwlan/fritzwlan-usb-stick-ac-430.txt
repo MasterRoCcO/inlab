@@ -1,4 +1,0 @@
-deutschland/fritz.os/AVM_FRITZ!WLAN_USB_Stick_AC_430_32Bit_Build_140304.exe
-deutschland/fritz.os/AVM_FRITZ!WLAN_USB_Stick_AC_430_64Bit_Build_140304.exe
-other/fritz.os/AVM_FRITZ!WLAN_USB_Stick_AC_430_32Bit_Build_140304e.exe
-other/fritz.os/AVM_FRITZ!WLAN_USB_Stick_AC_430_64Bit_Build_140304e.exe
