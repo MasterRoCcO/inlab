@@ -1,7 +1,7 @@
-FRITZ.Box_7590_AX-07.51-104507-LabBETA.image
-FRITZ.Box_7590_AX-07.51-104922-LabBETA.image
-FRITZ.Box_7590_AX-07.51-105109-LabBETA.image
-FRITZ.Box_7590_AX-07.51-105301-LabBETA.image
-FRITZ.Box_7590_AX-07.51-105466-LabBETA.image
-FRITZ.Box_7590_AX-07.51-105597-LabBETA.image
-FRITZ.Box_7590_AX-07.51-106110-LabBETA.image
+FRITZ.Box_7590_AX-07.51-104507-LabBETA.image came to server 06.04.2023 created on 01.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7590_AX-07.51-104922-LabBETA.image came to server 21.04.2023 created on 15.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7590_AX-07.51-105109-LabBETA.image came to server 28.04.2023 created on 22.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7590_AX-07.51-105301-LabBETA.image came to server 05.05.2023 created on 29.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7590_AX-07.51-105466-LabBETA.image came to server 12.05.2023 created on 06.05.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7590_AX-07.51-105597-LabBETA.image came to server 16.05.2023 created on 13.05.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7590_AX-07.51-106110-LabBETA.image came to server 06.06.2023 created on 02.06.2023 ReleaseCycle=MOVE21NL1 Revision=

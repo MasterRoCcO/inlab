@@ -1,5 +1,5 @@
-FRITZ.Box_4040-07.51-103577-LabBETA.image
-FRITZ.Box_4040-07.51-103858-LabBETA.image
-FRITZ.Box_4040-07.51-104930-LabBETA.image
-FRITZ.Box_4040-07.51-106600-LabBETA.image
-FRITZ.Box_4040-07.51-107023-LabBETA.image
+FRITZ.Box_4040-07.51-103577-LabBETA.image came to server 24.02.2023 created on 18.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_4040-07.51-103858-LabBETA.image came to server 09.03.2023 created on 25.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_4040-07.51-104930-LabBETA.image came to server 21.04.2023 created on 15.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_4040-07.51-106600-LabBETA.image came to server 16.06.2023 created on 05.06.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_4040-07.51-107023-LabBETA.image came to server 14.07.2023 created on 12.07.2023 ReleaseCycle=MOVE21NL1 Revision=

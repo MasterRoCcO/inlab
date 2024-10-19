@@ -1,11 +1,11 @@
-FRITZ.Box_7530_AX-07.51-102715-LabBETA.image
-FRITZ.Box_7530_AX-07.51-103200-LabBETA.image
-FRITZ.Box_7530_AX-07.51-103576-LabBETA.image
-FRITZ.Box_7530_AX-07.51-103860-LabBETA.image
-FRITZ.Box_7530_AX-07.51-104131-LabBETA.image
-FRITZ.Box_7530_AX-07.51-104316-LabBETA.image
-FRITZ.Box_7530_AX-07.51-104505-LabBETA.image
-FRITZ.Box_7530_AX-07.51-104973-LabBETA.image
-FRITZ.Box_7530_AX-07.51-105318-LabBETA.image
-FRITZ.Box_7530_AX-07.51-105622-LabBETA.image
-FRITZ.Box_7530_AX-07.51-106602-LabBETA.image
+FRITZ.Box_7530_AX-07.51-102715-LabBETA.image came to server 23.01.2023 created on 14.01.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7530_AX-07.51-103200-LabBETA.image came to server 13.02.2023 created on 07.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7530_AX-07.51-103576-LabBETA.image came to server 24.02.2023 created on 18.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7530_AX-07.51-103860-LabBETA.image came to server 09.03.2023 created on 25.02.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7530_AX-07.51-104131-LabBETA.image came to server 22.03.2023 created on 11.03.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7530_AX-07.51-104316-LabBETA.image came to server 30.03.2023 created on 25.03.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7530_AX-07.51-104505-LabBETA.image came to server 06.04.2023 created on 01.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7530_AX-07.51-104973-LabBETA.image came to server 24.04.2023 created on 20.04.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7530_AX-07.51-105318-LabBETA.image came to server 05.05.2023 created on 04.05.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7530_AX-07.51-105622-LabBETA.image came to server 17.05.2023 created on 13.05.2023 ReleaseCycle=MOVE21NL1 Revision=
+FRITZ.Box_7530_AX-07.51-106602-LabBETA.image came to server 16.06.2023 created on 09.06.2023 ReleaseCycle=MOVE21NL1 Revision=
