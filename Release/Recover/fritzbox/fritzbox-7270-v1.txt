@@ -1,2 +1,2 @@
-x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.04.86.recover-image.exe came to server 12.04.2023
-x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.04.89.recover-image.exe came to server 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.04.86.recover-image.exe came to server 09:39:55 at 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7270_v1.04.89.recover-image.exe came to server 09:39:58 at 12.04.2023
