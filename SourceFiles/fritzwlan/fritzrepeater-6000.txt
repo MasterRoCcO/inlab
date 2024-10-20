@@ -1,4 +1,4 @@
-source-files-FRITZ.Repeater_6000-07.30.tar.gz
-source-files-FRITZ.Repeater_6000-07.56.tar.gz
-source-files-FRITZ.Repeater_6000-07.58.tar.gz
-source-files-FRITZ.Repeater_6000-qcaarmv8-07.28.tar.gz
+source-files-FRITZ.Repeater_6000-07.30.tar.gz came to server 10:05:51 at 13.07.2023
+source-files-FRITZ.Repeater_6000-07.56.tar.gz came to server 10:05:55 at 13.07.2023
+source-files-FRITZ.Repeater_6000-07.58.tar.gz came to server 13:53:13 at 30.05.2024
+source-files-FRITZ.Repeater_6000-qcaarmv8-07.28.tar.gz came to server 16:47:04 at 01.07.2021

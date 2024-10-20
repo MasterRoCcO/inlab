@@ -1,5 +1,5 @@
-Source 1260E.tar.gz
-source-files-FRITZ.Powerline_1260E-cortexa9-07.29.tar.gz
-source-files-FRITZ.Powerline_1260E-cortexa9-07.50.tar.gz
-source-files-FRITZ.Powerline_1260E-cortexa9-07.56.tar.gz
-source-files-FRITZ.Powerline_1260E-cortexa9-07.58.tar.gz
+Source 1260E.tar.gz came to server 15:43:34 at 14.12.2021
+source-files-FRITZ.Powerline_1260E-cortexa9-07.29.tar.gz came to server 13:09:19 at 09.12.2022
+source-files-FRITZ.Powerline_1260E-cortexa9-07.50.tar.gz came to server 07:35:51 at 16.06.2023
+source-files-FRITZ.Powerline_1260E-cortexa9-07.56.tar.gz came to server 14:33:05 at 14.08.2023
+source-files-FRITZ.Powerline_1260E-cortexa9-07.58.tar.gz came to server 12:48:06 at 06.06.2024

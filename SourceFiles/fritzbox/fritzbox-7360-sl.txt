@@ -1,7 +1,7 @@
-source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.08.tar.gz
-source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.20.tar.gz
-source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.50.tar.gz
-source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.51.tar.gz
-source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-06.00.tar.gz
-source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-06.01.tar.gz
-source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-06.34.tar.gz
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.08.tar.gz came to server 10:25:04 at 17.12.2019
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.20.tar.gz came to server 10:25:02 at 17.12.2019
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.50.tar.gz came to server 10:24:55 at 17.12.2019
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-05.51.tar.gz came to server 10:24:53 at 17.12.2019
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-06.00.tar.gz came to server 10:24:51 at 17.12.2019
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-06.01.tar.gz came to server 10:24:49 at 17.12.2019
+source-files-FRITZ.Box_Fon_WLAN_7360_SL.AnnexB-06.34.tar.gz came to server 10:25:07 at 17.12.2019

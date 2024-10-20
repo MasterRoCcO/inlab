@@ -1,4 +1,4 @@
-fritz box wlan 3270v3 source files 04.87.tar.gz
-fritz box wlan 3270v3 source files 05.05.tar.gz
-fritz box wlan 3270v3 source files 05.21.tar.gz
-fritz box wlan 3270v3 source files 05.50.tar.gz
+fritz box wlan 3270v3 source files 04.87.tar.gz came to server 11:33:10 at 28.01.2011
+fritz box wlan 3270v3 source files 05.05.tar.gz came to server 14:53:20 at 08.09.2011
+fritz box wlan 3270v3 source files 05.21.tar.gz came to server 15:51:56 at 04.05.2012
+fritz box wlan 3270v3 source files 05.50.tar.gz came to server 10:08:50 at 31.01.2013

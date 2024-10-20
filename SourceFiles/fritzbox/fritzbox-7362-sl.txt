@@ -1,4 +1,4 @@
-source-files-FRITZ.Box_7362_SL-05.53.tar.gz
-source-files-FRITZ.Box_7362_SL-06.00.tar.gz
-source-files-FRITZ.Box_7362_SL-06.50.tar.gz
-source-files-FRITZ.Box_7362_SL-07.12.tar.gz
+source-files-FRITZ.Box_7362_SL-05.53.tar.gz came to server 15:10:58 at 07.01.2020
+source-files-FRITZ.Box_7362_SL-06.00.tar.gz came to server 15:10:56 at 07.01.2020
+source-files-FRITZ.Box_7362_SL-06.50.tar.gz came to server 15:11:02 at 07.01.2020
+source-files-FRITZ.Box_7362_SL-07.12.tar.gz came to server 15:11:00 at 07.01.2020

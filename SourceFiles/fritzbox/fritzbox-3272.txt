@@ -1,1 +1,2 @@
-source-files-FRITZ.Box_3272-06.20.tar.gz
+source-files-FRITZ.Box_3272-06.20.tar.gz came to server 11:50:25 at 23.04.2023
+source-files-FRITZ.Box_3272-06.86.tar came to server 11:48:28 at 23.04.2023

@@ -1,3 +1,3 @@
-source-files-FRITZ.Box_7272-06.20.tar.gz
-source-files-FRITZ.Box_7272-06.87.tar.gz
-source-files-FRITZ.Box_7272_Labor-06.10.tar.gz
+source-files-FRITZ.Box_7272-06.20.tar.gz came to server 11:23:17 at 17.06.2020
+source-files-FRITZ.Box_7272-06.87.tar.gz came to server 11:23:20 at 17.06.2020
+source-files-FRITZ.Box_7272_Labor-06.10.tar.gz came to server 14:05:46 at 30.12.2016
