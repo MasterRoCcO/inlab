@@ -1,2 +1,2 @@
-source-files-FRITZ.Box_7520_B-07.56.tar.gz came to server 18:53:01 at 12.09.2023
-source-files-FRITZ.Box_7520_B-cortexa9-07.59.tar.gz came to server 16:59:00 at 03.07.2024
+source-files-FRITZ.Box_7520_B-07.56.tar.gz Largest=556.36 MB Server=18:53:01 at 12.09.2023
+source-files-FRITZ.Box_7520_B-cortexa9-07.59.tar.gz Largest=556.36 MB Server=16:59:00 at 03.07.2024

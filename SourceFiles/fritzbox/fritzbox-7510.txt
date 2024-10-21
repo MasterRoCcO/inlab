@@ -1,3 +1,3 @@
-source-files-FRITZ.Box_7510-07.56.tar.gz came to server 13:22:15 at 26.07.2023
-source-files-FRITZ.Box_7510-maple-07.30.tar.gz came to server 12:00:12 at 29.06.2022
-source-files-FRITZ.Box_7510-maple-07.59.tar.gz came to server 16:58:33 at 03.07.2024
+source-files-FRITZ.Box_7510-07.56.tar.gz Largest=655.14 MB Server=13:22:15 at 26.07.2023
+source-files-FRITZ.Box_7510-maple-07.30.tar.gz Largest=488.47 MB Server=12:00:12 at 29.06.2022
+source-files-FRITZ.Box_7510-maple-07.59.tar.gz Largest=655.13 MB Server=16:58:33 at 03.07.2024

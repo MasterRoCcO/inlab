@@ -1,2 +1,2 @@
-source-files-FRITZ.Box_6890_LTE-07.56.tar.gz came to server 19:00:06 at 12.09.2023
-source-files-FRITZ.Box_6890_LTE-grx5-07.29.tar.gz came to server 12:20:12 at 04.04.2023
+source-files-FRITZ.Box_6890_LTE-07.56.tar.gz Largest=544.81 MB Server=19:00:06 at 12.09.2023
+source-files-FRITZ.Box_6890_LTE-grx5-07.29.tar.gz Largest=512.13 MB Server=12:20:12 at 04.04.2023

@@ -1,6 +1,6 @@
-source-files-FRITZ.Box_6690_Cable-armp7-07.29.tar.gz came to server 10:01:49 at 16.06.2023
-source-files-FRITZ.Box_6690_Cable-armp7-07.50.tar.gz came to server 10:01:58 at 16.06.2023
-source-files-FRITZ.Box_6690_Cable-armp7-07.56.tar.gz came to server 10:02:06 at 16.06.2023
-source-files-FRITZ.Box_6690_Cable-atomp7-07.29.tar.gz came to server 10:01:54 at 16.06.2023
-source-files-FRITZ.Box_6690_Cable-atomp7-07.50.tar.gz came to server 10:02:03 at 16.06.2023
-source-files-FRITZ.Box_6690_Cable-atomp7-07.56.tar.gz came to server 10:02:09 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-armp7-07.29.tar.gz Largest=504.81 MB Server=10:01:49 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-armp7-07.50.tar.gz Largest=548.27 MB Server=10:01:58 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-armp7-07.56.tar.gz Largest=548.28 MB Server=10:02:06 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-atomp7-07.29.tar.gz Largest=559.36 MB Server=10:01:54 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-atomp7-07.50.tar.gz Largest=643.96 MB Server=10:02:03 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-atomp7-07.56.tar.gz Largest=643.97 MB Server=10:02:09 at 16.06.2023

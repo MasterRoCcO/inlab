@@ -1,1 +1,1 @@
-fritzbox7270-source-files-04.86.tar.gz came to server 13:40:40 at 11.10.2010
+fritzbox7270-source-files-04.86.tar.gz Largest=167.95 MB Server=13:40:40 at 11.10.2010

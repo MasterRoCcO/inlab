@@ -1,3 +1,3 @@
-source-files-FRITZ.Box_7412-06.83.tar.gz came to server 15:55:59 at 11.10.2023
-source-files-FRITZ.Box_7412-06.86.tar.gz came to server 15:56:03 at 11.10.2023
-source-files-FRITZ.Box_7412-vr9-06.87.tar.gz came to server 15:56:04 at 11.10.2023
+source-files-FRITZ.Box_7412-06.83.tar.gz Largest=368.03 MB Server=15:55:59 at 11.10.2023
+source-files-FRITZ.Box_7412-06.86.tar.gz Largest=368.03 MB Server=15:56:03 at 11.10.2023
+source-files-FRITZ.Box_7412-vr9-06.87.tar.gz Largest=367.98 MB Server=15:56:04 at 11.10.2023

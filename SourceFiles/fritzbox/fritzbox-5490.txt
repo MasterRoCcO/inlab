@@ -1,5 +1,5 @@
-source-files-FRITZ.Box_5490-06.51.tar.gz came to server 15:26:12 at 15.11.2019
-source-files-FRITZ.Box_5490-06.52.tar.gz came to server 15:26:16 at 15.11.2019
-source-files-FRITZ.Box_5490-06.84.tar.gz came to server 15:26:21 at 15.11.2019
-source-files-FRITZ.Box_5490-07.01.tar.gz came to server 15:26:23 at 15.11.2019
-source-files-FRITZ.Box_5490-07.12.tar came to server 15:26:25 at 15.11.2019
+source-files-FRITZ.Box_5490-06.51.tar.gz Largest=676.09 MB Server=15:26:12 at 15.11.2019
+source-files-FRITZ.Box_5490-06.52.tar.gz Largest=676.08 MB Server=15:26:16 at 15.11.2019
+source-files-FRITZ.Box_5490-06.84.tar.gz Largest=669.34 MB Server=15:26:21 at 15.11.2019
+source-files-FRITZ.Box_5490-07.01.tar.gz Largest=401.00 MB Server=15:26:23 at 15.11.2019
+source-files-FRITZ.Box_5490-07.12.tar Largest=405.38 MB Server=15:26:25 at 15.11.2019

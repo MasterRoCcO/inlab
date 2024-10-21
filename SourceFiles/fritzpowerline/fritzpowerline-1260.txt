@@ -1,4 +1,4 @@
-source-files-FRITZ.Powerline_1260-cortexa9-07.29.tar.gz came to server 13:09:24 at 09.12.2022
-source-files-FRITZ.Powerline_1260-cortexa9-07.50.tar.gz came to server 07:35:48 at 16.06.2023
-source-files-FRITZ.Powerline_1260-cortexa9-07.56.tar.gz came to server 14:33:21 at 14.08.2023
-source-files-FRITZ.Powerline_1260-cortexa9-07.58.tar.gz came to server 12:48:17 at 06.06.2024
+source-files-FRITZ.Powerline_1260-cortexa9-07.29.tar.gz Largest=494.11 MB Server=13:09:24 at 09.12.2022
+source-files-FRITZ.Powerline_1260-cortexa9-07.50.tar.gz Largest=555.99 MB Server=07:35:48 at 16.06.2023
+source-files-FRITZ.Powerline_1260-cortexa9-07.56.tar.gz Largest=555.99 MB Server=14:33:21 at 14.08.2023
+source-files-FRITZ.Powerline_1260-cortexa9-07.58.tar.gz Largest=555.98 MB Server=12:48:17 at 06.06.2024

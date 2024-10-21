@@ -1,5 +1,5 @@
-source-files-FRITZ.Box_7530_AX-07.81.tar.gz came to server 09:49:20 at 26.09.2024
-source-files-FRITZ.Box_7530_AX-brcma9-07.31.tar.gz came to server 10:32:52 at 08.04.2022
-source-files-FRITZ.Box_7530_AX-brcma9-07.56.tar.gz came to server 09:49:08 at 26.09.2024
-source-files-FRITZ.Box_7530_AX-brcma9-07.80.tar.gz came to server 09:49:14 at 26.09.2024
-source-files-FRITZ.Box_7530_AX-brcma9-08.00.tar.gz came to server 09:49:24 at 26.09.2024
+source-files-FRITZ.Box_7530_AX-07.81.tar.gz Largest=639.14 MB Server=09:49:20 at 26.09.2024
+source-files-FRITZ.Box_7530_AX-brcma9-07.31.tar.gz Largest=529.87 MB Server=10:32:52 at 08.04.2022
+source-files-FRITZ.Box_7530_AX-brcma9-07.56.tar.gz Largest=639.13 MB Server=09:49:08 at 26.09.2024
+source-files-FRITZ.Box_7530_AX-brcma9-07.80.tar.gz Largest=639.13 MB Server=09:49:14 at 26.09.2024
+source-files-FRITZ.Box_7530_AX-brcma9-08.00.tar.gz Largest=763.19 MB Server=09:49:24 at 26.09.2024

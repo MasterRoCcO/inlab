@@ -1,15 +1,15 @@
-fritzbox-6590-cable-07.20-armp6.tar.gz came to server 15:21:09 at 04.09.2023
-fritzbox-6590-cable-07.20-x86.tar.gz came to server 15:21:06 at 04.09.2023
-fritzbox-6590-cable-07.25-armp6.tar.gz came to server 15:21:02 at 04.09.2023
-fritzbox-6590-cable-07.25-x86.tar.gz came to server 15:20:58 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable-07.00.tar.gz came to server 15:20:32 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable-07.02.tar.gz came to server 15:20:38 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable-07.10.tar.gz came to server 15:20:45 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable-07.12.tar.gz came to server 15:20:51 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable-07.19.tar.gz came to server 15:20:55 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable-armp6-07.56.tar.gz came to server 15:21:13 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable.atom-07.00.tar.gz came to server 15:20:29 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable.atom-07.02.tar.gz came to server 15:20:35 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable.atom-07.10.tar.gz came to server 15:20:41 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable.atom-07.12.tar.gz came to server 15:20:48 at 04.09.2023
-source-files-FRITZ.Box_6590_Cable-x86-07.56.tar.gz came to server 15:21:11 at 04.09.2023
+fritzbox-6590-cable-07.20-armp6.tar.gz Largest=432.51 MB Server=15:21:09 at 04.09.2023
+fritzbox-6590-cable-07.20-x86.tar.gz Largest=406.50 MB Server=15:21:06 at 04.09.2023
+fritzbox-6590-cable-07.25-armp6.tar.gz Largest=431.70 MB Server=15:21:02 at 04.09.2023
+fritzbox-6590-cable-07.25-x86.tar.gz Largest=405.79 MB Server=15:20:58 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable-07.00.tar.gz Largest=351.03 MB Server=15:20:32 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable-07.02.tar.gz Largest=351.03 MB Server=15:20:38 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable-07.10.tar.gz Largest=355.39 MB Server=15:20:45 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable-07.12.tar.gz Largest=355.39 MB Server=15:20:51 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable-07.19.tar.gz Largest=432.51 MB Server=15:20:55 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable-armp6-07.56.tar.gz Largest=185.16 MB Server=15:21:13 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable.atom-07.00.tar.gz Largest=374.48 MB Server=15:20:29 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable.atom-07.02.tar.gz Largest=374.50 MB Server=15:20:35 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable.atom-07.10.tar.gz Largest=378.82 MB Server=15:20:41 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable.atom-07.12.tar.gz Largest=378.83 MB Server=15:20:48 at 04.09.2023
+source-files-FRITZ.Box_6590_Cable-x86-07.56.tar.gz Largest=205.97 MB Server=15:21:11 at 04.09.2023
