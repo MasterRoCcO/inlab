@@ -1,12 +1,12 @@
-deutschland/recover/FRITZ.Box_7510-07.30-recover.exe came to server 10:48:08 at 12.04.2023
-deutschland/recover/FRITZ.Box_7510-07.50-recover.exe came to server 10:48:17 at 12.04.2023
-deutschland/recover/FRITZ.Box_7510-07.56.exe came to server 11:29:32 at 04.09.2023
-deutschland/recover/FRITZ.Box_7510-07.56-recover.exe came to server 15:50:40 at 30.07.2023
-deutschland/recover/FRITZ.Box_7510-07.57-recover.exe came to server 21:13:09 at 12.09.2023
-deutschland/recover/FRITZ.Box_7510-07.59-recover.exe came to server 13:17:56 at 25.06.2024
-other/recover/FRITZ.Box_7510-07.30-recover.exe came to server 10:48:43 at 12.04.2023
-other/recover/FRITZ.Box_7510-07.50-recover.exe came to server 10:48:52 at 12.04.2023
-other/recover/FRITZ.Box_7510-07.56.exe came to server 11:29:35 at 04.09.2023
-other/recover/FRITZ.Box_7510-07.56-recover.exe came to server 15:50:43 at 30.07.2023
-other/recover/FRITZ.Box_7510-07.57-recover.exe came to server 21:13:10 at 12.09.2023
-other/recover/FRITZ.Box_7510-07.59-recover.exe came to server 13:17:58 at 25.06.2024
+deutschland/recover/FRITZ.Box_7510-07.30-recover.exe Largest=31.11 MB Server=10:48:08 at 12.04.2023
+deutschland/recover/FRITZ.Box_7510-07.50-recover.exe Largest=34.89 MB Server=10:48:17 at 12.04.2023
+deutschland/recover/FRITZ.Box_7510-07.56.exe Largest=34.93 MB Server=11:29:32 at 04.09.2023
+deutschland/recover/FRITZ.Box_7510-07.56-recover.exe Largest=34.93 MB Server=15:50:40 at 30.07.2023
+deutschland/recover/FRITZ.Box_7510-07.57-recover.exe Largest=34.94 MB Server=21:13:09 at 12.09.2023
+deutschland/recover/FRITZ.Box_7510-07.59-recover.exe Largest=34.98 MB Server=13:17:56 at 25.06.2024
+other/recover/FRITZ.Box_7510-07.30-recover.exe Largest=31.11 MB Server=10:48:43 at 12.04.2023
+other/recover/FRITZ.Box_7510-07.50-recover.exe Largest=34.89 MB Server=10:48:52 at 12.04.2023
+other/recover/FRITZ.Box_7510-07.56.exe Largest=34.93 MB Server=11:29:35 at 04.09.2023
+other/recover/FRITZ.Box_7510-07.56-recover.exe Largest=34.93 MB Server=15:50:43 at 30.07.2023
+other/recover/FRITZ.Box_7510-07.57-recover.exe Largest=34.94 MB Server=21:13:10 at 12.09.2023
+other/recover/FRITZ.Box_7510-07.59-recover.exe Largest=34.98 MB Server=13:17:58 at 25.06.2024

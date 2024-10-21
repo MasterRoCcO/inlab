@@ -1,3 +1,3 @@
-x_misc/deutsch_a-ch/annex_a/FRITZ.Box_Fon_5113.AnnexA.de-en-es-it-fr.04.83.recover-image.exe came to server 08:23:21 at 12.04.2023
-x_misc/english/annex_a/FRITZ.Box_Fon_5113.AnnexA.de-en-es-it-fr.04.82.recover-image.exe came to server 08:23:23 at 12.04.2023
-x_misc/english/annex_a/FRITZ.Box_Fon_5113.AnnexA.de-en-es-it-fr.04.83.recover-image.exe came to server 08:23:25 at 12.04.2023
+x_misc/deutsch_a-ch/annex_a/FRITZ.Box_Fon_5113.AnnexA.de-en-es-it-fr.04.83.recover-image.exe Largest=5.02 MB Server=08:23:21 at 12.04.2023
+x_misc/english/annex_a/FRITZ.Box_Fon_5113.AnnexA.de-en-es-it-fr.04.82.recover-image.exe Largest=5.01 MB Server=08:23:23 at 12.04.2023
+x_misc/english/annex_a/FRITZ.Box_Fon_5113.AnnexA.de-en-es-it-fr.04.83.recover-image.exe Largest=5.02 MB Server=08:23:25 at 12.04.2023

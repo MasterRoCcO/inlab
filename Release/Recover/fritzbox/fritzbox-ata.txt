@@ -1,5 +1,5 @@
-x_misc/deutsch_a-ch/fritz.box_fon_ata.de.04.01.recover-image.exe came to server 11:40:35 at 12.04.2023
-x_misc/deutsch/FRITZ.Box_Fon_ata.03.88.recover-image.exe came to server 11:40:32 at 12.04.2023
-x_misc/deutsch/fritz.box_fon_ata.04.01.recover-image.exe came to server 11:40:33 at 12.04.2023
-x_misc/english/FRITZ.Box_Fon_ata.en.03.64.recover-image.exe came to server 11:40:36 at 12.04.2023
-x_misc/english/fritz.box_fon_ata.en.04.01.recover-image.exe came to server 11:40:38 at 12.04.2023
+x_misc/deutsch_a-ch/fritz.box_fon_ata.de.04.01.recover-image.exe Largest=3.61 MB Server=11:40:35 at 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_ata.03.88.recover-image.exe Largest=3.53 MB Server=11:40:32 at 12.04.2023
+x_misc/deutsch/fritz.box_fon_ata.04.01.recover-image.exe Largest=3.60 MB Server=11:40:33 at 12.04.2023
+x_misc/english/FRITZ.Box_Fon_ata.en.03.64.recover-image.exe Largest=3.40 MB Server=11:40:36 at 12.04.2023
+x_misc/english/fritz.box_fon_ata.en.04.01.recover-image.exe Largest=3.60 MB Server=11:40:38 at 12.04.2023

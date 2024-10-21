@@ -1,19 +1,19 @@
-deutschland/recover/FRITZ.Box_3390.05.50.recover-image.exe came to server 08:05:53 at 12.04.2023
-deutschland/recover/FRITZ.Box_3390.05.51.recover-image.exe came to server 08:05:59 at 12.04.2023
-deutschland/recover/FRITZ.Box_3390.06.01.recover-image.exe came to server 08:06:04 at 12.04.2023
-deutschland/recover/FRITZ.Box_3390.06.03.recover-image.exe came to server 08:06:10 at 12.04.2023
-deutschland/recover/FRITZ.Box_3390.06.20.recover-image.exe came to server 08:06:15 at 12.04.2023
-deutschland/recover/FRITZ.Box_3390.06.30.recover-image.exe came to server 08:06:20 at 12.04.2023
-deutschland/recover/fritz.box_3390.06.51.recover-image.exe came to server 08:06:31 at 12.04.2023
-deutschland/recover/fritz.box_3390.06.53.recover-image.exe came to server 08:06:36 at 12.04.2023
-deutschland/recover/FRITZ.Box_3390.06.54.recover-image.exe came to server 08:06:26 at 12.04.2023
-deutschland/recover/fritz.box_3390-06.55.recover.exe came to server 08:03:11 at 12.04.2023
-deutschland/recover/fritz.box_3390.06.56.recover.exe came to server 11:31:11 at 16.09.2023
-other/recover/FRITZ.Box_3390.en-de-es-it-fr.05.52.recover-image.exe came to server 08:07:10 at 12.04.2023
-other/recover/FRITZ.Box_3390.en-de-es-it-fr.06.04.recover-image.exe came to server 08:07:16 at 12.04.2023
-other/recover/FRITZ.Box_3390.en-de-es-it-fr-pl.06.20.recover-image.exe came to server 08:06:48 at 12.04.2023
-other/recover/FRITZ.Box_3390.en-de-es-it-fr-pl.06.30_ach.recover-image.exe came to server 08:06:54 at 12.04.2023
-other/recover/FRITZ.Box_3390.en-de-es-it-fr-pl.06.30_eng.recover-image.exe came to server 08:06:59 at 12.04.2023
-other/recover/FRITZ.Box_3390.en-de-es-it-fr-pl.06.30.recover-image.exe came to server 08:05:47 at 12.04.2023
-other/recover/FRITZ.Box_3390.en-de-es-it-fr-pl.06.52.recover-image.exe came to server 08:07:05 at 12.04.2023
-other/recover/fritz.box_3390.en-de-es-it-fr-pl.06.54.recover-image.exe came to server 11:31:30 at 16.09.2023
+deutschland/recover/FRITZ.Box_3390.05.50.recover-image.exe Largest=19.82 MB Server=08:05:53 at 12.04.2023
+deutschland/recover/FRITZ.Box_3390.05.51.recover-image.exe Largest=19.82 MB Server=08:05:59 at 12.04.2023
+deutschland/recover/FRITZ.Box_3390.06.01.recover-image.exe Largest=20.35 MB Server=08:06:04 at 12.04.2023
+deutschland/recover/FRITZ.Box_3390.06.03.recover-image.exe Largest=20.35 MB Server=08:06:10 at 12.04.2023
+deutschland/recover/FRITZ.Box_3390.06.20.recover-image.exe Largest=21.06 MB Server=08:06:15 at 12.04.2023
+deutschland/recover/FRITZ.Box_3390.06.30.recover-image.exe Largest=21.03 MB Server=08:06:20 at 12.04.2023
+deutschland/recover/fritz.box_3390.06.51.recover-image.exe Largest=19.89 MB Server=08:06:31 at 12.04.2023
+deutschland/recover/fritz.box_3390.06.53.recover-image.exe Largest=19.99 MB Server=08:06:36 at 12.04.2023
+deutschland/recover/FRITZ.Box_3390.06.54.recover-image.exe Largest=19.99 MB Server=08:06:26 at 12.04.2023
+deutschland/recover/fritz.box_3390-06.55.recover.exe Largest=20.00 MB Server=08:03:11 at 12.04.2023
+deutschland/recover/fritz.box_3390.06.56.recover.exe Largest=20.01 MB Server=11:31:11 at 16.09.2023
+other/recover/FRITZ.Box_3390.en-de-es-it-fr.05.52.recover-image.exe Largest=20.73 MB Server=08:07:10 at 12.04.2023
+other/recover/FRITZ.Box_3390.en-de-es-it-fr.06.04.recover-image.exe Largest=21.32 MB Server=08:07:16 at 12.04.2023
+other/recover/FRITZ.Box_3390.en-de-es-it-fr-pl.06.20.recover-image.exe Largest=22.32 MB Server=08:06:48 at 12.04.2023
+other/recover/FRITZ.Box_3390.en-de-es-it-fr-pl.06.30_ach.recover-image.exe Largest=22.38 MB Server=08:06:54 at 12.04.2023
+other/recover/FRITZ.Box_3390.en-de-es-it-fr-pl.06.30_eng.recover-image.exe Largest=22.38 MB Server=08:06:59 at 12.04.2023
+other/recover/FRITZ.Box_3390.en-de-es-it-fr-pl.06.30.recover-image.exe Largest=22.38 MB Server=08:05:47 at 12.04.2023
+other/recover/FRITZ.Box_3390.en-de-es-it-fr-pl.06.52.recover-image.exe Largest=21.09 MB Server=08:07:05 at 12.04.2023
+other/recover/fritz.box_3390.en-de-es-it-fr-pl.06.54.recover-image.exe Largest=21.11 MB Server=11:31:30 at 16.09.2023

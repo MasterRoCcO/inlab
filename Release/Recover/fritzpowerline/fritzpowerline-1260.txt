@@ -1,9 +1,9 @@
-deutschland/recover/FRITZ.Powerline_1260-07.27-Release-recover.exe came to server 22:24:57 at 11.04.2023
-deutschland/recover/FRITZ.Powerline_1260-07.29-Release-recover.exe came to server 21:58:22 at 11.04.2023
-deutschland/recover/FRITZ.Powerline_1260-07.50-Release-recover.exe came to server 18:00:53 at 24.04.2023
-deutschland/recover/FRITZ.Powerline_1260-07.56-Release-recover.exe came to server 15:50:50 at 30.07.2023
-deutschland/recover/FRITZ.Powerline_1260-07.58-113256-Release-recover.exe came to server 17:06:43 at 30.05.2024
-other/recover/FRITZ.Powerline_1260-07.50-Release-recover.exe came to server 18:01:02 at 24.04.2023
-other/recover/FRITZ.Powerline_1260-07.56-Release-recover.exe came to server 15:50:52 at 30.07.2023
-other/recover/FRITZ.Powerline_1260-07.57-107850-Release-recover.exe came to server 01:03:17 at 23.11.2023
-other/recover/FRITZ.Powerline_1260-07.58-113256-Release-recover.exe came to server 17:06:50 at 30.05.2024
+deutschland/recover/FRITZ.Powerline_1260-07.27-Release-recover.exe Largest=17.00 MB Server=22:24:57 at 11.04.2023
+deutschland/recover/FRITZ.Powerline_1260-07.29-Release-recover.exe Largest=17.01 MB Server=21:58:22 at 11.04.2023
+deutschland/recover/FRITZ.Powerline_1260-07.50-Release-recover.exe Largest=18.14 MB Server=18:00:53 at 24.04.2023
+deutschland/recover/FRITZ.Powerline_1260-07.56-Release-recover.exe Largest=18.16 MB Server=15:50:50 at 30.07.2023
+deutschland/recover/FRITZ.Powerline_1260-07.58-113256-Release-recover.exe Largest=18.16 MB Server=17:06:43 at 30.05.2024
+other/recover/FRITZ.Powerline_1260-07.50-Release-recover.exe Largest=18.14 MB Server=18:01:02 at 24.04.2023
+other/recover/FRITZ.Powerline_1260-07.56-Release-recover.exe Largest=18.16 MB Server=15:50:52 at 30.07.2023
+other/recover/FRITZ.Powerline_1260-07.57-107850-Release-recover.exe Largest=18.16 MB Server=01:03:17 at 23.11.2023
+other/recover/FRITZ.Powerline_1260-07.58-113256-Release-recover.exe Largest=18.16 MB Server=17:06:50 at 30.05.2024

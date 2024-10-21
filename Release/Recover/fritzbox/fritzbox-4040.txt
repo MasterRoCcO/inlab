@@ -1,30 +1,30 @@
-deutschland/recover/fritz.box_4040-07.10-recover.exe came to server 08:18:39 at 12.04.2023
-deutschland/recover/fritz.box_4040-07.12-recover.exe came to server 08:18:44 at 12.04.2023
-deutschland/recover/fritz.box_4040-07.14-recover.exe came to server 08:18:50 at 12.04.2023
-deutschland/recover/FRITZ.Box_4040-07.27-recover.exe came to server 08:18:10 at 12.04.2023
-deutschland/recover/FRITZ.Box_4040-07.29-recover.exe came to server 08:18:18 at 12.04.2023
-deutschland/recover/FRITZ.Box_4040-07.56.exe came to server 11:28:34 at 04.09.2023
-deutschland/recover/FRITZ.Box_4040-07.56-recover.exe came to server 16:38:16 at 20.07.2023
-deutschland/recover/FRITZ.Box_4040-07.57-recover.exe came to server 11:04:33 at 16.09.2023
-deutschland/recover/FRITZ.Box_4040-07.59-recover.exe came to server 13:05:24 at 12.06.2024
-deutschland/recover/FRITZ.Box_4040-08.00.exe came to server 13:31:02 at 16.10.2024
-deutschland/recover/FRITZ.Box_4040-7.28-recover.exe came to server 08:18:24 at 12.04.2023
-deutschland/recover/FRITZ.Box_4040.de-en-es-it-fr-pl.07.00.recover-image.exe came to server 08:18:29 at 12.04.2023
-deutschland/recover/fritz.box_4040.de-en-es-it-fr-pl.07.01.recover-image.exe came to server 08:18:55 at 12.04.2023
-deutschland/recover/FRITZ.Box_4040.en-de-es-it-fr-pl.06.53.recover-image.exe came to server 08:21:10 at 12.04.2023
-deutschland/recover/FRITZ.Box_4040.en-de-es-it-fr-pl.06.55.recover-image.exe came to server 08:21:16 at 12.04.2023
-deutschland/recover/FRITZ.Box_4040.en-de-es-it-fr-pl.06.83.recover-image.exe came to server 08:18:34 at 12.04.2023
-other/recover/fritz.box_4040-07.10-recover.exe came to server 08:20:48 at 12.04.2023
-other/recover/fritz.box_4040-07.12-recover.exe came to server 08:20:54 at 12.04.2023
-other/recover/fritz.box_4040-07.14-recover.exe came to server 08:20:59 at 12.04.2023
-other/recover/FRITZ.Box_4040-07.27-recover.exe came to server 08:20:21 at 12.04.2023
-other/recover/FRITZ.Box_4040-07.29-recover.exe came to server 08:20:27 at 12.04.2023
-other/recover/FRITZ.Box_4040-07.56.exe came to server 11:28:37 at 04.09.2023
-other/recover/FRITZ.Box_4040-07.56-recover.exe came to server 16:38:18 at 20.07.2023
-other/recover/FRITZ.Box_4040-07.57-recover.exe came to server 11:04:34 at 16.09.2023
-other/recover/FRITZ.Box_4040-07.59-recover.exe came to server 13:05:31 at 12.06.2024
-other/recover/FRITZ.Box_4040-08.00.exe came to server 13:31:10 at 16.10.2024
-other/recover/FRITZ.Box_4040-7.28-recover.exe came to server 08:20:33 at 12.04.2023
-other/recover/FRITZ.Box_4040.de-en-es-it-fr-pl.07.00.recover-image.exe came to server 08:20:38 at 12.04.2023
-other/recover/fritz.box_4040.de-en-es-it-fr-pl.07.01.recover-image.exe came to server 08:21:04 at 12.04.2023
-other/recover/FRITZ.Box_4040.en-de-es-it-fr-pl.06.83.recover-image.exe came to server 08:20:43 at 12.04.2023
+deutschland/recover/fritz.box_4040-07.10-recover.exe Largest=20.56 MB Server=08:18:39 at 12.04.2023
+deutschland/recover/fritz.box_4040-07.12-recover.exe Largest=20.57 MB Server=08:18:44 at 12.04.2023
+deutschland/recover/fritz.box_4040-07.14-recover.exe Largest=20.57 MB Server=08:18:50 at 12.04.2023
+deutschland/recover/FRITZ.Box_4040-07.27-recover.exe Largest=23.37 MB Server=08:18:10 at 12.04.2023
+deutschland/recover/FRITZ.Box_4040-07.29-recover.exe Largest=23.37 MB Server=08:18:18 at 12.04.2023
+deutschland/recover/FRITZ.Box_4040-07.56.exe Largest=26.37 MB Server=11:28:34 at 04.09.2023
+deutschland/recover/FRITZ.Box_4040-07.56-recover.exe Largest=26.37 MB Server=16:38:16 at 20.07.2023
+deutschland/recover/FRITZ.Box_4040-07.57-recover.exe Largest=26.37 MB Server=11:04:33 at 16.09.2023
+deutschland/recover/FRITZ.Box_4040-07.59-recover.exe Largest=26.40 MB Server=13:05:24 at 12.06.2024
+deutschland/recover/FRITZ.Box_4040-08.00.exe Largest=28.77 MB Server=13:31:02 at 16.10.2024
+deutschland/recover/FRITZ.Box_4040-7.28-recover.exe Largest=23.37 MB Server=08:18:24 at 12.04.2023
+deutschland/recover/FRITZ.Box_4040.de-en-es-it-fr-pl.07.00.recover-image.exe Largest=18.99 MB Server=08:18:29 at 12.04.2023
+deutschland/recover/fritz.box_4040.de-en-es-it-fr-pl.07.01.recover-image.exe Largest=19.05 MB Server=08:18:55 at 12.04.2023
+deutschland/recover/FRITZ.Box_4040.en-de-es-it-fr-pl.06.53.recover-image.exe Largest=19.76 MB Server=08:21:10 at 12.04.2023
+deutschland/recover/FRITZ.Box_4040.en-de-es-it-fr-pl.06.55.recover-image.exe Largest=19.77 MB Server=08:21:16 at 12.04.2023
+deutschland/recover/FRITZ.Box_4040.en-de-es-it-fr-pl.06.83.recover-image.exe Largest=19.95 MB Server=08:18:34 at 12.04.2023
+other/recover/fritz.box_4040-07.10-recover.exe Largest=20.56 MB Server=08:20:48 at 12.04.2023
+other/recover/fritz.box_4040-07.12-recover.exe Largest=20.57 MB Server=08:20:54 at 12.04.2023
+other/recover/fritz.box_4040-07.14-recover.exe Largest=20.57 MB Server=08:20:59 at 12.04.2023
+other/recover/FRITZ.Box_4040-07.27-recover.exe Largest=23.37 MB Server=08:20:21 at 12.04.2023
+other/recover/FRITZ.Box_4040-07.29-recover.exe Largest=23.37 MB Server=08:20:27 at 12.04.2023
+other/recover/FRITZ.Box_4040-07.56.exe Largest=26.37 MB Server=11:28:37 at 04.09.2023
+other/recover/FRITZ.Box_4040-07.56-recover.exe Largest=26.37 MB Server=16:38:18 at 20.07.2023
+other/recover/FRITZ.Box_4040-07.57-recover.exe Largest=26.37 MB Server=11:04:34 at 16.09.2023
+other/recover/FRITZ.Box_4040-07.59-recover.exe Largest=26.40 MB Server=13:05:31 at 12.06.2024
+other/recover/FRITZ.Box_4040-08.00.exe Largest=28.77 MB Server=13:31:10 at 16.10.2024
+other/recover/FRITZ.Box_4040-7.28-recover.exe Largest=23.37 MB Server=08:20:33 at 12.04.2023
+other/recover/FRITZ.Box_4040.de-en-es-it-fr-pl.07.00.recover-image.exe Largest=18.99 MB Server=08:20:38 at 12.04.2023
+other/recover/fritz.box_4040.de-en-es-it-fr-pl.07.01.recover-image.exe Largest=19.05 MB Server=08:21:04 at 12.04.2023
+other/recover/FRITZ.Box_4040.en-de-es-it-fr-pl.06.83.recover-image.exe Largest=19.95 MB Server=08:20:43 at 12.04.2023

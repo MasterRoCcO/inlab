@@ -1,26 +1,26 @@
-deutschland/recover/FRITZ.Box_5530-07.21-recover.exe came to server 08:32:20 at 12.04.2023
-deutschland/recover/FRITZ.Box_5530-07.25-recover.exe came to server 08:32:31 at 12.04.2023
-deutschland/recover/FRITZ.Box_5530-07.26.exe came to server 08:32:42 at 12.04.2023
-deutschland/recover/FRITZ.Box_5530-07.27-recover.exe came to server 08:32:53 at 12.04.2023
-deutschland/recover/FRITZ.Box_5530-07.29-recover.exe came to server 08:33:04 at 12.04.2023
-deutschland/recover/FRITZ.Box_5530-07.30-recover.exe came to server 08:33:15 at 12.04.2023
-deutschland/recover/FRITZ.Box_5530-07.50-recover.exe came to server 16:47:47 at 05.09.2023
-deutschland/recover/FRITZ.Box_5530_Fiber-07.56-recover.exe came to server 15:35:41 at 13.07.2023
-deutschland/recover/FRITZ.Box_5530_Fiber-07.57.exe came to server 17:18:24 at 05.09.2023
-deutschland/recover/FRITZ.Box_5530_Fiber-07.58-recover.exe came to server 15:31:01 at 11.10.2023
-deutschland/recover/FRITZ.Box_5530_Fiber-07.80-Recover.exe came to server 15:31:48 at 02.02.2024
-deutschland/recover/FRITZ.Box_5530_Fiber-07.81-recover.exe came to server 16:01:30 at 08.10.2024
-deutschland/recover/FRITZ.Box_5530_Fiber-08.00-recover.exe came to server 16:01:30 at 08.10.2024
-other/recover/FRITZ.Box_5530-07.21-recover.exe came to server 08:34:33 at 12.04.2023
-other/recover/FRITZ.Box_5530-07.25-recover.exe came to server 08:34:44 at 12.04.2023
-other/recover/FRITZ.Box_5530-07.26-recover.exe came to server 08:34:55 at 12.04.2023
-other/recover/FRITZ.Box_5530-07.27-recover.exe came to server 08:35:06 at 12.04.2023
-other/recover/FRITZ.Box_5530-07.29-recover.exe came to server 08:35:17 at 12.04.2023
-other/recover/FRITZ.Box_5530-07.30-recover.exe came to server 08:35:29 at 12.04.2023
-other/recover/FRITZ.Box_5530-07.50-recover.exe came to server 16:48:04 at 05.09.2023
-other/recover/FRITZ.Box_5530_Fiber-07.56-recover.exe came to server 15:35:44 at 13.07.2023
-other/recover/FRITZ.Box_5530_Fiber-07.57.exe came to server 17:18:27 at 05.09.2023
-other/recover/FRITZ.Box_5530_Fiber-07.58-Recover.exe came to server 15:32:11 at 30.01.2024
-other/recover/FRITZ.Box_5530_Fiber-07.80-Recover.exe came to server 15:32:11 at 02.02.2024
-other/recover/FRITZ.Box_5530_Fiber-07.81-recover.exe came to server 16:01:38 at 08.10.2024
-other/recover/FRITZ.Box_5530_Fiber-08.00-recover.exe came to server 16:01:38 at 08.10.2024
+deutschland/recover/FRITZ.Box_5530-07.21-recover.exe Largest=40.11 MB Server=08:32:20 at 12.04.2023
+deutschland/recover/FRITZ.Box_5530-07.25-recover.exe Largest=43.93 MB Server=08:32:31 at 12.04.2023
+deutschland/recover/FRITZ.Box_5530-07.26.exe Largest=43.93 MB Server=08:32:42 at 12.04.2023
+deutschland/recover/FRITZ.Box_5530-07.27-recover.exe Largest=43.97 MB Server=08:32:53 at 12.04.2023
+deutschland/recover/FRITZ.Box_5530-07.29-recover.exe Largest=44.33 MB Server=08:33:04 at 12.04.2023
+deutschland/recover/FRITZ.Box_5530-07.30-recover.exe Largest=44.37 MB Server=08:33:15 at 12.04.2023
+deutschland/recover/FRITZ.Box_5530-07.50-recover.exe Largest=33.25 MB Server=16:47:47 at 05.09.2023
+deutschland/recover/FRITZ.Box_5530_Fiber-07.56-recover.exe Largest=33.37 MB Server=15:35:41 at 13.07.2023
+deutschland/recover/FRITZ.Box_5530_Fiber-07.57.exe Largest=33.37 MB Server=17:18:24 at 05.09.2023
+deutschland/recover/FRITZ.Box_5530_Fiber-07.58-recover.exe Largest=33.37 MB Server=15:31:01 at 11.10.2023
+deutschland/recover/FRITZ.Box_5530_Fiber-07.80-Recover.exe Largest=33.67 MB Server=15:31:48 at 02.02.2024
+deutschland/recover/FRITZ.Box_5530_Fiber-07.81-recover.exe Largest=33.70 MB Server=16:01:30 at 08.10.2024
+deutschland/recover/FRITZ.Box_5530_Fiber-08.00-recover.exe Largest=36.50 MB Server=16:01:30 at 08.10.2024
+other/recover/FRITZ.Box_5530-07.21-recover.exe Largest=40.11 MB Server=08:34:33 at 12.04.2023
+other/recover/FRITZ.Box_5530-07.25-recover.exe Largest=43.93 MB Server=08:34:44 at 12.04.2023
+other/recover/FRITZ.Box_5530-07.26-recover.exe Largest=43.93 MB Server=08:34:55 at 12.04.2023
+other/recover/FRITZ.Box_5530-07.27-recover.exe Largest=43.97 MB Server=08:35:06 at 12.04.2023
+other/recover/FRITZ.Box_5530-07.29-recover.exe Largest=44.33 MB Server=08:35:17 at 12.04.2023
+other/recover/FRITZ.Box_5530-07.30-recover.exe Largest=44.37 MB Server=08:35:29 at 12.04.2023
+other/recover/FRITZ.Box_5530-07.50-recover.exe Largest=33.25 MB Server=16:48:04 at 05.09.2023
+other/recover/FRITZ.Box_5530_Fiber-07.56-recover.exe Largest=33.37 MB Server=15:35:44 at 13.07.2023
+other/recover/FRITZ.Box_5530_Fiber-07.57.exe Largest=33.37 MB Server=17:18:27 at 05.09.2023
+other/recover/FRITZ.Box_5530_Fiber-07.58-Recover.exe Largest=33.37 MB Server=15:32:11 at 30.01.2024
+other/recover/FRITZ.Box_5530_Fiber-07.80-Recover.exe Largest=33.67 MB Server=15:32:11 at 02.02.2024
+other/recover/FRITZ.Box_5530_Fiber-07.81-recover.exe Largest=33.70 MB Server=16:01:38 at 08.10.2024
+other/recover/FRITZ.Box_5530_Fiber-08.00-recover.exe Largest=36.50 MB Server=16:01:38 at 08.10.2024

@@ -1,4 +1,4 @@
-x_misc/fritz.box_fon_5050.04.01.recover-image.exe came to server 08:23:09 at 12.04.2023
-x_misc/fritz.box_fon_5050.04.15.recover-image.exe came to server 08:23:10 at 12.04.2023
-x_misc/fritz.box_fon_5050.12.04.30.recover-image.exe came to server 08:23:12 at 12.04.2023
-x_misc/fritz.box_fon_5050.12.04.31.recover-image.exe came to server 08:23:13 at 12.04.2023
+x_misc/fritz.box_fon_5050.04.01.recover-image.exe Largest=3.97 MB Server=08:23:09 at 12.04.2023
+x_misc/fritz.box_fon_5050.04.15.recover-image.exe Largest=3.93 MB Server=08:23:10 at 12.04.2023
+x_misc/fritz.box_fon_5050.12.04.30.recover-image.exe Largest=4.12 MB Server=08:23:12 at 12.04.2023
+x_misc/fritz.box_fon_5050.12.04.31.recover-image.exe Largest=4.14 MB Server=08:23:13 at 12.04.2023

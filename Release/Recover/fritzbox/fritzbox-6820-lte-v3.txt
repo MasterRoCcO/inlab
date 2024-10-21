@@ -1,10 +1,10 @@
-deutschland/recover/FRITZ.Box_6820v3_LTE-07.27-recover.exe came to server 09:00:20 at 12.04.2023
-deutschland/recover/FRITZ.Box_6820v3_LTE-07.29-recover.exe came to server 09:00:38 at 12.04.2023
-deutschland/recover/FRITZ.Box_6820v3_LTE-07.56.exe came to server 12:07:44 at 09.09.2023
-deutschland/recover/FRITZ.Box_6820v3_LTE-07.56-recover.exe came to server 15:50:18 at 30.07.2023
-deutschland/recover/FRITZ.Box_6820v3_LTE-07.57-recover.exe came to server 12:29:28 at 13.09.2023
-other/recover/FRITZ.Box_6820v3_LTE-07.27-recover.exe came to server 09:01:34 at 12.04.2023
-other/recover/FRITZ.Box_6820v3_LTE-07.29-recover.exe came to server 09:01:52 at 12.04.2023
-other/recover/FRITZ.Box_6820v3_LTE-07.56.exe came to server 12:07:49 at 09.09.2023
-other/recover/FRITZ.Box_6820v3_LTE-07.56-recover.exe came to server 15:50:23 at 30.07.2023
-other/recover/FRITZ.Box_6820v3_LTE-07.57-recover.exe came to server 12:29:38 at 13.09.2023
+deutschland/recover/FRITZ.Box_6820v3_LTE-07.27-recover.exe Largest=72.44 MB Server=09:00:20 at 12.04.2023
+deutschland/recover/FRITZ.Box_6820v3_LTE-07.29-recover.exe Largest=72.45 MB Server=09:00:38 at 12.04.2023
+deutschland/recover/FRITZ.Box_6820v3_LTE-07.56.exe Largest=74.86 MB Server=12:07:44 at 09.09.2023
+deutschland/recover/FRITZ.Box_6820v3_LTE-07.56-recover.exe Largest=74.86 MB Server=15:50:18 at 30.07.2023
+deutschland/recover/FRITZ.Box_6820v3_LTE-07.57-recover.exe Largest=74.86 MB Server=12:29:28 at 13.09.2023
+other/recover/FRITZ.Box_6820v3_LTE-07.27-recover.exe Largest=72.44 MB Server=09:01:34 at 12.04.2023
+other/recover/FRITZ.Box_6820v3_LTE-07.29-recover.exe Largest=72.45 MB Server=09:01:52 at 12.04.2023
+other/recover/FRITZ.Box_6820v3_LTE-07.56.exe Largest=74.86 MB Server=12:07:49 at 09.09.2023
+other/recover/FRITZ.Box_6820v3_LTE-07.56-recover.exe Largest=74.86 MB Server=15:50:23 at 30.07.2023
+other/recover/FRITZ.Box_6820v3_LTE-07.57-recover.exe Largest=74.86 MB Server=12:29:38 at 13.09.2023

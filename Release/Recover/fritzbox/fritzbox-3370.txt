@@ -1,26 +1,26 @@
-deutschland/recover/FRITZ.Box_WLAN_3370.06.30.recover-image.exe came to server 08:01:04 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370-06.55.recover.exe came to server 07:58:24 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370-06.56.recover.exe came to server 11:32:08 at 16.09.2023
-deutschland/recover/fritz.box_wlan_3370_103.05.01.recover-image.exe came to server 08:01:23 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.05.02.recover-image.exe came to server 08:01:27 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.05.03.recover-image.exe came to server 08:01:32 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.05.04.recover-image.exe came to server 08:01:36 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.05.05.recover-image.exe came to server 08:01:41 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.05.06.recover-image.exe came to server 08:01:45 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.05.07.recover-image.exe came to server 08:01:49 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.05.08.recover-image.exe came to server 08:01:54 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.05.21.recover-image.exe came to server 08:01:58 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.05.50.recover-image.exe came to server 08:02:03 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.06.01.recover-image.exe came to server 08:02:07 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.06.03.recover-image.exe came to server 08:02:12 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370_103.06.20.recover-image.exe came to server 08:02:17 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370.annexb.06.51.recover-image.exe came to server 08:01:14 at 12.04.2023
-deutschland/recover/fritz.box_wlan_3370.annexb.06.53.recover-image.exe came to server 08:01:18 at 12.04.2023
-deutschland/recover/FRITZ.Box_WLAN_3370.AnnexB.06.54.recover-image.exe came to server 08:01:09 at 12.04.2023
-other/recover/FRITZ.Box_WLAN_3370.AnnexB.en-de-es-it-fr.06.04.recover-image.exe came to server 08:02:39 at 12.04.2023
-other/recover/FRITZ.Box_WLAN_3370.AnnexB.en-de-es-it-fr-pl.06.20.recover-image.exe came to server 08:02:33 at 12.04.2023
-other/recover/FRITZ.Box_WLAN_3370.en-de-es-it-fr.05.51.recover-image.exe came to server 08:02:54 at 12.04.2023
-other/recover/FRITZ.Box_WLAN_3370.en-de-es-it-fr.05.52.recover-image.exe came to server 08:02:59 at 12.04.2023
-other/recover/FRITZ.Box_WLAN_3370.en-de-es-it-fr-pl.06.30.recover-image.exe came to server 08:02:45 at 12.04.2023
-other/recover/FRITZ.Box_WLAN_3370.en-de-es-it-fr-pl.06.52.recover-image.exe came to server 08:02:49 at 12.04.2023
-other/recover/fritz.box_wlan_3370.en-de-es-it-fr-pl.06.54.recover.exe came to server 11:32:36 at 16.09.2023
+deutschland/recover/FRITZ.Box_WLAN_3370.06.30.recover-image.exe Largest=18.98 MB Server=08:01:04 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370-06.55.recover.exe Largest=17.87 MB Server=07:58:24 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370-06.56.recover.exe Largest=17.88 MB Server=11:32:08 at 16.09.2023
+deutschland/recover/fritz.box_wlan_3370_103.05.01.recover-image.exe Largest=16.85 MB Server=08:01:23 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.05.02.recover-image.exe Largest=16.85 MB Server=08:01:27 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.05.03.recover-image.exe Largest=16.85 MB Server=08:01:32 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.05.04.recover-image.exe Largest=16.80 MB Server=08:01:36 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.05.05.recover-image.exe Largest=16.94 MB Server=08:01:41 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.05.06.recover-image.exe Largest=16.27 MB Server=08:01:45 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.05.07.recover-image.exe Largest=16.37 MB Server=08:01:49 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.05.08.recover-image.exe Largest=16.37 MB Server=08:01:54 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.05.21.recover-image.exe Largest=17.31 MB Server=08:01:58 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.05.50.recover-image.exe Largest=17.40 MB Server=08:02:03 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.06.01.recover-image.exe Largest=17.97 MB Server=08:02:07 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.06.03.recover-image.exe Largest=17.97 MB Server=08:02:12 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370_103.06.20.recover-image.exe Largest=19.00 MB Server=08:02:17 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370.annexb.06.51.recover-image.exe Largest=17.75 MB Server=08:01:14 at 12.04.2023
+deutschland/recover/fritz.box_wlan_3370.annexb.06.53.recover-image.exe Largest=17.86 MB Server=08:01:18 at 12.04.2023
+deutschland/recover/FRITZ.Box_WLAN_3370.AnnexB.06.54.recover-image.exe Largest=17.86 MB Server=08:01:09 at 12.04.2023
+other/recover/FRITZ.Box_WLAN_3370.AnnexB.en-de-es-it-fr.06.04.recover-image.exe Largest=18.94 MB Server=08:02:39 at 12.04.2023
+other/recover/FRITZ.Box_WLAN_3370.AnnexB.en-de-es-it-fr-pl.06.20.recover-image.exe Largest=20.26 MB Server=08:02:33 at 12.04.2023
+other/recover/FRITZ.Box_WLAN_3370.en-de-es-it-fr.05.51.recover-image.exe Largest=18.30 MB Server=08:02:54 at 12.04.2023
+other/recover/FRITZ.Box_WLAN_3370.en-de-es-it-fr.05.52.recover-image.exe Largest=18.30 MB Server=08:02:59 at 12.04.2023
+other/recover/FRITZ.Box_WLAN_3370.en-de-es-it-fr-pl.06.30.recover-image.exe Largest=20.27 MB Server=08:02:45 at 12.04.2023
+other/recover/FRITZ.Box_WLAN_3370.en-de-es-it-fr-pl.06.52.recover-image.exe Largest=18.95 MB Server=08:02:49 at 12.04.2023
+other/recover/fritz.box_wlan_3370.en-de-es-it-fr-pl.06.54.recover.exe Largest=18.98 MB Server=11:32:36 at 16.09.2023
