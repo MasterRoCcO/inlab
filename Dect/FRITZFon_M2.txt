@@ -1,4 +1,4 @@
-labor/05.01.04.88.avm.de.upd came to server 16:05:18 at 14.10.2022 created on 14:31:48 at 14.10.2022
-labor1/05.01.04.84.avm.de.upd came to server 22:05:54 at 04.07.2022 created on 16:30:31 at 04.07.2022
-mesh18/05.01.04.26.avm.de.upd came to server 23:09:05 at 24.04.2019 created on 15:53:08 at 24.04.2019
-move21/05.01.04.88.avm.de.upd came to server 14:32:04 at 14.10.2022 created on 14:31:48 at 14.10.2022
+labor/05.01.04.88.avm.de.upd Largest=670.00 KB Server=16:05:18 at 14.10.2022 Created=14:31:48 at 14.10.2022
+labor1/05.01.04.84.avm.de.upd Largest=670.00 KB Server=22:05:54 at 04.07.2022 Created=16:30:31 at 04.07.2022
+mesh18/05.01.04.26.avm.de.upd Largest=660.00 KB Server=23:09:05 at 24.04.2019 Created=15:53:08 at 24.04.2019
+move21/05.01.04.88.avm.de.upd Largest=670.00 KB Server=14:32:04 at 14.10.2022 Created=14:31:48 at 14.10.2022

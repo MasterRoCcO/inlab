@@ -1,2 +1,2 @@
-Labor/34.10.16.16.015.avm.de.upd came to server 18:10:12 at 22.02.2021 created on 15:35:38 at 19.02.2021
-Release/34.10.16.16.015.avm.de.upd came to server 10:46:17 at 22.03.2022 created on 15:35:38 at 19.02.2021
+Labor/34.10.16.16.015.avm.de.upd Largest=530.00 KB Server=18:10:12 at 22.02.2021 Created=15:35:38 at 19.02.2021
+Release/34.10.16.16.015.avm.de.upd Largest=530.00 KB Server=10:46:17 at 22.03.2022 Created=15:35:38 at 19.02.2021

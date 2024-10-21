@@ -1,3 +1,3 @@
-labor/07.03.04.25.avm.de.upd came to server 13:50:37 at 03.05.2022 created on 13:45:40 at 03.05.2022
-move21/07.03.04.25.avm.de.upd came to server 15:38:55 at 06.09.2022 created on 13:45:40 at 03.05.2022
-p15/07.03.03.64.avm.de.upd came to server 13:26:00 at 03.06.2016 created on 19:44:31 at 16.11.2015
+labor/07.03.04.25.avm.de.upd Largest=450.00 KB Server=13:50:37 at 03.05.2022 Created=13:45:40 at 03.05.2022
+move21/07.03.04.25.avm.de.upd Largest=450.00 KB Server=15:38:55 at 06.09.2022 Created=13:45:40 at 03.05.2022
+p15/07.03.03.64.avm.de.upd Largest=430.00 KB Server=13:26:00 at 03.06.2016 Created=19:44:31 at 16.11.2015

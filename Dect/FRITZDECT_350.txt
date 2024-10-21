@@ -1,1 +1,1 @@
-Release/06.13.03.56.avm.de.upd came to server 19:37:54 at 04.12.2023 created on 11:54:32 at 30.11.2023
+Release/06.13.03.56.avm.de.upd Largest=320.00 KB Server=19:37:54 at 04.12.2023 Created=11:54:32 at 30.11.2023
