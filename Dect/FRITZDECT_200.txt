@@ -1,2 +1,3 @@
 c16/07.02.03.87.avm.de.upd Largest=450.00 KB Server=11:59:07 at 06.07.2017 Created=11:55:54 at 06.07.2017
 move21/07.02.04.26.avm.de.upd Largest=460.00 KB Server=16:16:26 at 19.12.2023 Created=15:10:41 at 15.12.2023
+smart24/07.02.04.27.avm.de.upd Largest=460.00 KB Server=16:06:50 at 14.10.2024 Created=16:06:47 at 14.10.2024
