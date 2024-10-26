@@ -1,4 +1,4 @@
-deutschland/recover/FRITZ.Box_4050-07.58-recover.exe Largest=35.10 MB Server=15:24:32 at 16.10.2024
+deutschland/recover/FRITZ.Box_4050-07.58-recover.exe Largest=35.10 MB Server=15:24:32 at 16.10.2024 SHA256=45d3a4e15a6808cc310f6b3d3ed55478f8171b2525398ba73e5bbe476f8a44b1 MD5=be06153e964d0c687365ecbdbed87a56
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-other/recover/FRITZ.Box_4050-07.58-recover.exe Largest=35.10 MB Server=16:32:25 at 16.10.2024
+other/recover/FRITZ.Box_4050-07.58-recover.exe Largest=35.10 MB Server=16:32:25 at 16.10.2024 SHA256=45d3a4e15a6808cc310f6b3d3ed55478f8171b2525398ba73e5bbe476f8a44b1 MD5=be06153e964d0c687365ecbdbed87a56
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

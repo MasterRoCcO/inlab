@@ -1,10 +1,10 @@
-deutschland/recover/FRITZ.Powerline_1240_AX-07.57-Release-recover.exe Largest=22.16 MB Server=15:14:05 at 15.09.2023
+deutschland/recover/FRITZ.Powerline_1240_AX-07.57-Release-recover.exe Largest=22.16 MB Server=15:14:05 at 15.09.2023 SHA256=7f3f4a1fda1f0e85b9b81370e18ba4d45e43b418d473fff188d4ebfe4c5bea8f MD5=ebbbf9599981dc0d02aaca76550062d2
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-deutschland/recover/FRITZ.Powerline_1240_AX-07.58-113257-Release-recover.exe Largest=22.18 MB Server=16:50:15 at 30.05.2024
+deutschland/recover/FRITZ.Powerline_1240_AX-07.58-113257-Release-recover.exe Largest=22.18 MB Server=16:50:15 at 30.05.2024 SHA256=fa8b1203fb11d5fd16220c0b805c83f08c837a8701a3478a76235f342d088984 MD5=89df28593e692d2d8996afa5edeb1aaa
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-deutschland/recover/FRITZ.Powerline_1240_AX-07.58-114298-Release-recover.exe Largest=22.18 MB Server=14:40:03 at 23.07.2024
+deutschland/recover/FRITZ.Powerline_1240_AX-07.58-114298-Release-recover.exe Largest=22.18 MB Server=14:40:03 at 23.07.2024 SHA256=720d569574474c0f92c34ddb4fe2dadff531aea11a8b7b0c3d0a2467b874c65a MD5=04e66e7a8409ca4f8f80921b7333f21e
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-other/recover/FRITZ.Powerline_1240_AX-07.58-113257-Release-recover.exe Largest=22.18 MB Server=16:50:23 at 30.05.2024
+other/recover/FRITZ.Powerline_1240_AX-07.58-113257-Release-recover.exe Largest=22.18 MB Server=16:50:23 at 30.05.2024 SHA256=fa8b1203fb11d5fd16220c0b805c83f08c837a8701a3478a76235f342d088984 MD5=89df28593e692d2d8996afa5edeb1aaa
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-other/recover/FRITZ.Powerline_1240_AX-07.58-114298-Release-recover.exe Largest=22.18 MB Server=14:40:07 at 23.07.2024
+other/recover/FRITZ.Powerline_1240_AX-07.58-114298-Release-recover.exe Largest=22.18 MB Server=14:40:07 at 23.07.2024 SHA256=720d569574474c0f92c34ddb4fe2dadff531aea11a8b7b0c3d0a2467b874c65a MD5=04e66e7a8409ca4f8f80921b7333f21e
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

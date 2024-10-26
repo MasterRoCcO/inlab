@@ -1,22 +1,22 @@
-x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.04.86.recover-image.exe Largest=12.61 MB Server=09:54:29 at 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.04.86.recover-image.exe Largest=12.61 MB Server=09:54:29 at 12.04.2023 SHA256=f29a00ae67cc0b8ac909c53cdef329ed7ea17715205807e527e8da5d8637b353 MD5=4fd5305b13023f232b116b40ef54d59e
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.04.89.recover-image.exe Largest=12.66 MB Server=09:54:32 at 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.04.89.recover-image.exe Largest=12.66 MB Server=09:54:32 at 12.04.2023 SHA256=fd5b093df60a076e2f7eb9a37f46ba9566743876acfc7fb86c9019b77bf36fc7 MD5=a4720941c67d91d5ca72a51917c2fad3
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.05.20.recover-image.exe Largest=14.46 MB Server=09:54:36 at 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.05.20.recover-image.exe Largest=14.46 MB Server=09:54:36 at 12.04.2023 SHA256=94513c226087f3f8a35a722d666d27c7966f0803174422c57c0369804a070b57 MD5=04725d41168ac6053a65bad16998f278
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.05.22.recover-image.exe Largest=14.47 MB Server=09:54:40 at 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.05.22.recover-image.exe Largest=14.47 MB Server=09:54:40 at 12.04.2023 SHA256=c3ebd68f3656623dad7438a93153c01cea409eccd51081677ae5a613e0a853bc MD5=697076c37e47b0a5ecb81deaa87e319c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.05.50.recover-image.exe Largest=14.21 MB Server=09:54:44 at 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.05.50.recover-image.exe Largest=14.21 MB Server=09:54:44 at 12.04.2023 SHA256=3efb45d5c6af7f57a8b8a880a945b145e609062d97d44e5f1b78146e2eee2bde MD5=d5f67c701d65ee14e96217fa5e81bd8c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.05.51.recover-image.exe Largest=14.21 MB Server=09:54:48 at 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.05.51.recover-image.exe Largest=14.21 MB Server=09:54:48 at 12.04.2023 SHA256=6c74d97a24b77f0ce860a874abdd40beecb663c908d86fe8d1f96efdbdb5e815 MD5=489f7a1696bae554cb0f680de9a03b99
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.06.01.recover-image.exe Largest=14.47 MB Server=09:54:51 at 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.06.01.recover-image.exe Largest=14.47 MB Server=09:54:51 at 12.04.2023 SHA256=3c1026d8eefd415acd880a313cf283d88d4675abc519ab20a09096ca4196b267 MD5=8f0e785c388706b9bd14e1e63e44df32
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.06.03.recover-image.exe Largest=14.47 MB Server=09:54:55 at 12.04.2023
+x_misc/deutsch/FRITZ.Box_Fon_WLAN_7320.06.03.recover-image.exe Largest=14.47 MB Server=09:54:55 at 12.04.2023 SHA256=2b71b7f54afa400c225c331946806e18cafaabebd3d0281559886f588a3eb89c MD5=21eaf041faec61509bd18960d140e242
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-x_misc/deutsch/fritz.box_fon_wlan_7320.06.30.recover-image.exe Largest=14.39 MB Server=09:54:59 at 12.04.2023
+x_misc/deutsch/fritz.box_fon_wlan_7320.06.30.recover-image.exe Largest=14.39 MB Server=09:54:59 at 12.04.2023 SHA256=2e0ac2948fa4309ba2566278a0579b0596b836aa6fbe033faa7d43b845c8b4c6 MD5=24f51a5da95003256b34182ae8b8d545
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-x_misc/deutsch/fritz.box_fon_wlan_7320.06.33.recover-image.exe Largest=14.41 MB Server=09:55:03 at 12.04.2023
+x_misc/deutsch/fritz.box_fon_wlan_7320.06.33.recover-image.exe Largest=14.41 MB Server=09:55:03 at 12.04.2023 SHA256=b3f5fa5de9815ab7b31ab208c9229fbb8421c5105f816d5e4ab945486e273d70 MD5=04a692e7f54b81e13c542e79298b8b62
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-x_misc/deutsch/fritz.box_fon_wlan_7320-06.34.recover.exe Largest=14.42 MB Server=09:54:25 at 12.04.2023
+x_misc/deutsch/fritz.box_fon_wlan_7320-06.34.recover.exe Largest=14.42 MB Server=09:54:25 at 12.04.2023 SHA256=68aa2f2bf88aa669d145a095ddd1a9c19fe1e892f1fe57d379864667cf8240fe MD5=f4e2f2df589dd8e8a9b46f8085decd64
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
