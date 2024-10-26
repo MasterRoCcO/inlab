@@ -1,40 +1,40 @@
-source-files-FRITZ.Box_6660_Cable-07.14.tar.gz Largest=615.02 MB Server=16:14:19 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-07.14.tar.gz Largest=615.02 MB Server=16:14:19 at 10.10.2024 SHA256=d5ec71b4bf8507ffa793d48c6c51afed7f80a0d3793395a446b0fcd6a5551d9d MD5=359149bde3ca6ebd4423f023dbe44199
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-07.20.tar.gz Largest=501.87 MB Server=16:14:30 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-07.20.tar.gz Largest=501.87 MB Server=16:14:30 at 10.10.2024 SHA256=018b14d3fa4f36d26eec66b4e9c560f1e9e489af500760fb6d618d018add64bc MD5=ad7b31f21aab80e95295f72c3497d55a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-07.22.tar.gz Largest=502.71 MB Server=16:14:41 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-07.22.tar.gz Largest=502.71 MB Server=16:14:41 at 10.10.2024 SHA256=81a523ff8764955c86a5f55286bf0341e73359d5336220a5da1c326eb3941a81 MD5=46a9885494924213adaa43d754d10814
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-07.23.tar.gz Largest=502.72 MB Server=16:14:57 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-07.23.tar.gz Largest=502.72 MB Server=16:14:57 at 10.10.2024 SHA256=6ac5eb2cc937541d22e33e3c9fcaa27bbcb2f935c9597623942d64afe9e5e34b MD5=b8144d05abf51743370116b90cac44f0
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-07.29.tar.gz Largest=504.82 MB Server=16:15:13 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-07.29.tar.gz Largest=504.82 MB Server=16:15:13 at 10.10.2024 SHA256=730e666b9b5610c9e53fa7daf4e031b52a876a81b80ac71a5fd498963a477485 MD5=74855c2766475a7caba550b547c5f113
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-arm-07.39-95485.tar.gz Largest=548.44 MB Server=16:15:25 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-arm-07.39-95485.tar.gz Largest=548.44 MB Server=16:15:25 at 10.10.2024 SHA256=8cb68b53700d13299d4efe1190da90b3a5409c5f8fbad9d48ee1caf03b0103d1 MD5=a99305b92077dda9b8d07f4087248eec
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-arm-07.39-95784.tar.gz Largest=549.22 MB Server=16:15:30 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-arm-07.39-95784.tar.gz Largest=549.22 MB Server=16:15:30 at 10.10.2024 SHA256=d234c1666858e5d868b496c99df00096a4ed3f52173ead99e7d7e99f308b3829 MD5=8b3ffca146a6f5008a532b54a264fb3d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-armp7-07.50.tar.gz Largest=548.27 MB Server=16:15:54 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-armp7-07.50.tar.gz Largest=548.27 MB Server=16:15:54 at 10.10.2024 SHA256=5344d49c6a779144937e5381a637c2233ac326f46170803cbe9ddcaa075cc386 MD5=33f261526629e885bfa782bd6990c1c2
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-armp7-07.56.tar.gz Largest=548.27 MB Server=16:16:00 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-armp7-07.56.tar.gz Largest=548.27 MB Server=16:16:00 at 10.10.2024 SHA256=e5ac609ca7ba8b639698a40051591ccb403b4a507806935744622bcf89f58e72 MD5=7bb762d683947efc0c5a47a5b490b5f8
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-armp7-08.00.tar.gz Largest=688.35 MB Server=16:16:11 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-armp7-08.00.tar.gz Largest=688.35 MB Server=16:16:11 at 10.10.2024 SHA256=2bcccbc0173002fd3e3ab7e448c125c9c259a3c9356ce1ce723b6b2446b3d0e0 MD5=aac46fe30b63f16ee6c7491697fc36b4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable.atom-07.14.tar.gz Largest=643.74 MB Server=16:14:14 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable.atom-07.14.tar.gz Largest=643.74 MB Server=16:14:14 at 10.10.2024 SHA256=62b8536d43059ab2897c156e3ea260d92f7b9f6b4f5f9b4a77028f6a4aa0847e MD5=bdd5ca05a4601115582661945b261831
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable.atom-07.15.tar.gz.gz Largest=558.67 MB Server=16:14:25 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable.atom-07.15.tar.gz.gz Largest=558.67 MB Server=16:14:25 at 10.10.2024 SHA256=4063c56c4734e6e5f3fef6c59f1a9882ec284af81c41af4ba638be5ef8183b9e MD5=f32fdd3130bceca2e3f4eb90f1353c38
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable.atom-07.20.tar.gz Largest=558.70 MB Server=16:14:46 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable.atom-07.20.tar.gz Largest=558.70 MB Server=16:14:46 at 10.10.2024 SHA256=56b4072749668c0771a2f9f949f8bf3d09d3d24aa51ba2d2f0fc17a8a50a1f67 MD5=71738c87b6abb33f110e34e4d95a3241
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable.atom-07.23.tar.gz Largest=559.56 MB Server=16:14:52 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable.atom-07.23.tar.gz Largest=559.56 MB Server=16:14:52 at 10.10.2024 SHA256=05de65a32d8ba85bbdccf1bc83401308d813894318a6d4e73f8e3d7ffb308424 MD5=682e4256aedc092277664d0dad125b7c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-atom-07.29.tar.gz Largest=562.44 MB Server=16:15:19 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-atom-07.29.tar.gz Largest=562.44 MB Server=16:15:19 at 10.10.2024 SHA256=08ce493caf98797e40beed61e8f72322b2f79be40534649c892951fcaa436276 MD5=2173367a65dc6f6b3d0cb19ce8ea232e
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-atom-07.39-95485.tar.gz Largest=647.83 MB Server=16:15:36 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-atom-07.39-95485.tar.gz Largest=647.83 MB Server=16:15:36 at 10.10.2024 SHA256=f7c9cf695fe4f07290ac8ff8a95d712a90fbcedf2fa22c414d674fb97f775297 MD5=d9cb3d245221e8a603598e92c2671317
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-atom-07.39-95784.tar.gz Largest=648.62 MB Server=16:15:42 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-atom-07.39-95784.tar.gz Largest=648.62 MB Server=16:15:42 at 10.10.2024 SHA256=200721b4c0301060add8da2f75e7ad51f4cecdc72896573cba9ce90f3b20006d MD5=faa2daa81dccd457b44aa57423951905
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-atomp7-07.50.tar.gz Largest=647.67 MB Server=16:15:49 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-atomp7-07.50.tar.gz Largest=647.67 MB Server=16:15:49 at 10.10.2024 SHA256=b339f8ce9e8c65c3b5ed60173cf3d4e626a2b245323d248342022121db432140 MD5=eec2ed61e3c68fcf930eeb373d46e6da
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-atomp7-07.56.tar.gz Largest=647.68 MB Server=16:16:06 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-atomp7-07.56.tar.gz Largest=647.68 MB Server=16:16:06 at 10.10.2024 SHA256=b408976618d3870aa735b1beab76941af3571b60583c6ba2c38b5fd9aa353213 MD5=3235ca62a37a335bb9021aa54a819e0a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6660_Cable-atomp7-08.00.tar.gz Largest=844.08 MB Server=16:16:15 at 10.10.2024
+source-files-FRITZ.Box_6660_Cable-atomp7-08.00.tar.gz Largest=844.08 MB Server=16:16:15 at 10.10.2024 SHA256=17e4eee62c4bcbd0d92c65a85f9d92e7e16366319b915942eae51cddd0a90ec1 MD5=6e8608b934feed76795d39bb6e603b0a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

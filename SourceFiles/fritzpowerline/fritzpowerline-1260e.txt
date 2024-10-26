@@ -1,10 +1,10 @@
-Source 1260E.tar.gz Largest=484.13 MB Server=15:43:34 at 14.12.2021
+Source 1260E.tar.gz Largest=484.13 MB Server=15:43:34 at 14.12.2021 SHA256=5e32cb3fbf2a4f23cca0d880c715db2620fced8f9fe6403bbdd9760a1ec14c0c MD5=0df0ab01d3cf3ab8d75bc829a4882250
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Powerline_1260E-cortexa9-07.29.tar.gz Largest=494.11 MB Server=13:09:19 at 09.12.2022
+source-files-FRITZ.Powerline_1260E-cortexa9-07.29.tar.gz Largest=494.11 MB Server=13:09:19 at 09.12.2022 SHA256=1b9d769218449f0dbf042355fa79c3c3f060895aa83969836f49dd1ea050f84d MD5=da3b713afe8d442a9ef50116b2570169
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Powerline_1260E-cortexa9-07.50.tar.gz Largest=555.98 MB Server=07:35:51 at 16.06.2023
+source-files-FRITZ.Powerline_1260E-cortexa9-07.50.tar.gz Largest=555.98 MB Server=07:35:51 at 16.06.2023 SHA256=35c0dd9b884c066a427661a4e4b78246601df709795ce99478bdc37f11f00fa3 MD5=823e65e90d1b3a91b7d1759c6d6ba86d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Powerline_1260E-cortexa9-07.56.tar.gz Largest=555.99 MB Server=14:33:05 at 14.08.2023
+source-files-FRITZ.Powerline_1260E-cortexa9-07.56.tar.gz Largest=555.99 MB Server=14:33:05 at 14.08.2023 SHA256=58dba216e79e5b8d3f505ef0acb337aa0d8bb1dc06487baaaabbd15c5996ed44 MD5=00c1a3483bdf198729929656e6f85748
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Powerline_1260E-cortexa9-07.58.tar.gz Largest=555.98 MB Server=12:48:06 at 06.06.2024
+source-files-FRITZ.Powerline_1260E-cortexa9-07.58.tar.gz Largest=555.98 MB Server=12:48:06 at 06.06.2024 SHA256=f61cff93775a79e2d5bb1316f57a886ddddea540bfda4b6e14421fbf349ef477 MD5=bd8e6ff3cd3d9fc8e5952d741bb62410
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

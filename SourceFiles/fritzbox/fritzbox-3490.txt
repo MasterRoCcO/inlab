@@ -1,20 +1,20 @@
-FRITZ.Box_Fon_WLAN_3490_source-files.06.20.tar.gz Largest=716.61 MB Server=11:08:44 at 12.08.2021
+FRITZ.Box_Fon_WLAN_3490_source-files.06.20.tar.gz Largest=716.61 MB Server=11:08:44 at 12.08.2021 SHA256=8f8be6d4f878d3d28d3fd36a434771f38c96b93a8ae4c80d371d43b8d27310b8 MD5=89ea76e5a084ea1b66c38f386b0da84d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-FRITZ.Box_Fon_WLAN_3490_source-files.06.31.tar.gz Largest=716.20 MB Server=11:08:38 at 12.08.2021
+FRITZ.Box_Fon_WLAN_3490_source-files.06.31.tar.gz Largest=716.20 MB Server=11:08:38 at 12.08.2021 SHA256=8dc862dd03f94deabeaf292cc42b1b3a010b53ff675a072f2fd91b3de6638fbe MD5=eb86d45c3535ba5f879c10ec6fedbbae
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-FRITZ.Box_Fon_WLAN_3490_source-files.06.51.tar.gz Largest=672.60 MB Server=11:08:32 at 12.08.2021
+FRITZ.Box_Fon_WLAN_3490_source-files.06.51.tar.gz Largest=672.60 MB Server=11:08:32 at 12.08.2021 SHA256=4218e6747c9c231a57befb2ca2c707c74fb8b8ea3f740a5649ccde546b7c574a MD5=1efcbc290aa7df9955eeb2d9e63d4ef7
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-FRITZ.Box_Fon_WLAN_3490_source-files.06.80.tar.gz Largest=665.87 MB Server=11:08:37 at 12.08.2021
+FRITZ.Box_Fon_WLAN_3490_source-files.06.80.tar.gz Largest=665.87 MB Server=11:08:37 at 12.08.2021 SHA256=2641b31d3b1ff9bb8f59f83803daa22ddd0364d1fd1e8b3f154fb188d2041eb4 MD5=f1278a25f9ddfc8e52b9bad65b392af6
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-FRITZ.Box_Fon_WLAN_3490_source-files.06.83.tar.gz Largest=665.86 MB Server=11:08:31 at 12.08.2021
+FRITZ.Box_Fon_WLAN_3490_source-files.06.83.tar.gz Largest=665.86 MB Server=11:08:31 at 12.08.2021 SHA256=bea798f0a17ec805ab9dcd51b40c4ee77c7d3d8f363345c3bbee7f22d8fac246 MD5=38cd726fb86bcb1b667c095da9bcc854
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_3490-07.12.tar.gz Largest=401.57 MB Server=11:08:48 at 12.08.2021
+source-files-FRITZ.Box_3490-07.12.tar.gz Largest=401.57 MB Server=11:08:48 at 12.08.2021 SHA256=b01e2ffb43abf54ad71f5008e7244e26839c54db8981dea6f030064c5e5473cc MD5=c51ba8d62851080b8d28df8767eb690d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_3490-scrpn-07.28.tar.gz Largest=460.33 MB Server=11:08:55 at 12.08.2021
+source-files-FRITZ.Box_3490-scrpn-07.28.tar.gz Largest=460.33 MB Server=11:08:55 at 12.08.2021 SHA256=dfc489ded8dcfd84ce7b8f63e6f5829c51744b51ecde2e2eaec24c94a56c3948 MD5=565a7088447725526a12a19311f6e68f
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_3490-scrpn-07.29.tar.gz Largest=465.15 MB Server=11:09:00 at 12.08.2021
+source-files-FRITZ.Box_3490-scrpn-07.29.tar.gz Largest=465.15 MB Server=11:09:00 at 12.08.2021 SHA256=706facedea6553555faf7e2b10dec80dd70473bf391825e3f8168593d7710af5 MD5=13485b9aa3f23c8f52bf3613c5cdb43f
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_3490-vr9-07.28.tar.gz Largest=438.32 MB Server=11:08:51 at 12.08.2021
+source-files-FRITZ.Box_3490-vr9-07.28.tar.gz Largest=438.32 MB Server=11:08:51 at 12.08.2021 SHA256=580de627426c79d7a856f21078e9719239cc2c5cdd2071a14271b6654ef98934 MD5=8f92bf8831a6d1d43dd21add1478b560
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_3490-vr9-07.29.tar.gz Largest=445.73 MB Server=11:08:58 at 12.08.2021
+source-files-FRITZ.Box_3490-vr9-07.29.tar.gz Largest=445.73 MB Server=11:08:58 at 12.08.2021 SHA256=3df29bb08fead963252986066437e7969f3e54dd412c00ec06ebc8047e1ed8b7 MD5=0f48e00331718344ec214a5bc397facd
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,6 +1,6 @@
-source-files-FRITZ.Repeater_3000_AX-07.41.tar.gz Largest=654.73 MB Server=17:29:55 at 19.06.2023
+source-files-FRITZ.Repeater_3000_AX-07.41.tar.gz Largest=654.73 MB Server=17:29:55 at 19.06.2023 SHA256=a0ac131733f2f4f24d0203c0c2930b1dcc1b5c37ab2d26d082f9c2d6a00d4a4c MD5=1aca8e92b44410feefea8eb708a3285a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Repeater_3000_AX-07.56.tar.gz Largest=654.73 MB Server=15:58:45 at 11.07.2023
+source-files-FRITZ.Repeater_3000_AX-07.56.tar.gz Largest=654.73 MB Server=15:58:45 at 11.07.2023 SHA256=7bb35bb0f6523656a8848901ceaf7ab31a1ec95f00eaad6a1c3765bdce0b2713 MD5=ed29c9146320781c53599476543ad896
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Repeater_3000_AX-07.58.tar.gz Largest=654.75 MB Server=13:51:26 at 30.05.2024
+source-files-FRITZ.Repeater_3000_AX-07.58.tar.gz Largest=654.75 MB Server=13:51:26 at 30.05.2024 SHA256=46c660f874ccdbd4a9378d00752abd2bbaca9aad21f7a4a0717e635b863c3aea MD5=c831e2f468aece32a032c72cd85a66e1
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

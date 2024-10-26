@@ -1,12 +1,12 @@
-source-files-FRITZ.Box_6690_Cable-armp7-07.29.tar.gz Largest=504.81 MB Server=10:01:49 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-armp7-07.29.tar.gz Largest=504.81 MB Server=10:01:49 at 16.06.2023 SHA256=9f9f44039aeb5d52f7bff7843646bba74404ba159c14ebe2b733a43b9f7426ce MD5=b612028002892f12ba34e8e74f044b10
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6690_Cable-armp7-07.50.tar.gz Largest=548.27 MB Server=10:01:58 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-armp7-07.50.tar.gz Largest=548.27 MB Server=10:01:58 at 16.06.2023 SHA256=ffd54c6ede17ad80993ddff218cc9fc2eebe028e94a13c426da847888ba9f68b MD5=13c8eda6727054f1ccc0c813d60ca91d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6690_Cable-armp7-07.56.tar.gz Largest=548.28 MB Server=10:02:06 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-armp7-07.56.tar.gz Largest=548.28 MB Server=10:02:06 at 16.06.2023 SHA256=a1c295f1457d4d8740a6c8d36281b9f06de3bcc63117bfc532c711ab8e40f3b4 MD5=6696075cb6f663297b748cffbf8d0ccc
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6690_Cable-atomp7-07.29.tar.gz Largest=559.36 MB Server=10:01:54 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-atomp7-07.29.tar.gz Largest=559.36 MB Server=10:01:54 at 16.06.2023 SHA256=e3b22a8c2f5536318dfeb96403283d5c0b23988fd601ab13c1de7543ceed208a MD5=9b1add7f1a4cb269f1c76f4bc3825587
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6690_Cable-atomp7-07.50.tar.gz Largest=643.96 MB Server=10:02:03 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-atomp7-07.50.tar.gz Largest=643.96 MB Server=10:02:03 at 16.06.2023 SHA256=fefaba91e9648d2f2aaf9f47836f29700ddd6312165dbfa30cea4e04cb0cb207 MD5=a9e29f1b01ca6b1cf8717f9d2b44614e
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6690_Cable-atomp7-07.56.tar.gz Largest=643.97 MB Server=10:02:09 at 16.06.2023
+source-files-FRITZ.Box_6690_Cable-atomp7-07.56.tar.gz Largest=643.97 MB Server=10:02:09 at 16.06.2023 SHA256=6da71cdcf571594a54bfb78d93595c9f7e8cfd5e1a49fe8590b95e32a1aeb266 MD5=bc66ed6bd8b5a723de50db73bddd7ab2
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,2 +1,2 @@
-source-files-FRITZ.Box_6820_LTE-07.56.tar.gz Largest=535.73 MB Server=14:47:12 at 31.07.2023
+source-files-FRITZ.Box_6820_LTE-07.56.tar.gz Largest=535.73 MB Server=14:47:12 at 31.07.2023 SHA256=ac419fd4de7a3cd2b0ebf0eb797e17db146ed3d93c8dcfa15b3d1758eb7ef49c MD5=eab4d2fc4ad3d13dc1274e3b7d4ca9b6
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

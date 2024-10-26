@@ -1,8 +1,8 @@
-source-files-FRITZ.Repeater_6000-07.30.tar.gz Largest=654.07 MB Server=10:05:51 at 13.07.2023
+source-files-FRITZ.Repeater_6000-07.30.tar.gz Largest=654.07 MB Server=10:05:51 at 13.07.2023 SHA256=c8e14ed9a39bb062ec1eafdb2bbd2eecf1fdab94272e2b083a65402ce31e460c MD5=68d68bd9fb587590b8466393c0797f15
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Repeater_6000-07.56.tar.gz Largest=654.59 MB Server=10:05:55 at 13.07.2023
+source-files-FRITZ.Repeater_6000-07.56.tar.gz Largest=654.59 MB Server=10:05:55 at 13.07.2023 SHA256=4b824544ea930fff303bb1b4951916a56d7d0142a4a1303a37465dc9e0772821 MD5=beeef63ecaaea2ec46ee3b58f0b55744
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Repeater_6000-07.58.tar.gz Largest=654.60 MB Server=13:53:13 at 30.05.2024
+source-files-FRITZ.Repeater_6000-07.58.tar.gz Largest=654.60 MB Server=13:53:13 at 30.05.2024 SHA256=2a0296091cbd303fb93d4a7166e5dd83713dfd71b84cf9c641ff7f239e081278 MD5=a85ec10be66a5e8ea63e7b5fb0209f26
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Repeater_6000-qcaarmv8-07.28.tar.gz Largest=676.31 MB Server=16:47:04 at 01.07.2021
+source-files-FRITZ.Repeater_6000-qcaarmv8-07.28.tar.gz Largest=676.31 MB Server=16:47:04 at 01.07.2021 SHA256=2a9b1afac6689f0db955a6f2f88a19dd9135b13cc4fdfe6e6770b70af29e4c0f MD5=9e2565af28d589f8c565975e5b8f0083
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,24 +1,24 @@
-source-files-FRITZ.Box_5590_Fiber-prxI-07.50.tar.gz Largest=529.55 MB Server=14:31:52 at 26.06.2024
+source-files-FRITZ.Box_5590_Fiber-prxI-07.50.tar.gz Largest=529.55 MB Server=14:31:52 at 26.06.2024 SHA256=9538668b0b7414d41b82784dd1d7d508f66bef1898e0de6489573a90658767b1 MD5=b86cc4dd06b2cc84a7d4ac2d9d9b78c2
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590_Fiber-prxI-07.56.tar.gz Largest=529.54 MB Server=14:32:03 at 26.06.2024
+source-files-FRITZ.Box_5590_Fiber-prxI-07.56.tar.gz Largest=529.54 MB Server=14:32:03 at 26.06.2024 SHA256=f861bc287c14fbc615a8b08e7b752cbf3803e8e2f9b571bf35da7ad78eb7b2aa MD5=3a49bad3a167da963d433e26b37f3dd0
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590_Fiber-prxI-07.80.tar.gz Largest=529.56 MB Server=14:32:07 at 26.06.2024
+source-files-FRITZ.Box_5590_Fiber-prxI-07.80.tar.gz Largest=529.56 MB Server=14:32:07 at 26.06.2024 SHA256=4762a6a517a88555c92cd9bd7e27fcdf95db4e5bdc179b7d3faa3be12cbd0e96 MD5=47d4fe30bccffe2e55629f8dd5e84635
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590_Fiber-prxI-07.81.tar.gz Largest=529.56 MB Server=14:32:20 at 26.06.2024
+source-files-FRITZ.Box_5590_Fiber-prxI-07.81.tar.gz Largest=529.56 MB Server=14:32:20 at 26.06.2024 SHA256=469c3685cac91df9563d7ea793df6578e496754fd48ef0a95b270755d5c1814c MD5=56a7732929589f55c23d282d7b974e8a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590_Fiber-qcaarmv8-07.50.tar.gz Largest=654.98 MB Server=14:31:47 at 26.06.2024
+source-files-FRITZ.Box_5590_Fiber-qcaarmv8-07.50.tar.gz Largest=654.98 MB Server=14:31:47 at 26.06.2024 SHA256=dff64a6477936fee74268939a3dfb6b1b14a693665720eb10167d023f5c6ebe0 MD5=f27ed83f33a779e957626d42a1961121
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590_Fiber-qcaarmv8-07.56.tar.gz Largest=654.96 MB Server=14:31:58 at 26.06.2024
+source-files-FRITZ.Box_5590_Fiber-qcaarmv8-07.56.tar.gz Largest=654.96 MB Server=14:31:58 at 26.06.2024 SHA256=126ba605eab81d33ded1d668403ea488a8cfbc5195acdd1e21dd3cf08aaeb87d MD5=29fde330f67eb5b589dd5d5ecf8ce069
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590_Fiber-qcaarmv8-07.80.tar.gz Largest=654.97 MB Server=14:32:13 at 26.06.2024
+source-files-FRITZ.Box_5590_Fiber-qcaarmv8-07.80.tar.gz Largest=654.97 MB Server=14:32:13 at 26.06.2024 SHA256=70f31f01b90550a5b748fec1be5519eebe075ba75e3d185caed78bf04ae6f8ed MD5=c18ce42278cfc2af245748f6e7d69a00
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590_Fiber-qcaarmv8-07.81.tar.gz Largest=654.98 MB Server=14:32:17 at 26.06.2024
+source-files-FRITZ.Box_5590_Fiber-qcaarmv8-07.81.tar.gz Largest=654.98 MB Server=14:32:17 at 26.06.2024 SHA256=6bdb93b0cff0b655280fd89fe6137ae458a9e0ef5e3d01ea445d36234320bc38 MD5=9c6dee7d44c8b79dc4edd2e85c73f243
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590-prxI-07.29.tar.gz Largest=505.81 MB Server=11:50:02 at 21.04.2023
+source-files-FRITZ.Box_5590-prxI-07.29.tar.gz Largest=505.81 MB Server=11:50:02 at 21.04.2023 SHA256=440f281999c70ae90810aae1a594697b095b4f46a74b3897a116693519515af9 MD5=22fd2297f006c7eef771335182f25340
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590-prxI-07.30.tar.gz Largest=506.61 MB Server=14:31:33 at 26.06.2024
+source-files-FRITZ.Box_5590-prxI-07.30.tar.gz Largest=506.61 MB Server=14:31:33 at 26.06.2024 SHA256=4202ad26dd722e05c3aa2a2abcef4f7c231e50e8c07b1782c28cd79b5f960f2e MD5=2f023c23a1a919cfe4589f00da2b1c97
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590-qcaarmv8-07.29.tar.gz Largest=669.53 MB Server=11:49:58 at 21.04.2023
+source-files-FRITZ.Box_5590-qcaarmv8-07.29.tar.gz Largest=669.53 MB Server=11:49:58 at 21.04.2023 SHA256=e4560fba67a173e9fcc5e5289ab3e5aa5a2d908969229606894b69ed3bb9bebe MD5=a5a58796847e2a15e684129b3bad9c75
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5590-qcaarmv8-07.30.tar.gz Largest=670.44 MB Server=14:31:40 at 26.06.2024
+source-files-FRITZ.Box_5590-qcaarmv8-07.30.tar.gz Largest=670.44 MB Server=14:31:40 at 26.06.2024 SHA256=db99d6ab838f0aa1d9a35d0bca6c18d8956c03d5e2228b0cd916fbcc18454e08 MD5=17d9f8aed57bc1f3132328e9f5ee3a18
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

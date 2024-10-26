@@ -1,36 +1,36 @@
-source-files-FRITZ.Box_6591_Cable-07.04.tar.gz Largest=342.65 MB Server=17:07:52 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-07.04.tar.gz Largest=342.65 MB Server=17:07:52 at 02.10.2024 SHA256=b37cc77370fead69c9a604c61687756738389df4d387ab7fcf0c1ebb214766df MD5=f55d5de270278103fa147b26d061e089
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-07.12.tar.gz Largest=344.10 MB Server=17:07:45 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-07.12.tar.gz Largest=344.10 MB Server=17:07:45 at 02.10.2024 SHA256=86c069a22c51d615728b34d7896fa00805f182fb9184d1442e8c97769a271313 MD5=1635712e710509e3997c6055bacdf590
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-07.13.tar.gz Largest=344.09 MB Server=17:08:00 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-07.13.tar.gz Largest=344.09 MB Server=17:08:00 at 02.10.2024 SHA256=b2e7ef2a7e22fc7e7dd422e36e43a99701e62e15925dc667a5a1d977ec4ad188 MD5=6cb4176d89a424d0c819dbd9d98b11f9
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-07.21.tar.gz Largest=502.71 MB Server=17:08:10 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-07.21.tar.gz Largest=502.71 MB Server=17:08:10 at 02.10.2024 SHA256=928a14272ce23e43bbea4ee30ee30e506436d8ba01633e65ca3088608e29b43a MD5=2bb120efa994b767b0616c7713a92388
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-07.22.tar.gz Largest=502.72 MB Server=17:08:20 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-07.22.tar.gz Largest=502.72 MB Server=17:08:20 at 02.10.2024 SHA256=17213d6eaa97fac37125968548d9f6b5281bdcb8c3818feeb3c5f14996dbe41b MD5=a6d312b50e83899a55b01c6e67d13c14
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-07.29.tar.gz Largest=504.82 MB Server=17:08:35 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-07.29.tar.gz Largest=504.82 MB Server=17:08:35 at 02.10.2024 SHA256=e23013937ac108dfab51749add3acd76cf4cda5086a2feedb845cdabf52368fb MD5=2c0e1cfadf57f8edc3e5b039a07f2a45
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-armp7-07.50.tar.gz Largest=548.27 MB Server=17:08:46 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-armp7-07.50.tar.gz Largest=548.27 MB Server=17:08:46 at 02.10.2024 SHA256=ebe4d6cc431f542dc887b883ee8cc05ae0bfe6c7f49500dcaa62cf73b815f4d3 MD5=69ac4e16933659f0f93ddc544f5ff5e2
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-armp7-07.56.tar.gz Largest=548.27 MB Server=17:08:57 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-armp7-07.56.tar.gz Largest=548.27 MB Server=17:08:57 at 02.10.2024 SHA256=d1523acacb7d2f1c2aa916ef66306015a6f341ed446f68d6c902feae11a94de4 MD5=38ca0a2f309c932844e9e46b21acc14f
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-armp7-08.00.tar.gz Largest=688.33 MB Server=17:09:07 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-armp7-08.00.tar.gz Largest=688.33 MB Server=17:09:07 at 02.10.2024 SHA256=701d0b7b0baefb564bb5527c027a34bfffc9f2bec92b2308badb258606b9926b MD5=dc20a09ade3e8b6452bb4b25635506c6
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable.atom-07.04.tar.gz Largest=378.68 MB Server=17:07:49 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable.atom-07.04.tar.gz Largest=378.68 MB Server=17:07:49 at 02.10.2024 SHA256=b0da65c3e17b8279ac42820cc8f00e0a2ae3fa700604535c4aeea8433ec105ec MD5=478c282d523d2c884029ff66bb7f1e39
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable.atom-07.12.tar.gz Largest=378.74 MB Server=17:07:42 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable.atom-07.12.tar.gz Largest=378.74 MB Server=17:07:42 at 02.10.2024 SHA256=352ffc803df8188bd8990f2dac4129f378dbd9b87fe0d650400fedb7d34024b7 MD5=aa4f13fc8b4701da536af1eea59060ca
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable.atom-07.13.tar.gz Largest=378.75 MB Server=17:07:56 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable.atom-07.13.tar.gz Largest=378.75 MB Server=17:07:56 at 02.10.2024 SHA256=c56f7a578610ee7c3c703d199e88e3bd85d64448033ec60e8bc72e537b1e5616 MD5=decc55f828a29c69b79d57516c6a9a77
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable.atom-07.21.tar.gz Largest=554.35 MB Server=17:08:05 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable.atom-07.21.tar.gz Largest=554.35 MB Server=17:08:05 at 02.10.2024 SHA256=80725ef5abd42b15bc6cf76e68e3b58fe8ee1db3aeba5e3760df54ef78fb6307 MD5=a06af92c88d865ea053fa76a57a03501
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable.atom-07.22.tar.gz Largest=554.35 MB Server=17:08:15 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable.atom-07.22.tar.gz Largest=554.35 MB Server=17:08:15 at 02.10.2024 SHA256=51003ad9e81882fedaf4645562203a569b9d1e3cba3fdfbb719acfe85ccd08e2 MD5=1f5de44df9b5e38b0ecb8b54e7b25e54
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-atom-7-07.29.tar.gz Largest=558.77 MB Server=17:08:40 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-atom-7-07.29.tar.gz Largest=558.77 MB Server=17:08:40 at 02.10.2024 SHA256=073a22737355bdcd2c3b4fa5793685c36af4b7141a0f59c97c5d7420e56e0dbe MD5=45d4505a202fb25b1dc8f83b613801bf
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-atomp7-07.50.tar.gz Largest=643.38 MB Server=17:08:52 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-atomp7-07.50.tar.gz Largest=643.38 MB Server=17:08:52 at 02.10.2024 SHA256=6559092129c1d3af30cc48110486bf01739a838ecd5365eec39785ecc6040a74 MD5=c92d5b400779a984d61fef75ef9f4b21
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-atomp7-07.56.tar.gz Largest=643.37 MB Server=17:09:03 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-atomp7-07.56.tar.gz Largest=643.37 MB Server=17:09:03 at 02.10.2024 SHA256=ab852b24f89b2853e92e81d846140017c137f2af36446489e829f75abc85bd0d MD5=8247a6c86edd1ad33d2f004fcd6adf2e
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6591_Cable-atomp7-08.00.tar.gz Largest=835.78 MB Server=17:09:11 at 02.10.2024
+source-files-FRITZ.Box_6591_Cable-atomp7-08.00.tar.gz Largest=835.78 MB Server=17:09:11 at 02.10.2024 SHA256=32e31ea4e499d6af0231e8ff273c052335e6e5e57754011d637ac0a1081920fb MD5=8bb0e807fadb32c3ed12bfa5b842d478
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
