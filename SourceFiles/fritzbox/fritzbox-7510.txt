@@ -1,8 +1,8 @@
-source-files-FRITZ.Box_7510-07.56.tar.gz Largest=655.14 MB Server=13:22:15 at 26.07.2023 SHA256=2c6a807a126ea4f490a17d9784f955f04414e512f353df77fdeccd4e265aae97 MD5=104ed5e7404f3ee15f0d664c0b5f874e
+source-files-FRITZ.Box_7510-07.56.tar.gz Size=655.14 MB Server=13:22:15 at 26.07.2023 SHA256=2c6a807a126ea4f490a17d9784f955f04414e512f353df77fdeccd4e265aae97 MD5=104ed5e7404f3ee15f0d664c0b5f874e
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7510-maple-07.30.tar.gz Largest=488.47 MB Server=12:00:12 at 29.06.2022 SHA256=5887b2f6af8905d48ee893e1c5b2abc6f8f6367c0c9137f889e03047fb06489d MD5=4f3399712bf9c8a3154176f719545f5b
+source-files-FRITZ.Box_7510-maple-07.30.tar.gz Size=488.47 MB Server=12:00:12 at 29.06.2022 SHA256=5887b2f6af8905d48ee893e1c5b2abc6f8f6367c0c9137f889e03047fb06489d MD5=4f3399712bf9c8a3154176f719545f5b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7510-maple-07.59.tar.gz Largest=655.13 MB Server=16:58:33 at 03.07.2024 SHA256=3eef4c9e3e6e468c7b065e79fd9f7a0b09950e447a48adb1fe9e594bd975793e MD5=77f703e7c40f4e42e2d9b01f74f4e23d
+source-files-FRITZ.Box_7510-maple-07.59.tar.gz Size=655.13 MB Server=16:58:33 at 03.07.2024 SHA256=3eef4c9e3e6e468c7b065e79fd9f7a0b09950e447a48adb1fe9e594bd975793e MD5=77f703e7c40f4e42e2d9b01f74f4e23d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7510-maple-08.00.tar.gz Largest=729.24 MB Server=10:55:02 at 23.10.2024 SHA256=ecc4250bb4214049e36104579f275e5e3e642f938869886a51c6bf8dafcb3ad4 MD5=d2f73cda6552f37b3b21472fc9f71fca
+source-files-FRITZ.Box_7510-maple-08.00.tar.gz Size=729.24 MB Server=10:55:02 at 23.10.2024 SHA256=ecc4250bb4214049e36104579f275e5e3e642f938869886a51c6bf8dafcb3ad4 MD5=d2f73cda6552f37b3b21472fc9f71fca
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

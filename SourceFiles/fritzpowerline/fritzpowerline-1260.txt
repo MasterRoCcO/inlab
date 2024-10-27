@@ -1,8 +1,8 @@
-source-files-FRITZ.Powerline_1260-cortexa9-07.29.tar.gz Largest=494.11 MB Server=13:09:24 at 09.12.2022 SHA256=dcb31d53e1f2ef5f75f823e07dfe527ad67b04f8146d6a8e99a9011d4c75f728 MD5=1544ed354fe488a59e6ec5fa0013dccc
+source-files-FRITZ.Powerline_1260-cortexa9-07.29.tar.gz Size=494.11 MB Server=13:09:24 at 09.12.2022 SHA256=dcb31d53e1f2ef5f75f823e07dfe527ad67b04f8146d6a8e99a9011d4c75f728 MD5=1544ed354fe488a59e6ec5fa0013dccc
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Powerline_1260-cortexa9-07.50.tar.gz Largest=555.99 MB Server=07:35:48 at 16.06.2023 SHA256=2b995bb84d896cfe9f70d0f5693f2d113daa8f2adb25fc384eaa99d367d93c4b MD5=008600c2292039918e959f17c536d370
+source-files-FRITZ.Powerline_1260-cortexa9-07.50.tar.gz Size=555.99 MB Server=07:35:48 at 16.06.2023 SHA256=2b995bb84d896cfe9f70d0f5693f2d113daa8f2adb25fc384eaa99d367d93c4b MD5=008600c2292039918e959f17c536d370
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Powerline_1260-cortexa9-07.56.tar.gz Largest=555.99 MB Server=14:33:21 at 14.08.2023 SHA256=5d172a952739a240f03f7e805b290556e3269f24439746d23f91e4818781383a MD5=f6b137557ca9c003837c6b39bbdb36e8
+source-files-FRITZ.Powerline_1260-cortexa9-07.56.tar.gz Size=555.99 MB Server=14:33:21 at 14.08.2023 SHA256=5d172a952739a240f03f7e805b290556e3269f24439746d23f91e4818781383a MD5=f6b137557ca9c003837c6b39bbdb36e8
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Powerline_1260-cortexa9-07.58.tar.gz Largest=555.98 MB Server=12:48:17 at 06.06.2024 SHA256=6608b770e8e3c336e8d7b15cb10d43a740ae7cadca6f1efea9a3791147997205 MD5=77395491cda2f9ca32f45c08f45bd585
+source-files-FRITZ.Powerline_1260-cortexa9-07.58.tar.gz Size=555.98 MB Server=12:48:17 at 06.06.2024 SHA256=6608b770e8e3c336e8d7b15cb10d43a740ae7cadca6f1efea9a3791147997205 MD5=77395491cda2f9ca32f45c08f45bd585
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

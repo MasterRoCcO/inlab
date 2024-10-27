@@ -1,30 +1,30 @@
-fritzbox-6590-cable-07.20-armp6.tar.gz Largest=432.51 MB Server=15:21:09 at 04.09.2023 SHA256=d27408a4c3b4a6cc1a4c084a74a75d277258e861deb9e9741aacdb9cc0819033 MD5=9329d51c2a4c26ce92a8239a9ff442d6
+fritzbox-6590-cable-07.20-armp6.tar.gz Size=432.51 MB Server=15:21:09 at 04.09.2023 SHA256=d27408a4c3b4a6cc1a4c084a74a75d277258e861deb9e9741aacdb9cc0819033 MD5=9329d51c2a4c26ce92a8239a9ff442d6
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-fritzbox-6590-cable-07.20-x86.tar.gz Largest=406.50 MB Server=15:21:06 at 04.09.2023 SHA256=205366c1223ac211cfe247adf46565786c246cc7466b04b346f8a04219684f10 MD5=aaab7a5fab71e0a8dbce5c7b3df51036
+fritzbox-6590-cable-07.20-x86.tar.gz Size=406.50 MB Server=15:21:06 at 04.09.2023 SHA256=205366c1223ac211cfe247adf46565786c246cc7466b04b346f8a04219684f10 MD5=aaab7a5fab71e0a8dbce5c7b3df51036
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-fritzbox-6590-cable-07.25-armp6.tar.gz Largest=431.70 MB Server=15:21:02 at 04.09.2023 SHA256=3532b5ee453a1127a22aefbb4b2af405ad3f8e3ed53b6979014dee8951396476 MD5=e0e48f7cac4e86c1251d4836ac8ca0f9
+fritzbox-6590-cable-07.25-armp6.tar.gz Size=431.70 MB Server=15:21:02 at 04.09.2023 SHA256=3532b5ee453a1127a22aefbb4b2af405ad3f8e3ed53b6979014dee8951396476 MD5=e0e48f7cac4e86c1251d4836ac8ca0f9
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-fritzbox-6590-cable-07.25-x86.tar.gz Largest=405.79 MB Server=15:20:58 at 04.09.2023 SHA256=6fc962c048b0b4b00137046d898cb42735aedb74b99d1ea19529ce8519b34a6b MD5=d24940294352fae1634f6d15d3845f25
+fritzbox-6590-cable-07.25-x86.tar.gz Size=405.79 MB Server=15:20:58 at 04.09.2023 SHA256=6fc962c048b0b4b00137046d898cb42735aedb74b99d1ea19529ce8519b34a6b MD5=d24940294352fae1634f6d15d3845f25
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable-07.00.tar.gz Largest=351.03 MB Server=15:20:32 at 04.09.2023 SHA256=a193bd9c81e798911dd2d19150c4ef68ebc36e2eac6103608494503980fa3110 MD5=68a65b66c61644780990f9a7fb71211a
+source-files-FRITZ.Box_6590_Cable-07.00.tar.gz Size=351.03 MB Server=15:20:32 at 04.09.2023 SHA256=a193bd9c81e798911dd2d19150c4ef68ebc36e2eac6103608494503980fa3110 MD5=68a65b66c61644780990f9a7fb71211a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable-07.02.tar.gz Largest=351.03 MB Server=15:20:38 at 04.09.2023 SHA256=12f40b02bee19d6d3a2f248b4565ceefa0b466f0b5f267375d3a7fed201919ca MD5=7bc421bfa122be76da83dcaa71aef94c
+source-files-FRITZ.Box_6590_Cable-07.02.tar.gz Size=351.03 MB Server=15:20:38 at 04.09.2023 SHA256=12f40b02bee19d6d3a2f248b4565ceefa0b466f0b5f267375d3a7fed201919ca MD5=7bc421bfa122be76da83dcaa71aef94c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable-07.10.tar.gz Largest=355.39 MB Server=15:20:45 at 04.09.2023 SHA256=41a9b37374829058f77d400905dd3b3152772ab0ee550761f1ea7af74aaf1c1e MD5=565de77fe8b41623e3752f819399beb1
+source-files-FRITZ.Box_6590_Cable-07.10.tar.gz Size=355.39 MB Server=15:20:45 at 04.09.2023 SHA256=41a9b37374829058f77d400905dd3b3152772ab0ee550761f1ea7af74aaf1c1e MD5=565de77fe8b41623e3752f819399beb1
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable-07.12.tar.gz Largest=355.39 MB Server=15:20:51 at 04.09.2023 SHA256=87b02bb290b9939dbe14781e57f9d951fac68d1d4ab86c60820acddf5e5e473f MD5=41c80f4a0e9580c579a26dfe3a2168cc
+source-files-FRITZ.Box_6590_Cable-07.12.tar.gz Size=355.39 MB Server=15:20:51 at 04.09.2023 SHA256=87b02bb290b9939dbe14781e57f9d951fac68d1d4ab86c60820acddf5e5e473f MD5=41c80f4a0e9580c579a26dfe3a2168cc
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable-07.19.tar.gz Largest=432.51 MB Server=15:20:55 at 04.09.2023 SHA256=de89d02b1e854ca93703cb70c3119b78fd99869e493c5d41b35360f5d104998e MD5=53587432365cb6d2fff7fd66bd0fe0b2
+source-files-FRITZ.Box_6590_Cable-07.19.tar.gz Size=432.51 MB Server=15:20:55 at 04.09.2023 SHA256=de89d02b1e854ca93703cb70c3119b78fd99869e493c5d41b35360f5d104998e MD5=53587432365cb6d2fff7fd66bd0fe0b2
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable-armp6-07.56.tar.gz Largest=185.16 MB Server=15:21:13 at 04.09.2023 SHA256=75838d894e7bcdfa12cda4b4312f51825b437027f7d360a5e00c3b6216590736 MD5=ff190faf2530aa65b9793784b69ad1e4
+source-files-FRITZ.Box_6590_Cable-armp6-07.56.tar.gz Size=185.16 MB Server=15:21:13 at 04.09.2023 SHA256=75838d894e7bcdfa12cda4b4312f51825b437027f7d360a5e00c3b6216590736 MD5=ff190faf2530aa65b9793784b69ad1e4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable.atom-07.00.tar.gz Largest=374.48 MB Server=15:20:29 at 04.09.2023 SHA256=a44796b5e055304bf1b15a8cf39ea972e16d99bfb3a75bca4eab324786531a64 MD5=6bb01990b2f9564f76e8c277ca46d728
+source-files-FRITZ.Box_6590_Cable.atom-07.00.tar.gz Size=374.48 MB Server=15:20:29 at 04.09.2023 SHA256=a44796b5e055304bf1b15a8cf39ea972e16d99bfb3a75bca4eab324786531a64 MD5=6bb01990b2f9564f76e8c277ca46d728
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable.atom-07.02.tar.gz Largest=374.50 MB Server=15:20:35 at 04.09.2023 SHA256=8b9327f06dc8e6e95ad86ddf2ebc1185f98eab796acfb714799a78084a861444 MD5=2194d337e313b738bd595412a8b04f45
+source-files-FRITZ.Box_6590_Cable.atom-07.02.tar.gz Size=374.50 MB Server=15:20:35 at 04.09.2023 SHA256=8b9327f06dc8e6e95ad86ddf2ebc1185f98eab796acfb714799a78084a861444 MD5=2194d337e313b738bd595412a8b04f45
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable.atom-07.10.tar.gz Largest=378.82 MB Server=15:20:41 at 04.09.2023 SHA256=ec7056ad55cd53bbc893554b1752c2eb5e5f8e1132237772074b2abf6bacc96a MD5=2ab8a832c4f1831ae789afbcac6a78d2
+source-files-FRITZ.Box_6590_Cable.atom-07.10.tar.gz Size=378.82 MB Server=15:20:41 at 04.09.2023 SHA256=ec7056ad55cd53bbc893554b1752c2eb5e5f8e1132237772074b2abf6bacc96a MD5=2ab8a832c4f1831ae789afbcac6a78d2
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable.atom-07.12.tar.gz Largest=378.83 MB Server=15:20:48 at 04.09.2023 SHA256=2c3c04ad991d6c270846aeb730233d812e85c57d42752c611ee18824e6451301 MD5=a259c153797ca5b7c5858f76b9b9bd9e
+source-files-FRITZ.Box_6590_Cable.atom-07.12.tar.gz Size=378.83 MB Server=15:20:48 at 04.09.2023 SHA256=2c3c04ad991d6c270846aeb730233d812e85c57d42752c611ee18824e6451301 MD5=a259c153797ca5b7c5858f76b9b9bd9e
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6590_Cable-x86-07.56.tar.gz Largest=205.97 MB Server=15:21:11 at 04.09.2023 SHA256=b078623942c44efe07d471854af1a4d1520a9bfd5d49956a2320c6f8325b214a MD5=f4b94c13c8844ae1c32f97deb291e37c
+source-files-FRITZ.Box_6590_Cable-x86-07.56.tar.gz Size=205.97 MB Server=15:21:11 at 04.09.2023 SHA256=b078623942c44efe07d471854af1a4d1520a9bfd5d49956a2320c6f8325b214a MD5=f4b94c13c8844ae1c32f97deb291e37c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,6 +1,6 @@
-fritz_box_7330sl_source_files.05.20.tar.gz Largest=910.36 MB Server=17:59:15 at 30.12.2016 SHA256=29c2345a11085f1d7b107cfd4f4ae1d03ee52b0092fb8acbfe086fffd1aa84a7 MD5=d2e4d435dabbdbbf007f0977fe0fdbd3
+fritz_box_7330sl_source_files.05.20.tar.gz Size=910.36 MB Server=17:59:15 at 30.12.2016 SHA256=29c2345a11085f1d7b107cfd4f4ae1d03ee52b0092fb8acbfe086fffd1aa84a7 MD5=d2e4d435dabbdbbf007f0977fe0fdbd3
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7330_SL.06.01.tar.gz Largest=332.65 MB Server=17:56:30 at 25.04.2014 SHA256=af060e466082519421ea89b3239a2dbecaedea5e23f5904ff840c5eccbdceb71 MD5=bf4973ed9f8729613acf3bb71f57ae1f
+source-files-FRITZ.Box_7330_SL.06.01.tar.gz Size=332.65 MB Server=17:56:30 at 25.04.2014 SHA256=af060e466082519421ea89b3239a2dbecaedea5e23f5904ff840c5eccbdceb71 MD5=bf4973ed9f8729613acf3bb71f57ae1f
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7330_SL - 06.50.tar.gz Largest=447.52 MB Server=14:31:44 at 27.04.2016 SHA256=b90de0a96c34cb6769125b7d47e77348c84ec8d00c34566c188c7925bd7668bc MD5=2f3224682d858561e684225b281bbf88
+source-files-FRITZ.Box_7330_SL - 06.50.tar.gz Size=447.52 MB Server=14:31:44 at 27.04.2016 SHA256=b90de0a96c34cb6769125b7d47e77348c84ec8d00c34566c188c7925bd7668bc MD5=2f3224682d858561e684225b281bbf88
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

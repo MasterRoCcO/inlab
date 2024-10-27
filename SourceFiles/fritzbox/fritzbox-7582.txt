@@ -1,6 +1,6 @@
-source-files-FRITZ.Box_7582-06.83.tar.gz Largest=842.23 MB Server=16:02:00 at 10.11.2017 SHA256=f4676f50ba8dc1ab4bdb95c49077501040996b032ec28e100e12ae5e7b7c1338 MD5=6ec99c11b5621f5455e55cbd0faedff5
+source-files-FRITZ.Box_7582-06.83.tar.gz Size=842.23 MB Server=16:02:00 at 10.11.2017 SHA256=f4676f50ba8dc1ab4bdb95c49077501040996b032ec28e100e12ae5e7b7c1338 MD5=6ec99c11b5621f5455e55cbd0faedff5
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7582-brcma9-07.15.tar.gz Largest=427.81 MB Server=10:19:35 at 21.08.2024 SHA256=a2eaeb87229d4ae05a7cac66b1e2c624b6de8c895f775ae33ae6b2dd8ae6434f MD5=1e9925d98fce6033d59808cce08e528b
+source-files-FRITZ.Box_7582-brcma9-07.15.tar.gz Size=427.81 MB Server=10:19:35 at 21.08.2024 SHA256=a2eaeb87229d4ae05a7cac66b1e2c624b6de8c895f775ae33ae6b2dd8ae6434f MD5=1e9925d98fce6033d59808cce08e528b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7582-brcma9-07.18.tar.gz Largest=427.81 MB Server=10:19:38 at 21.08.2024 SHA256=e54ede5605237251480e3695583b24f40120c76958d4f3b1e30da34071a63fe4 MD5=9df94edf179bad01127dd137e9d050eb
+source-files-FRITZ.Box_7582-brcma9-07.18.tar.gz Size=427.81 MB Server=10:19:38 at 21.08.2024 SHA256=e54ede5605237251480e3695583b24f40120c76958d4f3b1e30da34071a63fe4 MD5=9df94edf179bad01127dd137e9d050eb
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
