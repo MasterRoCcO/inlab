@@ -1,6 +1,6 @@
-source-files-FRITZ.Box_7272-06.20.tar.gz Size=443.71 MB Server=11:23:17 at 17.06.2020 SHA256=9467f32177dadbda6874fab501692fd957900dd8bbc9e7bdeaa0ab80cfda1c90 MD5=2caa197d25e31734d7e1fae9c0cb3168
+osp.avm.de/source-files-FRITZ.Box_7272-06.20.tar.gz Size=443.71 MB Server=11:23:17 at 17.06.2020 SHA256=9467f32177dadbda6874fab501692fd957900dd8bbc9e7bdeaa0ab80cfda1c90 MD5=2caa197d25e31734d7e1fae9c0cb3168
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7272-06.87.tar.gz Size=440.68 MB Server=11:23:20 at 17.06.2020 SHA256=d971d9cead12ab72e3b05d524214c46fca391b828c0a8f15ce7ae10444fda77c MD5=006f8d9d3d073d2f27c90ea416756293
+osp.avm.de/source-files-FRITZ.Box_7272-06.87.tar.gz Size=440.68 MB Server=11:23:20 at 17.06.2020 SHA256=d971d9cead12ab72e3b05d524214c46fca391b828c0a8f15ce7ae10444fda77c MD5=006f8d9d3d073d2f27c90ea416756293
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7272_Labor-06.10.tar.gz Size=443.70 MB Server=14:05:46 at 30.12.2016 SHA256=a165da4cdbca498a8e0f6edab1b715531142e793ce4832ab749cc3753eb26e2a MD5=d346c79f03be2770518bc1d242312813
+osp.avm.de/source-files-FRITZ.Box_7272_Labor-06.10.tar.gz Size=443.70 MB Server=14:05:46 at 30.12.2016 SHA256=a165da4cdbca498a8e0f6edab1b715531142e793ce4832ab749cc3753eb26e2a MD5=d346c79f03be2770518bc1d242312813
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

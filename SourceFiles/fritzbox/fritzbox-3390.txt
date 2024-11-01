@@ -1,8 +1,8 @@
-fritz_box_WLAN_3390_source_files.05.51.tar.gz Size=628.86 MB Server=11:46:54 at 20.03.2013 SHA256=199cc3a32172aad16b2843f5e8029d36a16f511397558db79e51d49510f1501d MD5=e373a30f3c6177b2fe87a3214010cbb7
+osp.avm.de/fritz_box_WLAN_3390_source_files.05.51.tar.gz Size=628.86 MB Server=11:46:54 at 20.03.2013 SHA256=199cc3a32172aad16b2843f5e8029d36a16f511397558db79e51d49510f1501d MD5=e373a30f3c6177b2fe87a3214010cbb7
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-fritz_box_WLAN_3390_source_files.06.01.tar.gz Size=607.31 MB Server=13:27:44 at 13.12.2013 SHA256=d38ccf8306fdd6daf75ed1c34ea4b5d6b69ad7c58091e8af2f104d06285589c4 MD5=b4b48d7966fd3ffbe5dfd0d611c4b142
+osp.avm.de/fritz_box_WLAN_3390_source_files.06.01.tar.gz Size=607.31 MB Server=13:27:44 at 13.12.2013 SHA256=d38ccf8306fdd6daf75ed1c34ea4b5d6b69ad7c58091e8af2f104d06285589c4 MD5=b4b48d7966fd3ffbe5dfd0d611c4b142
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-fritz_box_WLAN_3390_source_files.06.51.tar.gz Size=672.59 MB Server=16:02:47 at 15.06.2016 SHA256=6b4df1d7f755a369739551ba69d52318fdc4e8988b1c8259b40fa6067fa6a9d5 MD5=4f0a66c73af9766e8f97c5629f32daf1
+osp.avm.de/fritz_box_WLAN_3390_source_files.06.51.tar.gz Size=672.59 MB Server=16:02:47 at 15.06.2016 SHA256=6b4df1d7f755a369739551ba69d52318fdc4e8988b1c8259b40fa6067fa6a9d5 MD5=4f0a66c73af9766e8f97c5629f32daf1
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-fritz_box_WLAN_3390_source_files.06.55.tar.gz Size=672.59 MB Server=14:48:57 at 18.06.2020 SHA256=307dc1abf85195c70bb20b971c5385d3544e981fda000e07e8c3456e78621c74 MD5=41efc3fb1f541a5e901a1139f55d9a8b
+osp.avm.de/fritz_box_WLAN_3390_source_files.06.55.tar.gz Size=672.59 MB Server=14:48:57 at 18.06.2020 SHA256=307dc1abf85195c70bb20b971c5385d3544e981fda000e07e8c3456e78621c74 MD5=41efc3fb1f541a5e901a1139f55d9a8b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

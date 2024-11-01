@@ -1,20 +1,20 @@
-source-files-FRITZ.Box_4040-06.83.tar.gz Size=551.64 MB Server=12:27:43 at 23.04.2023 SHA256=fcf8c411568f8d44763e5b923592a9032f02fbb6ac7f829c120de2e35fc632f2 MD5=5c20ce4804e61044f205b67339a479e5
+osp.avm.de/source-files-FRITZ.Box_4040-06.83.tar.gz Size=551.64 MB Server=12:27:43 at 23.04.2023 SHA256=fcf8c411568f8d44763e5b923592a9032f02fbb6ac7f829c120de2e35fc632f2 MD5=5c20ce4804e61044f205b67339a479e5
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4040-07.00.tar.gz Size=418.67 MB Server=14:00:08 at 21.10.2024 SHA256=8fa556b18bb3ef9d4761532acfe796ff672fadafa41affa17b694836d410ccd9 MD5=09ea94cb14182898874b744eef25f327
+osp.avm.de/source-files-FRITZ.Box_4040-07.00.tar.gz Size=418.67 MB Server=14:00:08 at 21.10.2024 SHA256=8fa556b18bb3ef9d4761532acfe796ff672fadafa41affa17b694836d410ccd9 MD5=09ea94cb14182898874b744eef25f327
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4040-07.01.tar.gz Size=418.71 MB Server=14:00:04 at 21.10.2024 SHA256=645a75b459e44066ca563eded21579aabb378892ea23efd752b627ca101cb836 MD5=8d2d10f63eee38edf55c6e2cbc9e793d
+osp.avm.de/source-files-FRITZ.Box_4040-07.01.tar.gz Size=418.71 MB Server=14:00:04 at 21.10.2024 SHA256=645a75b459e44066ca563eded21579aabb378892ea23efd752b627ca101cb836 MD5=8d2d10f63eee38edf55c6e2cbc9e793d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4040-07.10.tar.gz Size=423.87 MB Server=14:00:00 at 21.10.2024 SHA256=93d1f5aa486a78eeece1341bba8ddce1f6eed14abb4705cf29c29d9cecbbb2bf MD5=b5acb733cab74ce0241f90b5b1c4d835
+osp.avm.de/source-files-FRITZ.Box_4040-07.10.tar.gz Size=423.87 MB Server=14:00:00 at 21.10.2024 SHA256=93d1f5aa486a78eeece1341bba8ddce1f6eed14abb4705cf29c29d9cecbbb2bf MD5=b5acb733cab74ce0241f90b5b1c4d835
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4040-07.12.tar.gz Size=423.86 MB Server=13:59:56 at 21.10.2024 SHA256=e520addcffe5448297d8bdefd024a5a8d0dfde9751c1f4c78bb8e1d81d43f50b MD5=ed8b1692cc40b2398f5731c10a17c509
+osp.avm.de/source-files-FRITZ.Box_4040-07.12.tar.gz Size=423.86 MB Server=13:59:56 at 21.10.2024 SHA256=e520addcffe5448297d8bdefd024a5a8d0dfde9751c1f4c78bb8e1d81d43f50b MD5=ed8b1692cc40b2398f5731c10a17c509
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4040-07.14.tar.gz Size=423.89 MB Server=13:59:51 at 21.10.2024 SHA256=7979e70e79c324a5362f49d9b937c2572e67a104b322854b486c0397bb15defe MD5=d91c677950ebac7df2b6cc8fa65dcf3d
+osp.avm.de/source-files-FRITZ.Box_4040-07.14.tar.gz Size=423.89 MB Server=13:59:51 at 21.10.2024 SHA256=7979e70e79c324a5362f49d9b937c2572e67a104b322854b486c0397bb15defe MD5=d91c677950ebac7df2b6cc8fa65dcf3d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4040-07.29.tar.gz Size=494.44 MB Server=14:00:14 at 21.10.2024 SHA256=de5d716371a20f0a7f35176e651d2b84c11b73b0481cbf03ecff0fc37ba6bb07 MD5=0b775705bf5ac34b443560bf6ac24b96
+osp.avm.de/source-files-FRITZ.Box_4040-07.29.tar.gz Size=494.44 MB Server=14:00:14 at 21.10.2024 SHA256=de5d716371a20f0a7f35176e651d2b84c11b73b0481cbf03ecff0fc37ba6bb07 MD5=0b775705bf5ac34b443560bf6ac24b96
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4040-07.56.tar.gz Size=556.37 MB Server=14:00:20 at 21.10.2024 SHA256=57e3cbcdc1f1bb43bd675041c5bad6bccb265dc5bcb1dc995ad252e053e951cd MD5=2a3afc3a38a892d2f06e527a328d0bc5
+osp.avm.de/source-files-FRITZ.Box_4040-07.56.tar.gz Size=556.37 MB Server=14:00:20 at 21.10.2024 SHA256=57e3cbcdc1f1bb43bd675041c5bad6bccb265dc5bcb1dc995ad252e053e951cd MD5=2a3afc3a38a892d2f06e527a328d0bc5
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4040-07.59.tar.gz Size=556.36 MB Server=14:00:25 at 21.10.2024 SHA256=0d4ece702c371e0ff941b5eae5f397003fa5766c01ea2eea617f9a8f04f8ec0e MD5=978cd0e2c0c2987cddc1f44899346947
+osp.avm.de/source-files-FRITZ.Box_4040-07.59.tar.gz Size=556.36 MB Server=14:00:25 at 21.10.2024 SHA256=0d4ece702c371e0ff941b5eae5f397003fa5766c01ea2eea617f9a8f04f8ec0e MD5=978cd0e2c0c2987cddc1f44899346947
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4040-08.00.tar.gz Size=608.09 MB Server=14:00:29 at 21.10.2024 SHA256=a1988ff4ed34a3c0e765de0c3a60ed93a4a83ca671e33b146c2383d008b92fc3 MD5=cc3e83b2d0a0dcc0f7d6f858c4506e9b
+osp.avm.de/source-files-FRITZ.Box_4040-08.00.tar.gz Size=608.09 MB Server=14:00:29 at 21.10.2024 SHA256=a1988ff4ed34a3c0e765de0c3a60ed93a4a83ca671e33b146c2383d008b92fc3 MD5=cc3e83b2d0a0dcc0f7d6f858c4506e9b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

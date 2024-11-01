@@ -1,4 +1,4 @@
-source-files-FRITZ.Box_5690_Pro-alder-07.62.tar.gz Size=603.50 MB Server=11:06:53 at 21.08.2024 SHA256=9b19ae10951afe80379cacce54a1ba73e56a3d6bb9a6f704f9fbfc98dd0874ef MD5=d8258163f5c40c79cb61a8c41e0cf546
+osp.avm.de/source-files-FRITZ.Box_5690_Pro-alder-07.62.tar.gz Size=603.50 MB Server=11:06:53 at 21.08.2024 SHA256=9b19ae10951afe80379cacce54a1ba73e56a3d6bb9a6f704f9fbfc98dd0874ef MD5=d8258163f5c40c79cb61a8c41e0cf546
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_5690_Pro-rtl9601-07.62.tar.gz Size=503.81 MB Server=11:06:57 at 21.08.2024 SHA256=6202c389887593651af4779c4f6433071d70c28f47995cc2fb77086fcbb3c870 MD5=d059645968c4844c86e1ce1c1e9be0fe
+osp.avm.de/source-files-FRITZ.Box_5690_Pro-rtl9601-07.62.tar.gz Size=503.81 MB Server=11:06:57 at 21.08.2024 SHA256=6202c389887593651af4779c4f6433071d70c28f47995cc2fb77086fcbb3c870 MD5=d059645968c4844c86e1ce1c1e9be0fe
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

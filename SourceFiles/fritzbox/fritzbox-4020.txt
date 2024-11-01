@@ -1,16 +1,16 @@
-source-files-FRITZ.Box_4020-06.27.tar.gz Size=339.02 MB Server=12:24:05 at 23.04.2023 SHA256=362fbbdb538f9962e25e000eea33fcc0b04442d177a1260f87fb059a4479be81 MD5=dc092af2be6b973c1538fc95d5ff127c
+osp.avm.de/source-files-FRITZ.Box_4020-06.27.tar.gz Size=339.02 MB Server=12:24:05 at 23.04.2023 SHA256=362fbbdb538f9962e25e000eea33fcc0b04442d177a1260f87fb059a4479be81 MD5=dc092af2be6b973c1538fc95d5ff127c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4020-06.50.tar.gz Size=339.94 MB Server=10:13:02 at 21.08.2024 SHA256=72964ad651657ac5c4752f4e3ca55d72f7feddf6cd63cee50ecaffc6ceace8c9 MD5=19547e6ec6295ce7531d414397629950
+osp.avm.de/source-files-FRITZ.Box_4020-06.50.tar.gz Size=339.94 MB Server=10:13:02 at 21.08.2024 SHA256=72964ad651657ac5c4752f4e3ca55d72f7feddf6cd63cee50ecaffc6ceace8c9 MD5=19547e6ec6295ce7531d414397629950
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4020-06.83.tar.gz Size=339.96 MB Server=15:59:37 at 10.05.2021 SHA256=1206414b2fd93dcca3be083d34f3df8165bd231f10064afbf77acd749d6b184e MD5=c16c3af6aa6b79852e1dc1ab06d6ff0b
+osp.avm.de/source-files-FRITZ.Box_4020-06.83.tar.gz Size=339.96 MB Server=15:59:37 at 10.05.2021 SHA256=1206414b2fd93dcca3be083d34f3df8165bd231f10064afbf77acd749d6b184e MD5=c16c3af6aa6b79852e1dc1ab06d6ff0b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4020-07.01.tar.gz Size=417.01 MB Server=10:12:56 at 21.08.2024 SHA256=10ebc6d0a03cc24b517b4cb0ca01eb7bea429e915919200d4978034532d9cd98 MD5=89eb052ce1ee03f56260c8a5a825e921
+osp.avm.de/source-files-FRITZ.Box_4020-07.01.tar.gz Size=417.01 MB Server=10:12:56 at 21.08.2024 SHA256=10ebc6d0a03cc24b517b4cb0ca01eb7bea429e915919200d4978034532d9cd98 MD5=89eb052ce1ee03f56260c8a5a825e921
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4020-drgfly-06.83.tar.gz Size=339.96 MB Server=12:04:28 at 15.03.2024 SHA256=1206414b2fd93dcca3be083d34f3df8165bd231f10064afbf77acd749d6b184e MD5=c16c3af6aa6b79852e1dc1ab06d6ff0b
+osp.avm.de/source-files-FRITZ.Box_4020-drgfly-06.83.tar.gz Size=339.96 MB Server=12:04:28 at 15.03.2024 SHA256=1206414b2fd93dcca3be083d34f3df8165bd231f10064afbf77acd749d6b184e MD5=c16c3af6aa6b79852e1dc1ab06d6ff0b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4020-drgfly-06.84.tar.gz Size=339.96 MB Server=10:12:59 at 21.08.2024 SHA256=1206414b2fd93dcca3be083d34f3df8165bd231f10064afbf77acd749d6b184e MD5=c16c3af6aa6b79852e1dc1ab06d6ff0b
+osp.avm.de/source-files-FRITZ.Box_4020-drgfly-06.84.tar.gz Size=339.96 MB Server=10:12:59 at 21.08.2024 SHA256=1206414b2fd93dcca3be083d34f3df8165bd231f10064afbf77acd749d6b184e MD5=c16c3af6aa6b79852e1dc1ab06d6ff0b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4020-drgfly-07.02.tar.gz Size=417.00 MB Server=10:12:53 at 21.08.2024 SHA256=80b59055ed8c8915136ce35c9c9654f18340539d0bc3bd7308f5403142930efd MD5=045ed98351dbab05be22560cf1dd333b
+osp.avm.de/source-files-FRITZ.Box_4020-drgfly-07.02.tar.gz Size=417.00 MB Server=10:12:53 at 21.08.2024 SHA256=80b59055ed8c8915136ce35c9c9654f18340539d0bc3bd7308f5403142930efd MD5=045ed98351dbab05be22560cf1dd333b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_4020-drgfly-07.04.tar.gz Size=414.99 MB Server=10:13:04 at 21.08.2024 SHA256=1694b927f676c3abc5a02d1d92ec63eeccc05276d343a9d18b7ca3056eade9bb MD5=2445b49e00e12c9ab2f2476025bdfb46
+osp.avm.de/source-files-FRITZ.Box_4020-drgfly-07.04.tar.gz Size=414.99 MB Server=10:13:04 at 21.08.2024 SHA256=1694b927f676c3abc5a02d1d92ec63eeccc05276d343a9d18b7ca3056eade9bb MD5=2445b49e00e12c9ab2f2476025bdfb46
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-fritzbox7270-source-files-04.76.tar.gz Size=144.56 MB Server=18:26:52 at 14.07.2009 SHA256=c2e52087ae10dd8d8450c28f23bcf133f3c9e6d2b42ecc409df7a4296c77ae26 MD5=25eb7ac03e76de8be89af1c3df76a287
+osp.avm.de/fritzbox7270-source-files-04.76.tar.gz Size=144.56 MB Server=18:26:52 at 14.07.2009 SHA256=c2e52087ae10dd8d8450c28f23bcf133f3c9e6d2b42ecc409df7a4296c77ae26 MD5=25eb7ac03e76de8be89af1c3df76a287
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-fritzbox7270-source-files-04.80.tar.gz Size=145.05 MB Server=15:53:20 at 17.12.2009 SHA256=be9651ed95267bf4e14f45ee5ffaed1fcb1073164f7b69fc7fe73b1cb3aab93f MD5=bcd49b28a54293e1481b8170b07245e0
+osp.avm.de/fritzbox7270-source-files-04.80.tar.gz Size=145.05 MB Server=15:53:20 at 17.12.2009 SHA256=be9651ed95267bf4e14f45ee5ffaed1fcb1073164f7b69fc7fe73b1cb3aab93f MD5=bcd49b28a54293e1481b8170b07245e0
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

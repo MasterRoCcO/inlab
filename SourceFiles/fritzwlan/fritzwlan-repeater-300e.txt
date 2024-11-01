@@ -1,4 +1,4 @@
-fritz_wlan_repeater_300E_source_files.05.10.tar.gz Size=395.51 MB Server=16:41:15 at 29.12.2016 SHA256=0a2f89765eb1b9f333bd55d171a911ae48658cb787bf0ac038202fc53541c442 MD5=09c4e1bfc15bbe224b183a8387935d7c
+osp.avm.de/fritz_wlan_repeater_300E_source_files.05.10.tar.gz Size=395.51 MB Server=16:41:15 at 29.12.2016 SHA256=0a2f89765eb1b9f333bd55d171a911ae48658cb787bf0ac038202fc53541c442 MD5=09c4e1bfc15bbe224b183a8387935d7c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-FRITZ_WLAN_Repeater_300E_source_files.06.30.tar.gz Size=406.59 MB Server=10:47:39 at 01.11.2017 SHA256=2ffb1bbeb82f368722bdad216c9dec098f3a8194b85dd94317de26283771e1d3 MD5=8bcf09f7a7fa272a0e95584e2fc3c480
+osp.avm.de/FRITZ_WLAN_Repeater_300E_source_files.06.30.tar.gz Size=406.59 MB Server=10:47:39 at 01.11.2017 SHA256=2ffb1bbeb82f368722bdad216c9dec098f3a8194b85dd94317de26283771e1d3 MD5=8bcf09f7a7fa272a0e95584e2fc3c480
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

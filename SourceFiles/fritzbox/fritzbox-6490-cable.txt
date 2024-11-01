@@ -1,36 +1,36 @@
-source-files-FRITZ.Box_6490_Cable-06.61.tar.gz Size=532.51 MB Server=13:31:47 at 17.08.2023 SHA256=e314d8423cbb4821376422a741e49468cd41602afa54f6de5a0008811d0026b1 MD5=db632981d4d264839a7c632e0480e6ce
+osp.avm.de/source-files-FRITZ.Box_6490_Cable-06.61.tar.gz Size=532.51 MB Server=13:31:47 at 17.08.2023 SHA256=e314d8423cbb4821376422a741e49468cd41602afa54f6de5a0008811d0026b1 MD5=db632981d4d264839a7c632e0480e6ce
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable-07.01.tar.gz Size=351.03 MB Server=13:31:32 at 17.08.2023 SHA256=0d65a765145faada17efce38595fdc704481008aa663bd769c2bc9c89902d1e9 MD5=c0986090429ac9a744f7dcb55a5c0331
+osp.avm.de/source-files-FRITZ.Box_6490_Cable-07.01.tar.gz Size=351.03 MB Server=13:31:32 at 17.08.2023 SHA256=0d65a765145faada17efce38595fdc704481008aa663bd769c2bc9c89902d1e9 MD5=c0986090429ac9a744f7dcb55a5c0331
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable-07.02.tar.gz Size=351.03 MB Server=13:31:53 at 17.08.2023 SHA256=1dfeae0e349feb21603d7b6bdda427aad9a6841a51314db086ff01a2fba6e74e MD5=ae6449e1631b8760c2645ddf2523bb36
+osp.avm.de/source-files-FRITZ.Box_6490_Cable-07.02.tar.gz Size=351.03 MB Server=13:31:53 at 17.08.2023 SHA256=1dfeae0e349feb21603d7b6bdda427aad9a6841a51314db086ff01a2fba6e74e MD5=ae6449e1631b8760c2645ddf2523bb36
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable-07.10.tar.gz Size=355.39 MB Server=13:32:00 at 17.08.2023 SHA256=b200c4fad864b5612ef6be9b97c3fb2c5b28df2f7d718af73f29cce125cdb0f5 MD5=f6967363aaa4fccb76d73a1b43925a43
+osp.avm.de/source-files-FRITZ.Box_6490_Cable-07.10.tar.gz Size=355.39 MB Server=13:32:00 at 17.08.2023 SHA256=b200c4fad864b5612ef6be9b97c3fb2c5b28df2f7d718af73f29cce125cdb0f5 MD5=f6967363aaa4fccb76d73a1b43925a43
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable-07.12.tar Size=355.55 MB Server=13:32:06 at 17.08.2023 SHA256=545e941e9953efc2b547efc715a8a3a036e0b9089e9ef356ca9b520dbac3bf85 MD5=af526080e0bf0ca4c70edf46fbf14c66
+osp.avm.de/source-files-FRITZ.Box_6490_Cable-07.12.tar Size=355.55 MB Server=13:32:06 at 17.08.2023 SHA256=545e941e9953efc2b547efc715a8a3a036e0b9089e9ef356ca9b520dbac3bf85 MD5=af526080e0bf0ca4c70edf46fbf14c66
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable-07.19.tar.gz Size=432.51 MB Server=13:32:13 at 17.08.2023 SHA256=5dcc95888df1c4b8f038b6b49419c934c8aee0b1368c59e5d24452be23cec600 MD5=e656ea66019cd267c1ce8f31f3b66ed8
+osp.avm.de/source-files-FRITZ.Box_6490_Cable-07.19.tar.gz Size=432.51 MB Server=13:32:13 at 17.08.2023 SHA256=5dcc95888df1c4b8f038b6b49419c934c8aee0b1368c59e5d24452be23cec600 MD5=e656ea66019cd267c1ce8f31f3b66ed8
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable.arm-07.20.tar.gz Size=432.51 MB Server=13:32:20 at 17.08.2023 SHA256=3c3062f3b9c1dad4ef6cbd47eb9b892becc90512524d65c5721d15b1c8445c84 MD5=92baa497635a6e11f1ba2c9e190efd79
+osp.avm.de/source-files-FRITZ.Box_6490_Cable.arm-07.20.tar.gz Size=432.51 MB Server=13:32:20 at 17.08.2023 SHA256=3c3062f3b9c1dad4ef6cbd47eb9b892becc90512524d65c5721d15b1c8445c84 MD5=92baa497635a6e11f1ba2c9e190efd79
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable-armp6-07.29.tar.gz Size=434.34 MB Server=13:32:26 at 17.08.2023 SHA256=b09ace864f0f70cae914ca900245d8c49547d7343d3fcbf234abb56345213684 MD5=ec0b1c282eac04f3a6fc4928ae2e4485
+osp.avm.de/source-files-FRITZ.Box_6490_Cable-armp6-07.29.tar.gz Size=434.34 MB Server=13:32:26 at 17.08.2023 SHA256=b09ace864f0f70cae914ca900245d8c49547d7343d3fcbf234abb56345213684 MD5=ec0b1c282eac04f3a6fc4928ae2e4485
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable-armp6-07.56.tar.gz Size=185.16 MB Server=13:32:28 at 17.08.2023 SHA256=3dc84bf7f36d1d490b66ab527e0ffa16c5931b6850051468d85c116f7af0d857 MD5=527b4083f60261630a3891f6f446ae10
+osp.avm.de/source-files-FRITZ.Box_6490_Cable-armp6-07.56.tar.gz Size=185.16 MB Server=13:32:28 at 17.08.2023 SHA256=3dc84bf7f36d1d490b66ab527e0ffa16c5931b6850051468d85c116f7af0d857 MD5=527b4083f60261630a3891f6f446ae10
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable.atom-06.61.tar.gz Size=717.76 MB Server=13:31:42 at 17.08.2023 SHA256=a3ab9c3bc4f2a9a17e58b1d8ec582d2825a1f8ca757e8913a3ba00ae3d155ea9 MD5=afb80d23c89278e624129b405ecff6c9
+osp.avm.de/source-files-FRITZ.Box_6490_Cable.atom-06.61.tar.gz Size=717.76 MB Server=13:31:42 at 17.08.2023 SHA256=a3ab9c3bc4f2a9a17e58b1d8ec582d2825a1f8ca757e8913a3ba00ae3d155ea9 MD5=afb80d23c89278e624129b405ecff6c9
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable.atom-07.01.tar.gz Size=374.49 MB Server=13:31:35 at 17.08.2023 SHA256=704350e00f178aa3934c8082813a071e841fa825af62145a08de560a2957c76f MD5=8b1c0a0b22c0e01af5caad9a6d351881
+osp.avm.de/source-files-FRITZ.Box_6490_Cable.atom-07.01.tar.gz Size=374.49 MB Server=13:31:35 at 17.08.2023 SHA256=704350e00f178aa3934c8082813a071e841fa825af62145a08de560a2957c76f MD5=8b1c0a0b22c0e01af5caad9a6d351881
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable.atom-07.02.tar.gz Size=374.50 MB Server=13:31:50 at 17.08.2023 SHA256=23ba2a2ce434c594906b2783b8cd2f39a9699e6c0852b503ab0b665e6f30fe82 MD5=6f54eeafdd8704043df72c5d2f8ee4db
+osp.avm.de/source-files-FRITZ.Box_6490_Cable.atom-07.02.tar.gz Size=374.50 MB Server=13:31:50 at 17.08.2023 SHA256=23ba2a2ce434c594906b2783b8cd2f39a9699e6c0852b503ab0b665e6f30fe82 MD5=6f54eeafdd8704043df72c5d2f8ee4db
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable.atom-07.10.tar.gz Size=378.81 MB Server=13:31:56 at 17.08.2023 SHA256=b4a9156cb47adf01941d9c5843cc83987c45046d2fbc3e01aa893d84763bc53e MD5=bae65eb39f735b2495cb864ecc550914
+osp.avm.de/source-files-FRITZ.Box_6490_Cable.atom-07.10.tar.gz Size=378.81 MB Server=13:31:56 at 17.08.2023 SHA256=b4a9156cb47adf01941d9c5843cc83987c45046d2fbc3e01aa893d84763bc53e MD5=bae65eb39f735b2495cb864ecc550914
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable.atom-07.12.tar Size=379.05 MB Server=13:32:03 at 17.08.2023 SHA256=7dffeaa383079f24f6c6a03b25418c77e95ec8e2c4832c4e2c93efea13958e00 MD5=4871eafc2e3d8c438af105fbfe582c26
+osp.avm.de/source-files-FRITZ.Box_6490_Cable.atom-07.12.tar Size=379.05 MB Server=13:32:03 at 17.08.2023 SHA256=7dffeaa383079f24f6c6a03b25418c77e95ec8e2c4832c4e2c93efea13958e00 MD5=4871eafc2e3d8c438af105fbfe582c26
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable.atom-07.19.tar.gz Size=406.81 MB Server=13:32:10 at 17.08.2023 SHA256=a71094d7e43e2b418c3cd7155429cde30e2de36d0c48971196cfd39369935621 MD5=918e6fa4a36d335c9d4f3e6287f3db3a
+osp.avm.de/source-files-FRITZ.Box_6490_Cable.atom-07.19.tar.gz Size=406.81 MB Server=13:32:10 at 17.08.2023 SHA256=a71094d7e43e2b418c3cd7155429cde30e2de36d0c48971196cfd39369935621 MD5=918e6fa4a36d335c9d4f3e6287f3db3a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable.atom-07.20.tar.gz Size=406.50 MB Server=13:32:17 at 17.08.2023 SHA256=8a21c2b0c3e65c4bfdb18fea199dba257381797dde19b63ab32c6b946cafc654 MD5=56fec8c2f6cc7ea912f7242362f92de3
+osp.avm.de/source-files-FRITZ.Box_6490_Cable.atom-07.20.tar.gz Size=406.50 MB Server=13:32:17 at 17.08.2023 SHA256=8a21c2b0c3e65c4bfdb18fea199dba257381797dde19b63ab32c6b946cafc654 MD5=56fec8c2f6cc7ea912f7242362f92de3
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable-x86-07.29.tar.gz Size=408.67 MB Server=13:32:23 at 17.08.2023 SHA256=88d37360069fd1255febe7d203ceb511b7aaed7c0cc5e6a633fa4751a5c51716 MD5=7d79674133895c77069d9a5da67b0b57
+osp.avm.de/source-files-FRITZ.Box_6490_Cable-x86-07.29.tar.gz Size=408.67 MB Server=13:32:23 at 17.08.2023 SHA256=88d37360069fd1255febe7d203ceb511b7aaed7c0cc5e6a633fa4751a5c51716 MD5=7d79674133895c77069d9a5da67b0b57
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_6490_Cable-x86-07.56.tar.gz Size=205.98 MB Server=13:32:27 at 17.08.2023 SHA256=1d7996cfa250dc00bc3497611c97f841ad233fb58d12f3acda353095c1d936d4 MD5=2e7b236b962d64ac4aae3a9c22031a47
+osp.avm.de/source-files-FRITZ.Box_6490_Cable-x86-07.56.tar.gz Size=205.98 MB Server=13:32:27 at 17.08.2023 SHA256=1d7996cfa250dc00bc3497611c97f841ad233fb58d12f3acda353095c1d936d4 MD5=2e7b236b962d64ac4aae3a9c22031a47
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

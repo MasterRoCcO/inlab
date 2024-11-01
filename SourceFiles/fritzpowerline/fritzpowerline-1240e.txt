@@ -1,2 +1,2 @@
-source-files-FRITZ.Powerline_1240E-hbee-07.14.tar.gz Size=415.36 MB Server=13:09:29 at 09.12.2022 SHA256=60fdfcdff67c7b91cad8a5c1041200b9db77f2f6f68cfb3c4db52f2b6b16f787 MD5=d9b57e12217a57df105a751c9479268f
+osp.avm.de/source-files-FRITZ.Powerline_1240E-hbee-07.14.tar.gz Size=415.36 MB Server=13:09:29 at 09.12.2022 SHA256=60fdfcdff67c7b91cad8a5c1041200b9db77f2f6f68cfb3c4db52f2b6b16f787 MD5=d9b57e12217a57df105a751c9479268f
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

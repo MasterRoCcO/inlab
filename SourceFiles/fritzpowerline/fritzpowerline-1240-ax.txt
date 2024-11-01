@@ -1,4 +1,4 @@
-source-files-FRITZ.Powerline_1240_AX-maple_lowmem-07.57.tar.gz Size=647.98 MB Server=12:28:02 at 31.10.2023 SHA256=cf5bb52ceb7682327dfd21c514fd156e60f19c3455d52778048984a5a9e34386 MD5=2bcf25c6728b1fc07c3c148287cdf6f5
+osp.avm.de/source-files-FRITZ.Powerline_1240_AX-maple_lowmem-07.57.tar.gz Size=647.98 MB Server=12:28:02 at 31.10.2023 SHA256=cf5bb52ceb7682327dfd21c514fd156e60f19c3455d52778048984a5a9e34386 MD5=2bcf25c6728b1fc07c3c148287cdf6f5
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Powerline_1240_AX-maple_lowmem-07.58.tar.gz Size=648.02 MB Server=12:48:32 at 06.06.2024 SHA256=997915885254f9f06af141e758f01492988463ce1ab347243d6388c523e9bc23 MD5=6136280d4fcf49ce603e06afadd72831
+osp.avm.de/source-files-FRITZ.Powerline_1240_AX-maple_lowmem-07.58.tar.gz Size=648.02 MB Server=12:48:32 at 06.06.2024 SHA256=997915885254f9f06af141e758f01492988463ce1ab347243d6388c523e9bc23 MD5=6136280d4fcf49ce603e06afadd72831
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

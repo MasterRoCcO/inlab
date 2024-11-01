@@ -1,10 +1,10 @@
-source-files-FRITZ.Box_7530_AX-07.81.tar.gz Size=639.14 MB Server=09:49:20 at 26.09.2024 SHA256=f4b12cbc3319c1465cf4815af25566057f3d06adb72312981fba514539c6daa8 MD5=1cdb472d96e5fa167b6b4197749befb9
+osp.avm.de/source-files-FRITZ.Box_7530_AX-07.81.tar.gz Size=639.14 MB Server=09:49:20 at 26.09.2024 SHA256=f4b12cbc3319c1465cf4815af25566057f3d06adb72312981fba514539c6daa8 MD5=1cdb472d96e5fa167b6b4197749befb9
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7530_AX-brcma9-07.31.tar.gz Size=529.87 MB Server=10:32:52 at 08.04.2022 SHA256=1bca02b212fa640a5e0852ce4ef7409cca16f84414527c6e7c283e5c2cfd53f8 MD5=041cb4ebde7e391df8500eb843fe6dbc
+osp.avm.de/source-files-FRITZ.Box_7530_AX-brcma9-07.31.tar.gz Size=529.87 MB Server=10:32:52 at 08.04.2022 SHA256=1bca02b212fa640a5e0852ce4ef7409cca16f84414527c6e7c283e5c2cfd53f8 MD5=041cb4ebde7e391df8500eb843fe6dbc
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7530_AX-brcma9-07.56.tar.gz Size=639.13 MB Server=09:49:08 at 26.09.2024 SHA256=8935c38242c15f679df26f7359c367e167f5161a420636f2c1d4c8b72d7a6991 MD5=8e6148f9a33d60520e3a844eae124d95
+osp.avm.de/source-files-FRITZ.Box_7530_AX-brcma9-07.56.tar.gz Size=639.13 MB Server=09:49:08 at 26.09.2024 SHA256=8935c38242c15f679df26f7359c367e167f5161a420636f2c1d4c8b72d7a6991 MD5=8e6148f9a33d60520e3a844eae124d95
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7530_AX-brcma9-07.80.tar.gz Size=639.13 MB Server=09:49:14 at 26.09.2024 SHA256=ff4c3b716569cdc8c50cd9c49f5965656a72d86f3db5777103447fe3f16a7677 MD5=e06f6cda5dc555dfc396fdb9412f198b
+osp.avm.de/source-files-FRITZ.Box_7530_AX-brcma9-07.80.tar.gz Size=639.13 MB Server=09:49:14 at 26.09.2024 SHA256=ff4c3b716569cdc8c50cd9c49f5965656a72d86f3db5777103447fe3f16a7677 MD5=e06f6cda5dc555dfc396fdb9412f198b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7530_AX-brcma9-08.00.tar.gz Size=763.19 MB Server=09:49:24 at 26.09.2024 SHA256=c8af9d04a2df87a809c52db21ec3f335479a626b8c389c2eda041042380ff0db MD5=00dd9bc86b641e9c5f8e6510686e1c0c
+osp.avm.de/source-files-FRITZ.Box_7530_AX-brcma9-08.00.tar.gz Size=763.19 MB Server=09:49:24 at 26.09.2024 SHA256=c8af9d04a2df87a809c52db21ec3f335479a626b8c389c2eda041042380ff0db MD5=00dd9bc86b641e9c5f8e6510686e1c0c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

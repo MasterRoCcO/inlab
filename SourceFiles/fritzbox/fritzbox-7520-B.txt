@@ -1,6 +1,6 @@
-source-files-FRITZ.Box_7520_B-07.56.tar.gz Size=556.36 MB Server=18:53:01 at 12.09.2023 SHA256=de7045528fa15737c09675dc306dbe8d901e96bb9c8d85bb4ad4ae655b15b1b4 MD5=ec5019ee66560ebfcac390bf9de0ecb3
+osp.avm.de/source-files-FRITZ.Box_7520_B-07.56.tar.gz Size=556.36 MB Server=18:53:01 at 12.09.2023 SHA256=de7045528fa15737c09675dc306dbe8d901e96bb9c8d85bb4ad4ae655b15b1b4 MD5=ec5019ee66560ebfcac390bf9de0ecb3
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7520_B-cortexa9-07.59.tar.gz Size=556.36 MB Server=16:59:00 at 03.07.2024 SHA256=d1bff0eb01d06c76fd5bb09ea80b3a37ba34eab98e942edf732095d1213dbfaf MD5=7e0831c447c311c861ff26b4e8764528
+osp.avm.de/source-files-FRITZ.Box_7520_B-cortexa9-07.59.tar.gz Size=556.36 MB Server=16:59:00 at 03.07.2024 SHA256=d1bff0eb01d06c76fd5bb09ea80b3a37ba34eab98e942edf732095d1213dbfaf MD5=7e0831c447c311c861ff26b4e8764528
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_7520_B-cortexa9-08.00.tar.gz Size=608.11 MB Server=15:06:53 at 21.10.2024 SHA256=126590ce88a71372abdea7a943f33fcad53184b2344e3d5e7e23252f6680c8d6 MD5=66379db3d7257e23a9446bdb6eb1e488
+osp.avm.de/source-files-FRITZ.Box_7520_B-cortexa9-08.00.tar.gz Size=608.11 MB Server=15:06:53 at 21.10.2024 SHA256=126590ce88a71372abdea7a943f33fcad53184b2344e3d5e7e23252f6680c8d6 MD5=66379db3d7257e23a9446bdb6eb1e488
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

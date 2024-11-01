@@ -1,8 +1,8 @@
-source-files-FRITZ.Repeater_3000-07.27.tar.gz Size=517.84 MB Server=13:06:53 at 21.06.2021 SHA256=0310339dcc6bb635cb208ebf41d656b1fa2deb811bd89942569b0b8dc3f7c0cf MD5=0099b6e7ebd58d94c137dcbc70f7c031
+osp.avm.de/source-files-FRITZ.Repeater_3000-07.27.tar.gz Size=517.84 MB Server=13:06:53 at 21.06.2021 SHA256=0310339dcc6bb635cb208ebf41d656b1fa2deb811bd89942569b0b8dc3f7c0cf MD5=0099b6e7ebd58d94c137dcbc70f7c031
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Repeater_3000-07.50.tar.gz Size=555.98 MB Server=10:51:07 at 13.07.2023 SHA256=36a3732fd9033ca86619acea028305be6e6b8f8052f480a9a3696a7ada4662a6 MD5=9f68252aee3a69154e6f2a085fb8c6d6
+osp.avm.de/source-files-FRITZ.Repeater_3000-07.50.tar.gz Size=555.98 MB Server=10:51:07 at 13.07.2023 SHA256=36a3732fd9033ca86619acea028305be6e6b8f8052f480a9a3696a7ada4662a6 MD5=9f68252aee3a69154e6f2a085fb8c6d6
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Repeater_3000-07.56.tar.gz Size=555.98 MB Server=10:51:10 at 13.07.2023 SHA256=a3208931e97b2b075b376041cbf5ab4f899b2c3b965afbe7bbfd91fd8efb76c7 MD5=f78273552ba4cfc3665727584d4f0791
+osp.avm.de/source-files-FRITZ.Repeater_3000-07.56.tar.gz Size=555.98 MB Server=10:51:10 at 13.07.2023 SHA256=a3208931e97b2b075b376041cbf5ab4f899b2c3b965afbe7bbfd91fd8efb76c7 MD5=f78273552ba4cfc3665727584d4f0791
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Repeater_3000-07.58.tar.gz Size=555.97 MB Server=10:15:34 at 03.06.2024 SHA256=7e64debb4154a3d9d295abad904d02cb2f17c8f07a2d301eddc2812920f0ad3e MD5=5a6b6bdda2c666a20acfca74c247a14e
+osp.avm.de/source-files-FRITZ.Repeater_3000-07.58.tar.gz Size=555.97 MB Server=10:15:34 at 03.06.2024 SHA256=7e64debb4154a3d9d295abad904d02cb2f17c8f07a2d301eddc2812920f0ad3e MD5=5a6b6bdda2c666a20acfca74c247a14e
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

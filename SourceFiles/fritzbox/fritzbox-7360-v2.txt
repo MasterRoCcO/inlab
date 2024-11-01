@@ -1,16 +1,16 @@
-fritzbox7360-source-files-05.20.tar.gz Size=880.48 MB Server=23:34:36 at 30.12.2016 SHA256=b06badb78a79e5558519155b26f660b4dac1bb6dc2c7a455e7b270c8c39d1e92 MD5=47df883c6aba225df06f61a96ce71969
+osp.avm.de/fritzbox7360-source-files-05.20.tar.gz Size=880.48 MB Server=23:34:36 at 30.12.2016 SHA256=b06badb78a79e5558519155b26f660b4dac1bb6dc2c7a455e7b270c8c39d1e92 MD5=47df883c6aba225df06f61a96ce71969
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-fritzbox7360-source-files-05.50.tar.gz Size=333.88 MB Server=23:47:15 at 30.12.2016 SHA256=7389e097bca4775b1a57963e3f9375851cf5b930ed81a16ecd9e0961dbe62f69 MD5=3196aafae138cb576abc3fa19d6db6fe
+osp.avm.de/fritzbox7360-source-files-05.50.tar.gz Size=333.88 MB Server=23:47:15 at 30.12.2016 SHA256=7389e097bca4775b1a57963e3f9375851cf5b930ed81a16ecd9e0961dbe62f69 MD5=3196aafae138cb576abc3fa19d6db6fe
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-fritzbox7360-source-files-05.51.tar.gz Size=333.87 MB Server=23:59:41 at 30.12.2016 SHA256=3f4d9f4e32a8be6aecc77e4426365127e14cc6ef1194877563cfd3f9e16eafa0 MD5=ce0da9e736a44a0e52103830f7bb04a8
+osp.avm.de/fritzbox7360-source-files-05.51.tar.gz Size=333.87 MB Server=23:59:41 at 30.12.2016 SHA256=3f4d9f4e32a8be6aecc77e4426365127e14cc6ef1194877563cfd3f9e16eafa0 MD5=ce0da9e736a44a0e52103830f7bb04a8
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_Fon_WLAN_7360-06.00.tar.gz Size=312.32 MB Server=19:16:13 at 29.12.2016 SHA256=07c8a00bccbd85288e2015882317393ca9b982fc3daf72e36cc30a601c560d4d MD5=ab6c78b50658a95926f42aeda7079600
+osp.avm.de/source-files-FRITZ.Box_Fon_WLAN_7360-06.00.tar.gz Size=312.32 MB Server=19:16:13 at 29.12.2016 SHA256=07c8a00bccbd85288e2015882317393ca9b982fc3daf72e36cc30a601c560d4d MD5=ab6c78b50658a95926f42aeda7079600
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_Fon_WLAN_7360-06.20.tar.gz Size=423.39 MB Server=19:17:41 at 29.12.2016 SHA256=5af7d84910cacbf58409b8afcd6ea110bbe4b69cc2629dea6692621d02b791f0 MD5=f8563c6583237758cdfe248a6fcb9137
+osp.avm.de/source-files-FRITZ.Box_Fon_WLAN_7360-06.20.tar.gz Size=423.39 MB Server=19:17:41 at 29.12.2016 SHA256=5af7d84910cacbf58409b8afcd6ea110bbe4b69cc2629dea6692621d02b791f0 MD5=f8563c6583237758cdfe248a6fcb9137
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_Fon_WLAN_7360-06.50.tar.gz Size=381.67 MB Server=11:21:55 at 17.06.2020 SHA256=12a2c05a241088cf6cc1309ef680a1de637b73acdc0786f23c8d9a98e63c317a MD5=b97d2108eac2d81060358438c0b7dc1d
+osp.avm.de/source-files-FRITZ.Box_Fon_WLAN_7360-06.50.tar.gz Size=381.67 MB Server=11:21:55 at 17.06.2020 SHA256=12a2c05a241088cf6cc1309ef680a1de637b73acdc0786f23c8d9a98e63c317a MD5=b97d2108eac2d81060358438c0b7dc1d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_Fon_WLAN_7360-06.80.tar.gz Size=374.91 MB Server=11:21:53 at 17.06.2020 SHA256=d1af1a4684f03290bb96fce8d6e5fb5ea478cdf1bc2027d87a4bd7ef7172b928 MD5=78da3186e7cc5e5dfae99faf625c746d
+osp.avm.de/source-files-FRITZ.Box_Fon_WLAN_7360-06.80.tar.gz Size=374.91 MB Server=11:21:53 at 17.06.2020 SHA256=d1af1a4684f03290bb96fce8d6e5fb5ea478cdf1bc2027d87a4bd7ef7172b928 MD5=78da3186e7cc5e5dfae99faf625c746d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-source-files-FRITZ.Box_Fon_WLAN_7360-06.86.tar.gz Size=374.92 MB Server=11:21:58 at 17.06.2020 SHA256=829e2453a6427426b374d27a163ebfd87e0b6a336cef276aa5ff0aa9bc7b6d61 MD5=ad54ab22a3dfcd3a168050c927918252
+osp.avm.de/source-files-FRITZ.Box_Fon_WLAN_7360-06.86.tar.gz Size=374.92 MB Server=11:21:58 at 17.06.2020 SHA256=829e2453a6427426b374d27a163ebfd87e0b6a336cef276aa5ff0aa9bc7b6d61 MD5=ad54ab22a3dfcd3a168050c927918252
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
