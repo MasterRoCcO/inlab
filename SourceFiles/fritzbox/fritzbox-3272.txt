@@ -1,4 +1,4 @@
-osp.avm.de/source-files-FRITZ.Box_3272-06.20.tar.gz Size=442.77 MB Server=11:50:25 at 23.04.2023 SHA256=9ab8a6ddc863dd9f46b752dde49055093cbf6978961ebb02eed43aeda978aeed MD5=fd02e0c05526c2b72065221244fe1e9a
+source-files-FRITZ.Box_3272-06.20.tar.gz Size=442.77 MB Server=11:50:25 at 23.04.2023 SHA256=9ab8a6ddc863dd9f46b752dde49055093cbf6978961ebb02eed43aeda978aeed MD5=fd02e0c05526c2b72065221244fe1e9a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_3272-06.86.tar Size=437.43 MB Server=11:48:28 at 23.04.2023 SHA256=d8f247fab1ce47b2c1392a38504c54d21862b8fcba5509a13d55cee9155eb425 MD5=45e0579130f6a15dc96d93a0ea235ac9
+source-files-FRITZ.Box_3272-06.86.tar Size=437.43 MB Server=11:48:28 at 23.04.2023 SHA256=d8f247fab1ce47b2c1392a38504c54d21862b8fcba5509a13d55cee9155eb425 MD5=45e0579130f6a15dc96d93a0ea235ac9
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

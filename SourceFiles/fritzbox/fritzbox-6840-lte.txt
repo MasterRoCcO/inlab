@@ -1,10 +1,10 @@
-osp.avm.de/fritz_box_6840_source_files.05.09.tar.gz Size=280.77 MB Server=12:49:27 at 23.04.2023 SHA256=b76a4982d0f1320c7199ea44bdff682df33f6646f29854acc49ef3f29a53199a MD5=91fdde87be94c648b3f44db2cb6af8d3
+fritz_box_6840_source_files.05.09.tar.gz Size=280.77 MB Server=12:49:27 at 23.04.2023 SHA256=b76a4982d0f1320c7199ea44bdff682df33f6646f29854acc49ef3f29a53199a MD5=91fdde87be94c648b3f44db2cb6af8d3
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/fritz_box_6840_source_files.05.50.tar.gz Size=333.92 MB Server=12:50:48 at 23.04.2023 SHA256=9007b9caf3fbe8cad248b84f5624383db55d6ed0f41e7dd6f10587840a363e1f MD5=81d4eb1d6ec88edf5ddfe6a888a378dc
+fritz_box_6840_source_files.05.50.tar.gz Size=333.92 MB Server=12:50:48 at 23.04.2023 SHA256=9007b9caf3fbe8cad248b84f5624383db55d6ed0f41e7dd6f10587840a363e1f MD5=81d4eb1d6ec88edf5ddfe6a888a378dc
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/fritz_box_6840_source_files.06.01.tar.gz Size=312.39 MB Server=12:52:05 at 23.04.2023 SHA256=a13f5e1afc340c8ce397f80fa7c1b19e63dadc58771136398bd49379c40d3d42 MD5=e62c5d581fa3ebe34294984bef97a095
+fritz_box_6840_source_files.06.01.tar.gz Size=312.39 MB Server=12:52:05 at 23.04.2023 SHA256=a13f5e1afc340c8ce397f80fa7c1b19e63dadc58771136398bd49379c40d3d42 MD5=e62c5d581fa3ebe34294984bef97a095
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/fritz_box_6840_source_files.06.21.tar.gz Size=423.45 MB Server=12:53:48 at 23.04.2023 SHA256=80f479bf82820b632a698eda5fb39fc993093dc9578efec58a658a5124b89d25 MD5=ed0d6f123ff0f698a379633da99e51b2
+fritz_box_6840_source_files.06.21.tar.gz Size=423.45 MB Server=12:53:48 at 23.04.2023 SHA256=80f479bf82820b632a698eda5fb39fc993093dc9578efec58a658a5124b89d25 MD5=ed0d6f123ff0f698a379633da99e51b2
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_6840_LTE-06.85.tar.gz Size=374.96 MB Server=19:47:37 at 12.09.2023 SHA256=dc8d5faa9cc132a4072370996d9506f3239a94ac7792d25b7fa611a4e9660483 MD5=f4e44d5ef2951c62462c70f50fda2cc4
+source-files-FRITZ.Box_6840_LTE-06.85.tar.gz Size=374.96 MB Server=19:47:37 at 12.09.2023 SHA256=dc8d5faa9cc132a4072370996d9506f3239a94ac7792d25b7fa611a4e9660483 MD5=f4e44d5ef2951c62462c70f50fda2cc4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

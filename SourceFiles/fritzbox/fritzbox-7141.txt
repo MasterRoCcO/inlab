@@ -1,4 +1,4 @@
-osp.avm.de/fritzbox7141-source-files-04.15.tar.bz2 Size=43.06 MB Server=15:39:08 at 18.08.2006 SHA256=31f937c9c60ffc1645be6d88abadc2ac18cf34755a7982c71c323c5909b9a58e MD5=98541454b9f0e55b2807fe6ba0e81d77
+fritzbox7141-source-files-04.15.tar.bz2 Size=43.06 MB Server=15:39:08 at 18.08.2006 SHA256=31f937c9c60ffc1645be6d88abadc2ac18cf34755a7982c71c323c5909b9a58e MD5=98541454b9f0e55b2807fe6ba0e81d77
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/fritzbox7141-source-files-04.30.tar.bz2 Size=39.38 MB Server=12:16:06 at 12.04.2007 SHA256=5e9ff01b7e0e51215f3b3b201fdf834b12c7bb32b23b2e3ce88f678f2b80c4d8 MD5=1a43eaf94b7989b8cf8e50b2e50c756c
+fritzbox7141-source-files-04.30.tar.bz2 Size=39.38 MB Server=12:16:06 at 12.04.2007 SHA256=5e9ff01b7e0e51215f3b3b201fdf834b12c7bb32b23b2e3ce88f678f2b80c4d8 MD5=1a43eaf94b7989b8cf8e50b2e50c756c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

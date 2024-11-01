@@ -1,10 +1,10 @@
-osp.avm.de/source-files-FRITZ.Box_Fon_WLAN_7320.04.86.tar.gz Size=295.39 MB Server=16:20:10 at 11.10.2010 SHA256=5643ab02a5432c30776e1fa9183f3fdeb7993adf8ece9c97bbdc5c27298799d0 MD5=0e2ddf32808eb329efc4b486c6de0011
+source-files-FRITZ.Box_Fon_WLAN_7320.04.86.tar.gz Size=295.39 MB Server=16:20:10 at 11.10.2010 SHA256=5643ab02a5432c30776e1fa9183f3fdeb7993adf8ece9c97bbdc5c27298799d0 MD5=0e2ddf32808eb329efc4b486c6de0011
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_Fon_WLAN_7320.05.20.tar.gz Size=910.34 MB Server=15:32:56 at 08.05.2012 SHA256=3d112d91c1a96c40d5947141111348c07e26afea17b8cdc3f43391053eb812cd MD5=496921302b8d0db61ecf985d47db3858
+source-files-FRITZ.Box_Fon_WLAN_7320.05.20.tar.gz Size=910.34 MB Server=15:32:56 at 08.05.2012 SHA256=3d112d91c1a96c40d5947141111348c07e26afea17b8cdc3f43391053eb812cd MD5=496921302b8d0db61ecf985d47db3858
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_Fon_WLAN_7320.05.50.tar.gz Size=354.21 MB Server=14:15:12 at 26.03.2013 SHA256=45a3a2952cc1bbf1af6b87f44949aaf2b7bf2efc69b97c93b3427066526eceb1 MD5=77baed0536872f98795de1366a38d57b
+source-files-FRITZ.Box_Fon_WLAN_7320.05.50.tar.gz Size=354.21 MB Server=14:15:12 at 26.03.2013 SHA256=45a3a2952cc1bbf1af6b87f44949aaf2b7bf2efc69b97c93b3427066526eceb1 MD5=77baed0536872f98795de1366a38d57b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_Fon_WLAN_7320.06.01.tar.gz Size=332.64 MB Server=17:46:38 at 25.04.2014 SHA256=26a1b6613f00f5037efd80ed0e7e27a3f1b2f71545ebf915162f1195476586f7 MD5=34bee37c127b70b2dfbb65390b0a9766
+source-files-FRITZ.Box_Fon_WLAN_7320.06.01.tar.gz Size=332.64 MB Server=17:46:38 at 25.04.2014 SHA256=26a1b6613f00f5037efd80ed0e7e27a3f1b2f71545ebf915162f1195476586f7 MD5=34bee37c127b70b2dfbb65390b0a9766
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_Fon_WLAN_7320.06.30.tar.gz Size=443.23 MB Server=16:52:53 at 21.02.2017 SHA256=e657c98e2682fbcd5ae7662485ae349d4254a1facaf0b761064b5ad11eca9e4b MD5=338ceea42219e62073f1f16387ad302d
+source-files-FRITZ.Box_Fon_WLAN_7320.06.30.tar.gz Size=443.23 MB Server=16:52:53 at 21.02.2017 SHA256=e657c98e2682fbcd5ae7662485ae349d4254a1facaf0b761064b5ad11eca9e4b MD5=338ceea42219e62073f1f16387ad302d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

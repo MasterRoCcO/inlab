@@ -1,8 +1,8 @@
-osp.avm.de/source-files-FRITZ.Box_4060-07.29.tar.gz Size=654.47 MB Server=14:55:38 at 13.06.2024 SHA256=bab43ea9fe1f4c4afcc54fc171c10fdfbfa2a8cc88940e356808dc546bd78ad3 MD5=cacf4fd009ef79e7a71f700bb5fe42c9
+source-files-FRITZ.Box_4060-07.29.tar.gz Size=654.47 MB Server=14:55:38 at 13.06.2024 SHA256=bab43ea9fe1f4c4afcc54fc171c10fdfbfa2a8cc88940e356808dc546bd78ad3 MD5=cacf4fd009ef79e7a71f700bb5fe42c9
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_4060-07.30.tar.gz Size=654.47 MB Server=14:55:44 at 13.06.2024 SHA256=c7f75befda875a8870a4e3d41cbcda2bf6159623ade4bb98b2fb8d10d06c98c1 MD5=e18f4afe463e3c5e00be63ff024fbcb2
+source-files-FRITZ.Box_4060-07.30.tar.gz Size=654.47 MB Server=14:55:44 at 13.06.2024 SHA256=c7f75befda875a8870a4e3d41cbcda2bf6159623ade4bb98b2fb8d10d06c98c1 MD5=e18f4afe463e3c5e00be63ff024fbcb2
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_4060-07.56.tar.gz Size=654.99 MB Server=14:55:50 at 13.06.2024 SHA256=853a8075664a0361bce423272c9ca2cf6536f5d23a8d7b378cfdde6848437c22 MD5=27f1d61a1242bbed47a3269707c9a317
+source-files-FRITZ.Box_4060-07.56.tar.gz Size=654.99 MB Server=14:55:50 at 13.06.2024 SHA256=853a8075664a0361bce423272c9ca2cf6536f5d23a8d7b378cfdde6848437c22 MD5=27f1d61a1242bbed47a3269707c9a317
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_4060-07.59.tar.gz Size=655.00 MB Server=14:55:54 at 13.06.2024 SHA256=e4846ca68624039330ef7fd22156b8b55d5157ed018f11b32866bac286971d60 MD5=9703f735df2692554c8b0e948c9a6044
+source-files-FRITZ.Box_4060-07.59.tar.gz Size=655.00 MB Server=14:55:54 at 13.06.2024 SHA256=e4846ca68624039330ef7fd22156b8b55d5157ed018f11b32866bac286971d60 MD5=9703f735df2692554c8b0e948c9a6044
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

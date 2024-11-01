@@ -1,10 +1,10 @@
-osp.avm.de/source-files-FRITZ.Repeater_1200-07.27.tar.gz Size=517.85 MB Server=14:26:57 at 05.07.2021 SHA256=9d9c14c37d383626aa114c1d2404c0bd1f7549e999cf3171b0c0d1fbf65e54ce MD5=a366da2d8075f227a6f06a0fd10d918c
+source-files-FRITZ.Repeater_1200-07.27.tar.gz Size=517.85 MB Server=14:26:57 at 05.07.2021 SHA256=9d9c14c37d383626aa114c1d2404c0bd1f7549e999cf3171b0c0d1fbf65e54ce MD5=a366da2d8075f227a6f06a0fd10d918c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Repeater_1200-07.50.tar.gz Size=555.98 MB Server=10:56:15 at 13.07.2023 SHA256=00793d06db66e32a1ac17e6dafd4b3fbe71e908f737ed71abb860f2c5d683adb MD5=c4ddefc571dfcd223bf854011a6741a0
+source-files-FRITZ.Repeater_1200-07.50.tar.gz Size=555.98 MB Server=10:56:15 at 13.07.2023 SHA256=00793d06db66e32a1ac17e6dafd4b3fbe71e908f737ed71abb860f2c5d683adb MD5=c4ddefc571dfcd223bf854011a6741a0
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Repeater_1200-07.56.tar.gz Size=555.99 MB Server=10:56:18 at 13.07.2023 SHA256=51cc310ee3ddf73f742d6651f1d85213038d4245e4066485e5f5bbd765bd8b0c MD5=ab0fe4d8625b028fb9189c1ec9b32128
+source-files-FRITZ.Repeater_1200-07.56.tar.gz Size=555.99 MB Server=10:56:18 at 13.07.2023 SHA256=51cc310ee3ddf73f742d6651f1d85213038d4245e4066485e5f5bbd765bd8b0c MD5=ab0fe4d8625b028fb9189c1ec9b32128
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Repeater_1200-07.58.tar.gz Size=555.98 MB Server=10:12:36 at 03.06.2024 SHA256=c558ff3b23a0d736b5b65eae53d6fa28d92bf268ecdcf7914926be6d3703ac7e MD5=8232aff27ffcc4a5d9f776351d1e9b8d
+source-files-FRITZ.Repeater_1200-07.58.tar.gz Size=555.98 MB Server=10:12:36 at 03.06.2024 SHA256=c558ff3b23a0d736b5b65eae53d6fa28d92bf268ecdcf7914926be6d3703ac7e MD5=8232aff27ffcc4a5d9f776351d1e9b8d
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/sources-files-fritzrepeater1200-07.21.tar.gz Size=485.01 MB Server=14:26:54 at 05.07.2021 SHA256=3f703c14ba210f63c73c75214f475e5534e362a0bbeb2c4d30c0cf70cc80f422 MD5=f1da018c349d4cf74bfce666f836e3b7
+sources-files-fritzrepeater1200-07.21.tar.gz Size=485.01 MB Server=14:26:54 at 05.07.2021 SHA256=3f703c14ba210f63c73c75214f475e5534e362a0bbeb2c4d30c0cf70cc80f422 MD5=f1da018c349d4cf74bfce666f836e3b7
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

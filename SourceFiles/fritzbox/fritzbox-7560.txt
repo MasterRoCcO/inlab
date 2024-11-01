@@ -1,8 +1,8 @@
-osp.avm.de/source-files-FRITZ.Box_7560-06.51.tar.gz Size=856.19 MB Server=02:00:00 at 06.10.2016 SHA256=c37c832cf5c372fe28be11cde8801cd22b4b916b0f593f4e391a7996b80f798d MD5=18038b4e3bc9c027421c7856007a8fe4
+source-files-FRITZ.Box_7560-06.51.tar.gz Size=856.19 MB Server=02:00:00 at 06.10.2016 SHA256=c37c832cf5c372fe28be11cde8801cd22b4b916b0f593f4e391a7996b80f798d MD5=18038b4e3bc9c027421c7856007a8fe4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_7560-07.11.tar Size=409.00 MB Server=10:28:37 at 30.05.2022 SHA256=fe4d953c459c1b5587412ef8353a7aea57605ae90409aaf6b61e2e6e3fbf1999 MD5=7cae63c3d7c386cb40c42d8eca6f659c
+source-files-FRITZ.Box_7560-07.11.tar Size=409.00 MB Server=10:28:37 at 30.05.2022 SHA256=fe4d953c459c1b5587412ef8353a7aea57605ae90409aaf6b61e2e6e3fbf1999 MD5=7cae63c3d7c386cb40c42d8eca6f659c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_7560-07.12.tar.gz Size=408.61 MB Server=10:28:41 at 30.05.2022 SHA256=bf0cc823dc18950fe06a0462cbc86bbe386edb40d26527d785dd24e827339593 MD5=062e5991e10d124f030cbeff118be916
+source-files-FRITZ.Box_7560-07.12.tar.gz Size=408.61 MB Server=10:28:41 at 30.05.2022 SHA256=bf0cc823dc18950fe06a0462cbc86bbe386edb40d26527d785dd24e827339593 MD5=062e5991e10d124f030cbeff118be916
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_7560-07.29.tar.gz Size=512.12 MB Server=10:28:44 at 30.05.2022 SHA256=098a6fe93d8b47f175d60bf6336c0ddd970ed3fd385a3d1121fad1d06e078027 MD5=b69afdee18d264c5b374042f28cc095e
+source-files-FRITZ.Box_7560-07.29.tar.gz Size=512.12 MB Server=10:28:44 at 30.05.2022 SHA256=098a6fe93d8b47f175d60bf6336c0ddd970ed3fd385a3d1121fad1d06e078027 MD5=b69afdee18d264c5b374042f28cc095e
 ------------------------------------------------------------------------------------------------------------------------------------------------------------

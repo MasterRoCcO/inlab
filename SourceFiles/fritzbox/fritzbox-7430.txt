@@ -1,6 +1,6 @@
-osp.avm.de/source-files-FRITZ.Box_7430-06.80.tar.gz Size=374.92 MB Server=17:40:38 at 12.04.2017 SHA256=3b19b5cf03fbd081b5eb1fa5ce31982bc438dff75d8755ecdaee6661ab4fcb75 MD5=ed1217992c466427b3b10eb60c4d2e5c
+source-files-FRITZ.Box_7430-06.80.tar.gz Size=374.92 MB Server=17:40:38 at 12.04.2017 SHA256=3b19b5cf03fbd081b5eb1fa5ce31982bc438dff75d8755ecdaee6661ab4fcb75 MD5=ed1217992c466427b3b10eb60c4d2e5c
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_7430-06.83.tar.gz Size=374.92 MB Server=02:00:00 at 26.04.2017 SHA256=4ad551ae193a1a6e1a68526536f2ac9f1f6d8403cbd75bb17e8706c0aebf0eb8 MD5=56d83478f44b05b5e6cddbf1e61b380b
+source-files-FRITZ.Box_7430-06.83.tar.gz Size=374.92 MB Server=02:00:00 at 26.04.2017 SHA256=4ad551ae193a1a6e1a68526536f2ac9f1f6d8403cbd75bb17e8706c0aebf0eb8 MD5=56d83478f44b05b5e6cddbf1e61b380b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-osp.avm.de/source-files-FRITZ.Box_7430-07.27.tar.gz Size=442.24 MB Server=14:57:34 at 17.06.2021 SHA256=a4e85c3b80f5b6ad87b6461475af2245969dfb37060fd59e6db8d821af98cb14 MD5=d535e9253bb108f7129e42b07d4a1401
+source-files-FRITZ.Box_7430-07.27.tar.gz Size=442.24 MB Server=14:57:34 at 17.06.2021 SHA256=a4e85c3b80f5b6ad87b6461475af2245969dfb37060fd59e6db8d821af98cb14 MD5=d535e9253bb108f7129e42b07d4a1401
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
