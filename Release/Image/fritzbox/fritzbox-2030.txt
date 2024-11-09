@@ -1,4 +1,4 @@
-firmware/fritz.box_2030.17.03.92.image Size=1.98 MB Server=07:47:53 at 12.04.2023 Created=17:09:44 at 05.04.2022 KERNEL=2.4.17_mvl21-malta-mips_fp_le SHA256=5ae1fbd0ea7407367b83458959efb6056a6bece9accb11f5525093139a446c74 MD5=b6b9d3e502624f48e199bde2588b8cf6 
+firmware/fritz.box_2030.17.03.92.image Size=1.98 MB Server=07:47:53 at 12.04.2023 Created=17:09:44 at 05.04.2022 KERNEL=2.4.17_mvl21-malta-mips_fp_le SHA256=5ae1fbd0ea7407367b83458959efb6056a6bece9accb11f5525093139a446c74 MD5=b6b9d3e502624f48e199bde2588b8cf6
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-firmware/fritz.box_2030.17.03.93.image Size=1.98 MB Server=07:47:54 at 12.04.2023 Created=17:09:44 at 05.04.2022 KERNEL=2.4.17_mvl21-malta-mips_fp_le SHA256=1be31bf5633b352790b5b500a3f568422cc647942cd37fef92d559232f7c3b2d MD5=ffe5f7022d0ea413736793c848f4cde4 
+firmware/fritz.box_2030.17.03.93.image Size=1.98 MB Server=07:47:54 at 12.04.2023 Created=17:09:44 at 05.04.2022 KERNEL=2.4.17_mvl21-malta-mips_fp_le SHA256=1be31bf5633b352790b5b500a3f568422cc647942cd37fef92d559232f7c3b2d MD5=ffe5f7022d0ea413736793c848f4cde4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
