@@ -1,3 +1,7 @@
+download.avm.de/deutschland/recover/FRITZ.Box_6820_LTE-07.59-recover.exe Size=30.81 MB Server=15:11:24 at 28.11.2024 SHA256=cdc1b1a399ec2d367fb12d2bd9cbb74602fdad65c31765e3a8e7725cbb58c910 MD5=6f4c89177329dcfe761da971295899fe
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+download.avm.de/other/recover/FRITZ.Box_6820_LTE-07.59-recover.exe Size=30.81 MB Server=15:11:26 at 28.11.2024 SHA256=cdc1b1a399ec2d367fb12d2bd9cbb74602fdad65c31765e3a8e7725cbb58c910 MD5=6f4c89177329dcfe761da971295899fe
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 deutschland/recover/fritz.box_6820v2_lte-07.12-recover.exe Size=27.14 MB Server=08:58:16 at 12.04.2023 Created=12:27:17 at 28.04.2006 SHA256=cf5e107278d6a37ea02edad0c92f1e7bb789bf34083e0ff51f669498e323464f MD5=30d5b1bfb9ee5449abe9e8d9428cfb49
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 deutschland/recover/fritz.box_6820v2_lte-07.13-recover.exe Size=27.15 MB Server=08:58:24 at 12.04.2023 Created=12:27:17 at 28.04.2006 SHA256=0f33e62f2b2d812af0935dec72bad3ebcf3effc14fe23856a3b46c93ed2758f4 MD5=8dc326d8a7c1fa51ff9720a854383f13
