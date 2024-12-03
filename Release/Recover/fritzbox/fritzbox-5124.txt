@@ -1,0 +1,4 @@
+download.avm.de/x_misc/english/annex_a/FRITZ.Box_Fon_5124.AnnexA.en.04.77.recover-image.exe Size=5.83 MB Server=08:23:37 at 12.04.2023 Created=16:19:55 at 23.02.2022 GCC=5.5.0 KERNEL=4.1.52 SHA256=03d55f8ba57dac2be47378a762ea204859e090c1be4def287310c0d006413b8a MD5=c65ba53c3500c0cfedb1f91f0eb4fa76
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+download.avm.de/x_misc/english/annex_b/FRITZ.Box_Fon_5124.AnnexB.en.04.77.recover-image.exe Size=5.79 MB Server=08:23:39 at 12.04.2023 Created=16:19:55 at 23.02.2022 GCC=5.5.0 KERNEL=4.1.52 SHA256=f119dacf5958031e9a8315e1aeb39208b64dd512c59ab3a8bf1a330db61e9140 MD5=647a27869190480876d55dd1fd86fd99
+------------------------------------------------------------------------------------------------------------------------------------------------------------
