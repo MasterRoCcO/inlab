@@ -1,2 +1,2 @@
-firmware/deutsch/FRITZ.Box_7360.111.05.50_EWE.image Size=15.99 MB Server=10:01:25 at 12.04.2023 Created=10:33:07 at 07.09.2020 SHA256=8d6f00f7e090711a2606e5bedfefee4b70de74e0fcdec92f19d7cfcd15ca19a3 MD5=2a78ec6006bc0abbaccabae5b796603a
+firmware/deutsch/FRITZ.Box_7360.111.05.50_EWE.image Size=15.99 MB Server=10:01:25 at 12.04.2023 Created=10:33:07 at 07.09.2020 OpenSSL=0.9.8l (from 5 Nov 2009) GCC=4.6.3 KERNEL=2.6.32.41 SHA256=8d6f00f7e090711a2606e5bedfefee4b70de74e0fcdec92f19d7cfcd15ca19a3 MD5=2a78ec6006bc0abbaccabae5b796603a
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
